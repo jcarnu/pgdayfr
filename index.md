@@ -32,8 +32,11 @@ Cette année, le PG Day France franchit les frontières et vous invite à Mons, 
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 
+<!--
 <center>
 <h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
+</center>
+-->
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
@@ -41,7 +44,7 @@ Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
   </div>
 </div>
 -->
-</center>
+
 
 <hr/>
 
@@ -62,8 +65,11 @@ So, if you are an expert in a field related to open-source databases, have used 
 Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
 Stay tuned for more details and the opening of registrations.
 
+<!--
 <center>
 <h3><a href='/appel'>Call for Paper is open!</a></h3>
+</center>
+-->
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
@@ -71,7 +77,6 @@ Stay tuned for more details and the opening of registrations.
   </div>
 </div>
 -->
-</center>
 
 <hr/>
 <br/>
