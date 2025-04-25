@@ -150,12 +150,11 @@ layout: default
   <h3>Grande soirée ouverte à tous·tes et incluse dans le prix de votre billet.</h3>
   <p>A deux pas du lieu de l'événement, tous les participant·e·s, sponsors et orateurs·rices se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
   <p>Lieu de Rendez-vous : <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
-  <p>Cette soirée est sponsorisée par <div class="col-xs-12 col-md-4"><a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></div></p>
   <br/>
   <h3>Community reception included in the price of your ticket.</h3>
   <p>Just a stone's throw from the event venue, all participants, sponsors, and speakers are invited to gather for a vibrant evening of connection and sharing over a standing dinner reception.</p>
   <p>Location: <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
-  <p>This event is sponsored by <div class="col-xs-12 col-md-4"><a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></div></p>
+  <br/>Sponsored by <div class="col-xs-12 col-md-4"><a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></div>
   </div>
 </div>
 
