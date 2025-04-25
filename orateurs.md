@@ -3,231 +3,140 @@ title: Orateurs
 layout: default
 ---
 
-# Oratrices & Orateurs
+# Speakers
 
-<div class="row pg_speaker" id="s_fercot">
+<div class="row pg_speaker" id="l_durieux">
   <div class="col-md-2">
-  <img src="img/orateurs/s_fercot.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_durieux.png" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Stefan Fercot</h3>
-  <span class="role">Data Egret</span>
+  <h3>Laura Durieux</h3>
+  <span class="role">Fullstack dev & streamer</span>
   <p>
-  En tant qu'Expert PostgreSQL, Stefan apporte à Data Egret près de 15 ans d'expertise dans le domaine des bases de données, avec une vaste expérience en support et conseil client. Il est actif au sein de la communauté et fait notamment partie des contributeurs de pgBackRest.
+  Laura Durieux, développeuse passionnée avec plus de six ans d'expérience, est diplômée de la Haute École Albert Jacquard en Web Design et Développement. En tant que freelance, elle crée des outils, des sites web et intervient en tant que consultante dans le domaine médical. Double médaillée d'or aux WorldSkills Belgium et d'une Médaille d'Excellence à l'EuroSkills 2021, elle s'est également formée à Tokyo, où elle a développé le site web de Tabasco Japan en 2020. Depuis 2023, Laura partage son expertise sur Twitch, a animé « On est pas des iencli » sur la RTBF, et donne des conférences à travers l'Europe sur la tech et les contributions des femmes dans l'histoire de l'informatique.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Démystifier les sauvegardes incrémentales dans l'écosystème PostgreSQL</a>
+    <a href='/programme'>Keynote : Où sont passées les femmes de l'histoire de la tech?</a>
   </p>
   </div>
 </div>
 
-
-<div class="row pg_speaker" id="cedric_villemain">
+<div class="row pg_speaker" id="k_jex">
   <div class="col-md-2">
-  <img src="img/orateurs/c_villemain_2.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Cédric Villemain</h3>
-  <span class="role">Expert PostgreSQL chez Data Bene</span>
+  <h3>Karen Jex</h3>
+  <span class="role">Crunchy Data</span>
   <p>
-    Intéressé par les problématiques de Haute-Disponibilité et de qualité de service, Cédric contribue aux différents projets qu'il utilise et promeut.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Le sharding sans complexité</a>
-  </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="j_grauer">
-  <div class="col-md-2">
-  <img src="img/orateurs/j_grauer.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Jérémie	Grauer</h3>
-  <span class="role">NeoX-IT</span>
-  <p>
-  Sysadmin Linux chevronné, Jérémie utilise et torture PostgreSQL depuis 2012.
-Responsable Infrastructure chez Cosium, hébergeur et éditeur de logiciels. Il supervise l'ensemble du stack technique : du choix des composants des serveurs aux réglages des middlewares et des logiciels métiers.
-  </p>
-  </div>
-</div>
-
-
-<div class="row pg_speaker" id="d_clochard">
-  <div class="col-md-2">
-    <img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Damien	Clochard</h3>
-  <span class="role">DALIBO</span>
-  <p>
-    Damien Clochard est actif au sein de la communauté PostgreSQL à différents niveaux, notamment en tant que vice-président de l'association PostgreSQLFr et développeur principal du projet PostgreSQL Anonymizer. Il est Product Owner chez DALIBO, une société qu'il a co-fondé en 2005.
+  Karen est Senior Solutions Architect chez Crunchy Data, après avoir passé 20 ans en tant que DBA. Elle donne des conférences sur les bases de données, et elle est membre du bureau PostgreSQL Europe et fondatrice du groupe de travail sur la diversité de PostgreSQL Europe.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Développer une extension Postgres en Rust</a>
+    <a href='/programme'>Postgres sur Kubernetes pour le DBA réticent</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="s_schildknecht">
+<div class="row pg_speaker" id="g_lelarge">
   <div class="col-md-2">
-    <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_lelarge.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Stéphane Schildknecht</h3>
-  <span class="role">LOXODATA</span>
+  <h3>Guillaume Lelarge</h3>
+  <span class="role">Dalibo</span>
   <p>
-Stéphane Schildknecht a contribué à la fondation de l'association PostgreSQLFr, qu'il a présidé de 2005 à 2010.
-DBA certifié PostgreSQL, consultant en bases de données pendant 20 ans, il a fondé LOXODATA en 2010.
-Stéphane est contact régional PostgreSQL pour l'Europe francophone.
+  Contributeur majeur de la communauté PostgreSQL, traducteur du manuel et des applications, consultant Dalibo depuis 2007, et auteur de "PostgreSQL - Architecture et notions avancées" ainsi que de nombreux articles sur Linux Pratique.
   </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="f_jardin">
-  <div class="col-md-2">
-    <img src="img/orateurs/f_jardin.png" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Florent	Jardin</h3>
-  <span class="role">DALIBO</span>
   <p>
-    Je suis originaire de Lille et j'y travaille depuis chez moi en tant que consultant
-pour Dalibo, une société coopérative qui œuvre à la promotion et l'amélioration de
-l'écosystème de PostgreSQL au quotidien.
+    Présentation:
+    <a href='/programme'>Tout savoir sur max_connections</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="j_waddle">
+<div class="row pg_speaker" id="g_yildirim">
   <div class="col-md-2">
-    <img src="img/orateurs/j_waddle.jpeg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Julien	WADDLE</h3>
-  <span class="role">Camptocamp</span>
-  <p>Cartographe puis géomaticien je suis tombé dans le monde OpenSource en 2012.
-Fan de Python, QGIS et du SQL, j'adore trouver des solutions efficaces pour simplifier les processus liés aux données utilisées dans la cartographie.
+  <h3>Gülçin Yıldırım Jelinek</h3>
+  <span class="role">Xata</span>
+  <p>
+  Gülçin has worked professionally with Postgres since 2012, actively contributing through events, talks, and community involvement. She’s a Staff Database Engineer at Xata, co-founder of Kadin Yazilimci, and organizes the Prague PostgreSQL Meetup, advocating for diversity and inclusion in tech.
   </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="j_acroute">
-  <div class="col-md-2">
-    <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Julien Acroute</h3>
-  <span class="role">Camptocamp</span>
-  <p>Je suis passionné par l'open source et en particulier par PostgreSQL. J'ai écrit et animé des formations sur Kubernetes, Docker, PostgreSQL, et sur la conception d'applications ""cloud native"". Le développement et l'audit composent le reste de mon activité.
-On a tous besoin d'un PostgreSQL !
+  <p>
+    Session:
+    <a href='/programme'>Anatomy of Table-Level Locks in PostgreSQL</a>
   </p>
   </div>
 </div>
 
 <div class="row pg_speaker" id="l_nardi">
   <div class="col-md-2">
-    <img src="img/orateurs/l_nardi.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_nardi.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Luigi Nardi</h3>
-  <span class="role">dbtune</span>
+  <span class="role">DBtune</span>
   <p>
-Luigi Nardi est le fondateur et PDG de DBtune (www.dbtune.com), une entreprise leader dans le domaine de l'IA, des systèmes de bases de données et du cloud computing. Auparavant, Luigi était professeur en apprentissage automatique à Lund University et chercheur à Stanford University. L'expertise de Luigi se concentre sur la théorie et la pratique de l'optimisation de systèmes complexes. Le parcours de Luigi comprend un post-doctorat à l'Imperial College London et un poste d'ingénieur logiciel chez Murex S.A.S., après son doctorat en mathématiques appliquées à l'Université Pierre et Marie Curie à Paris en 2011.
-  </p>
-  </div>
-</div>
-
-<!--
-
-<div class="row pg_speaker" id="sarah_haim_lubczanski">
-  <div class="col-md-2">
-  <img src="img/orateurs/s_haim_lubczanski.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Sarah Haïm-Lubczanski</h3>
-  <span class="role">Documentation Architect chez Bedrock Streaming</span>
-  <p>
-  Documentation Architect après avoir été formatrice, puis développeuse, j'ai toujours préféré le contact des informaticien-ne-s spécialistes à celui du grand public, et cela a bien fonctionné car je m'occupe de documentation.
+  Dr. Luigi Nardi is the founder and CEO of DBtune, a leading company driving advancements in AI, database systems, and cloud computing. Previously a professor of AI at Lund and a research staff at Stanford, Luigi is a public speaker having co-authored more than 50 peer-reviewed papers.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Améliorons ensemble la documentation</a>
+    <a href='/programme'>Réglage automatisé de PostgreSQL : Explorer l'optimisation des paramètres serveur</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="sebastien_sire">
+<div class="row pg_speaker" id="f_coelho">
   <div class="col-md-2">
-  <img src="img/orateurs/s_sire.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_coelho.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Sébastien Sire</h3>
-  <span class="role">Consultant chez EDB</span>
+  <h3>Fabien Coelho</h3>
+  <span class="role">Mines Paris - PSL</span>
   <p>
-  Je travaille depuis 25 ans sur différents sujets liés aux bases de données : développement, conception, modélisation, migration et administration. Après avoir exercé sur la majorité des moteurs du marché, j'ai rejoint EDB en 2022 pour me consacrer pleinement à PostgreSQL.
+  Professeur en informatique, j'enseigne les bases de données auprès d'un public d'ingénieur généraliste avec Postgres. Je contribue occasionnellement à son développement depuis plus de 20 ans, en particulier sur les questions de performance (pgbench, checkpointer) et d'utilisabilité (psql, debug).
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Les différentes fonctionnalités de sécurité dans Postgres</a>
+    <a href='/programme'>Comment se débarrasser de Full Page Write ?</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="Yohann Martin">
+<div class="row pg_speaker" id="l_leinweber">
   <div class="col-md-2">
-  <img src="img/orateurs/y_martin.png" class="img-thumbnail" alt="">
-  <img src="img/orateurs/c_paillier.jpg" class="img-thumbnail" alt="">
-  <img src="img/orateurs/l_augereau.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_leinweber.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Yohann Martin, Clément Paillier et Ludovic Augereau</h3>
-  <span class="role">Experts base de données chez MAIF</span>
+  <h3>Louise Leinweber</h3>
+  <span class="role">Crunchy Data</span>
   <p>
-  Membre actif du PGGTIE depuis 2006, nous pratiquons PostgreSQL depuis la version 9.0.
+  Ingénieure à Crunchy data dans l’équipe de crunchy bridge, je travaille avec et pour les utilisateurs de Postgres depuis cinq ans déjà. Avant cela j’étais à citus data, et avant cela, jadis, j’utilisais déjà Postgres car c’est la meilleure base de données.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Automatisation « IaaS » du déploiement et du MCO de PostgreSQL pour la MAIF avec Ansible</a>
+    <a href='/programme'>Voyage au centre des statistiques dans postgres</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="matthieu_cornillon">
+<div class="row pg_speaker" id="n_mallet">
   <div class="col-md-2">
-  <img src="img/orateurs/m_cornillon.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/n_mallet.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Matthieu Cornillon</h3>
-  <span class="role">Aiven</span>
+  <h3>Naeva Mallet</h3>
+  <span class="role">Leboncoin</span>
   <p>
-    Amoureux des bases de données depuis toujours, Postgres et l'Open Source ont une place particulière dans mon cœur. Après 7 années à travailler chez ADEO en tant que Tech Lead, j'accompagne aujourd'hui les entreprises qui font le choix de l'Open Source avec Aiven.
+  Initialement développeuse Backend en Go principalement, je me suis reconverti en Ingénieur Infrastructure depuis 3 ans. Je travaille en tant que DBA/Devops dans l'automatisation et la gestion des bases de données PostgreSQL <3.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>De la feuille à l'éléphant</a>
+    <a href='/programme'>Comment déplacer une base Postgres avec zéro downtime ?</a>
   </p>
   </div>
 </div>
-
-<div class="row pg_speaker" id="pierre_alexandre_voye">
-  <div class="col-md-2">
-  <img src="img/orateurs/pa_voye.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Pierre-Alexandre Voye</h3>
-  <span class="role">Consultant chez Green Software Solutions</span>
-  <p>
-  Programmeur depuis mon enfance et utilisateur invétéré de PostgreSQL depuis 2005, je suis ingénieur R&D, développeur et actuellement consultant PostgreSQL pour projet d'envergure pour le compte de la DGFIP.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Moteur de Recherche Plein Texte Sémantique en PostgreSQL </a>
-  </p>
-  </div>
-</div>
-§
--->
