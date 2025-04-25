@@ -98,7 +98,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/g_lelarge.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_lelarge.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Tout savoir sur max_connections</h3>
