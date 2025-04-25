@@ -8,7 +8,7 @@ layout: default
 </center>
 
 <center>
-<img src="img/pgday_2025_bandeau_temporaire.png" alt="Mons Belgique" class="img-responsive"/>
+<img src="img/pgday_2025_bandeau_final.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
 
 <!--
@@ -37,13 +37,12 @@ Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 <h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
 </center>
 -->
-<!--
+
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
   </div>
 </div>
--->
 
 <hr/>
 
@@ -69,13 +68,12 @@ Stay tuned for more details and the opening of registrations.
 <h3><a href='/appel'>Call for Paper is open!</a></h3>
 </center>
 -->
-<!--
+
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Schedule available!</a>
   </div>
 </div>
--->
 
 <hr/>
 <br/>
