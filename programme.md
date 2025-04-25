@@ -154,7 +154,7 @@ layout: default
   <h3>Community reception included in the price of your ticket.</h3>
   <p>Just a stone's throw from the event venue, all participants, sponsors, and speakers are invited to gather for a vibrant evening of connection and sharing over a standing dinner reception.</p>
   <p>Location: <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
-  <p>Sponsored by <a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></p>
+  <p>COMMUNITY EVENT SPONSOR: <a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></p>
   </div>
 </div>
 
