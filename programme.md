@@ -10,7 +10,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">09h30</div>
   <div class="schedule_break">
-  <img src="img/elephant_lego_rouge.jpg" class="img-thumbnail" alt="">
+  <img src="img/elephant_lego_mons.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc"><h3>Ouverture des portes / Doors open</h3></div>
 </div>
@@ -40,7 +40,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">13h30</div>
   <div class="schedule_break">
-  <img src="img/elephant_lego_rouge.jpg" class="img-thumbnail" alt="">
+  <img src="img/elephant_lego_mons.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Ré-Ouverture des portes / Doors reopen</h3>
