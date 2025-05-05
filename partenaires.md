@@ -30,6 +30,15 @@ their presence alongside us.
   </div>
 </div>
 
+### VIDEO CAPTURE SPONSOR
+
+<div class="container">
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.facebook.com/streamitbe" class="thumbnail">
+  <img src="img/streamIT.jpg" alt="Stream IT">
+  </a>
+  </div>
+</div>
 
 ### SUPPORTERS
 
