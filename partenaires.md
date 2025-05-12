@@ -54,6 +54,12 @@ their presence alongside us.
   <img src="img/navicat.png" alt="Navicat">
   </a>
   </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.crunchydata.com/" class="thumbnail">
+  <img src="img/crunchy.svg" alt="Crunchy Data">
+  </a>
+  </div>
 </div>
 
 <!--
