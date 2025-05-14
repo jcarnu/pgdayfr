@@ -105,6 +105,12 @@ Stay tuned for more details and the opening of registrations.
   <img src="img/navicat.png" alt="Navicat">
   </a>
   </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.crunchydata.com/" class="thumbnail">
+  <img src="img/crunchy.svg" alt="Crunchy Data">
+  </a>
+  </div>
 </div>
 
 <hr/>
