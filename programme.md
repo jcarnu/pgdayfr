@@ -27,6 +27,7 @@ layout: default
 Dans cet atelier, nous verrons comment déployer des instances, bases de données et rôles PostgreSQL à l'aide de pglift et Ansible pour industrialiser vos environnements.
 De l'installation à la configuration, en passant par la gestion des utilisateurs, des extensions et la mise en place de la sauvegarde physique avec pgBackRest, vous utiliserez des collections Ansible et des playbooks réutilisables pour déployer vos bases de données PostgreSQL.
   </p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
 
@@ -38,6 +39,7 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <div class="schedule_desc">
   <h3>Atelier : Déployer PostgreSQL sur Kubernetes avec CloudNativePG</h3>
   <p><a href="https://aws.amazon.com/">AWS</a></p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
 
@@ -237,13 +239,13 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <p>
   Contribuer à PostgreSQL ne se limite pas au code ! Cette table ronde explore les multiples façons de s'impliquer dans l'écosystème : développement, extensions, outils connexes, documentation, traduction, promotion de la diversité, et bien plus.
   <br/>Des témoignages d'entreprises et de contributeur·ice·s éclaireront les différents chemins pour soutenir PostgreSQL, y compris à l'échelle d'une organisation.
-  <br/>Avec la participation de Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
+  <br/><strong>Avec la participation de</strong> Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
   </p>
   <h3>Roundtable - How to Contribute to PostgreSQL?</h3>
   <p>
   Contributing to PostgreSQL goes far beyond writing code! This roundtable will explore the many ways to get involved in the ecosystem: development, extensions, related tools, documentation, translation, diversity advocacy, and more.
   <br/>Insights from companies and contributors will highlight the various paths to supporting PostgreSQL, including from within an organization.
-  <br/>Featuring Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
+  <br/><strong>Featuring</strong> Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
   </p>
   </div>
 </div>

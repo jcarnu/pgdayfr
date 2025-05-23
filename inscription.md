@@ -57,5 +57,5 @@ title: Inscription
 </div>
 
 <hr/>
-<p><strong>Attention :</strong> l'inscription aux ateliers du mardi 3 juin matin se fera séparément, une fois le programme des ateliers défini. Pour y participer, une inscription valide à l'événement sera néanmoins requise.</p>
-<p><strong>Notice:</strong> Registration for the Tuesday, June 3rd morning workshops will be handled separately once the workshop schedule has been finalized. However, a valid registration for the event will still be required to attend.</p>
+<p><strong>Bon à savoir :</strong> en vous inscrivant à l'événement, vous aurez aussi accès à tous les ateliers du mardi 3 juin au matin. L'entrée aux ateliers est libre, <u>dans la limite des places disponibles</u>, mais elle est réservée aux personnes inscrites à l'événement.</p>
+<p><strong>Good to know:</strong> By registering for the event, you'll also have access to all the workshops on Tuesday morning, June 3rd. Workshops are open on a first-come, first-served basis, <u>subject to availability</u>, and are only open to registered event participants.</p>
