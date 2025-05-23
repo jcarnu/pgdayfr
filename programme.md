@@ -237,11 +237,13 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <p>
   Contribuer à PostgreSQL ne se limite pas au code ! Cette table ronde explore les multiples façons de s'impliquer dans l'écosystème : développement, extensions, outils connexes, documentation, traduction, promotion de la diversité, et bien plus.
   <br/>Des témoignages d'entreprises et de contributeur·ice·s éclaireront les différents chemins pour soutenir PostgreSQL, y compris à l'échelle d'une organisation.
+  <br/>Avec la participation de Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
   </p>
   <h3>Roundtable - How to Contribute to PostgreSQL?</h3>
   <p>
   Contributing to PostgreSQL goes far beyond writing code! This roundtable will explore the many ways to get involved in the ecosystem: development, extensions, related tools, documentation, translation, diversity advocacy, and more.
   <br/>Insights from companies and contributors will highlight the various paths to supporting PostgreSQL, including from within an organization.
+  <br/>Featuring Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
   </p>
   </div>
 </div>
