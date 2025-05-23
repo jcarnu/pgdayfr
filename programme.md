@@ -37,8 +37,26 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier : Déployer PostgreSQL sur Kubernetes avec CloudNativePG</h3>
-  <p><a href="https://aws.amazon.com/">AWS</a></p>
+  <h3>Atelier : PostgreSQL et IA générative : Exploiter pgvector pour des solutions innovantes</h3>
+  <p>Par Vincent Mercier, Solution Architect - <a href="https://aws.amazon.com/">AWS</a></p>
+  <p>
+  Plongez dans l'univers du Retrieval Augmented Generation (RAG) en combinant la puissance de PostgreSQL et des Large Language Models. Cet atelier pratique vous guidera dans l'implémentation d'une solution d'IA générative en utilisant l'extension pgvector pour le stockage et la recherche de vecteurs sémantiques. Vous développerez une application complète illustrant l'intégration d'un LLM avec une base de connaissances vectorielle, permettant des réponses contextuelles précises et traçables.
+  </p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">10h00</div>
+  <div class="schedule_break">
+  <i class="fa fa-laptop"></i>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier animé par Databene</h3>
+  <p> <a href="https://www.data-bene.io/">Databene</a></p>
+  <p>
+  
+  </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
