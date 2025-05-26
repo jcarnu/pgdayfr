@@ -41,6 +41,7 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <p>Par Vincent Mercier, Solution Architect - <a href="https://aws.amazon.com/">AWS</a></p>
   <p>
   Plongez dans l'univers du Retrieval Augmented Generation (RAG) en combinant la puissance de PostgreSQL et des Large Language Models. Cet atelier pratique vous guidera dans l'implémentation d'une solution d'IA générative en utilisant l'extension pgvector pour le stockage et la recherche de vecteurs sémantiques. Vous développerez une application complète illustrant l'intégration d'un LLM avec une base de connaissances vectorielle, permettant des réponses contextuelles précises et traçables.
+  Prerequis: ordinateur avec accès Internet.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
@@ -52,10 +53,12 @@ De l'installation à la configuration, en passant par la gestion des utilisateur
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier animé par Databene</h3>
-  <p> <a href="https://www.data-bene.io/">Databene</a></p>
+  <h3>Atelier: Are you collecting the right metrics?</h3>
+  <p>Par Frédéric Delacourt - <a href="https://www.data-bene.io/">Databene</a></p>
   <p>
-  
+  Cet atelier de 2 heures s’adresse principalement aux DBA débutants à intermédiaires. Il est théorique, sans exercices pratiques ni manipulations, mais les questions sont bien sûr les bienvenues.
+Il est naturellement essentiel de superviser ses instances PostgreSQL. Toutefois, il n’est pas toujours évident de distinguer les métriques absolument indispensables de celles simplement utiles ou optionnelles. De plus, selon le contexte et l’architecture PostgreSQL en place, des métriques en général jugées secondaires peuvent devenir critiques.
+Nous nous concentrerons sur les métriques offertes par le système de statistiques cumulatives de PostgreSQL. En fonction de l’avancée des discussions, nous pourrons également aborder certaines métriques système sous Linux.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
