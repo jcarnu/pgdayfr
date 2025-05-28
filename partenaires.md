@@ -69,7 +69,7 @@ their presence alongside us.
 
   <div class="col-xs-12 col-md-6">
   <a href="https://www.data-bene.io/" class="thumbnail">
-  <img src="img/databene.svg" alt="DataBene">
+  <img src="img/databene.svg" alt="Data Bene">
   </a>
   </div>
 </div>

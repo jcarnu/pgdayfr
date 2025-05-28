@@ -120,7 +120,7 @@ Stay tuned for more details and the opening of registrations.
 
   <div class="col-xs-12 col-md-6">
   <a href="https://www.data-bene.io/" class="thumbnail">
-  <img src="img/databene.svg" alt="DataBene" class="pg_sponsor">
+  <img src="img/databene.svg" alt="Data Bene" class="pg_sponsor">
   </a>
   </div>
 </div>
