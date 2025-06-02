@@ -18,7 +18,7 @@ title: Code de Conduite
 
 Si vous êtes témoin ou victime d'un comportement inapproprié, voici les points de contact pour signaler un problème pendant ou après l'événement :
 
-* A compléter <!-- FIXME -->
+* Anthony Nowocien - 06 33 63 16 63
 * <contact@pgday.fr>
 
 ## Version complète
