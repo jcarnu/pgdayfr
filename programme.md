@@ -151,7 +151,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
   <<div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_delobel.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Json in Postgres</h3>

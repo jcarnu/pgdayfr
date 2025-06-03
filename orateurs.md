@@ -58,7 +58,7 @@ layout: default
 
 <div class="row pg_speaker" id="s_delobel">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_delobel.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Sébastien Delobel</h3>
