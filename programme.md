@@ -150,24 +150,20 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  <<div class="schedule_speaker">
+  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Lightning Talks</h3>
+  <h3>Json in Postgres</h3>
+  <p>Par <a href="orateurs#s_delobel" class="pg_speaker_name">Sébastien Delobel</a> - Oney</p>
   <p>
-    Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
-    <br/>Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
-  </p>
-  <p>
-    A series of 5-minute lightning talks. Each PG Day participant is welcome to choose any topic (technical or not) and present it in exactly 5 minutes, stopwatch-style! :)
-    <br/>Send your proposals to <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
+  La présentation "JSON in PostgreSQL" explore l'utilisation du format JSON dans les bases de données PostgreSQL. Il explique comment JSON permet de stocker et échanger des données de manière flexible et lisible. La présentation couvre les opérateurs JSON clés, les méthodes pour mettre à jour les données JSON, et la création d'index pour optimiser les requêtes. Je recommande d'utiliser JSONB pour ses fonctionnalités avancées et conseille d'utiliser des index B-tree, GIN, ou pg_trgm selon les besoins des requêtes. Il conclut en soulignant l'intégration puissante de JSON dans PostgreSQL et son utilité pour des structures de données flexibles.
   </p>
   </div>
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">17h30</div>
+  <div class="schedule_time">17h15</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>

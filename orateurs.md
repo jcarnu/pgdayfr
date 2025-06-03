@@ -56,6 +56,23 @@ layout: default
   </div>
 </div>
 
+<div class="row pg_speaker" id="s_delobel">
+  <div class="col-md-2">
+  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Sébastien Delobel</h3>
+  <span class="role">Oney</span>
+  <p>
+  Sébastien Delobel, database engineer expérimenté, travaille dans divers secteurs. Il est reconnu pour sa rigueur et ses solutions innovantes, notamment avec PostgreSQL. Il occupe plusieurs rôles autour de la data et co-organise le Meetup PostgreSQL Paris.
+  </p>
+  <p>
+    Présentation:
+    <a href='/programme'>Json in Postgres</a>
+  </p>
+  </div>
+</div>
+
 <div class="row pg_speaker" id="g_yildirim">
   <div class="col-md-2">
   <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
