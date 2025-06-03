@@ -128,6 +128,6 @@ Stay tuned for more details and the opening of registrations.
 <hr/>
 <br/>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQlCjZcqCdUrKX1-SD9aTN33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pOrAp9D8l4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>Vous pouvez consulter les vidéos des éditions précédentes sur <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaîne Youtube</a>.
 </center>
