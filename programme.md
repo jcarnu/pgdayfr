@@ -169,6 +169,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   </div>
   <div class="schedule_desc">
   <h3>Mot de clôture / Closing session</h3>
+  <p><a href="https://pgstef.github.io/talks/fr/20250603-pgdayfr-closing.pdf">Slides</a></p>
   </div>
 </div>
 
