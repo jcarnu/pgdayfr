@@ -107,6 +107,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <p>
   Ada Lovelace, Hedy Lamarr, les « ENIAC Girls », Grace Hopper, Joan Clarke... Découlant du métier de calculatrice, le métier de développeur était considéré comme un métier de femme, tandis que la conception hardware était un métier d'homme. Cependant, qui sont ces femmes qui ont fait évoluer le monde de la tech ? Pourquoi n'entendons-nous jamais parler d'elles ? Avec Laura Durieux, vous tenterez de remettre les pendules à l'heure, petit à petit, et de vous offrir des modèles dans la tech dont vous avez toujours eu besoin.
   </p>
+   <p><a href="docs/2025/keynote-ou-sont-passees-les-femmes-de-l-histoire-de-la-tech.pdf">Slides</a></p>
   </div>
 </div>
 
@@ -121,6 +122,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <p>
   En tant que DBA de la vieille école, vous n'aimez pas forcément l'idée de faire tourner vos bases de données sur Kubernetes. Je comprends - vous avez passé des années à apprendre votre métier, et à construire votre boîte à outils DBA. Vous savez comment gérer un environnement de base de données fiable, sécurisé et performant. Pourquoi risquer tout cela en migrant vers Kubernetes ? De plus, Kubernetes n'est-il pas uniquement pour les applications stateless ? Mais le paysage des bases de données évolue rapidement, et les bases de données sur Kubernetes est devenu normal. Je vous assure que Kubernetes va compléter votre expertise DBA en vous fournissant de nouveaux outils puissants.
   </p>
+  <p><a href="docs/2025/postgres-sur-kubernetes-pour-le-dba-reticent.pdf">Slides</a></p>
   </div>
 </div>
 
