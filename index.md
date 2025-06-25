@@ -11,8 +11,8 @@ layout: default
 <img src="img/pgday_2025_bandeau_final.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
 
-<br/>
 <center>
+<h2>Revivez le PG Day en vidéo :</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=0KvbqbTvrv53nmYh&amp;list=PL8hcbCbHVHQl6Klm5_HfT9EVMe2zGuWN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
