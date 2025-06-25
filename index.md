@@ -11,13 +11,9 @@ layout: default
 <img src="img/pgday_2025_bandeau_final.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
 
-<!--
 <center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpSuumIHzjY?si=DlKxJBHMXPk5FPOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=0KvbqbTvrv53nmYh&amp;list=PL8hcbCbHVHQl6Klm5_HfT9EVMe2zGuWN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
--->
 
 <center>
 <h2>PG Day France 2025 : Rendez-vous à Mons ! 🇧🇪</h2>
@@ -38,11 +34,13 @@ Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 </center>
 -->
 
+<!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
   </div>
 </div>
+-->
 
 <hr/>
 
@@ -69,11 +67,13 @@ Stay tuned for more details and the opening of registrations.
 </center>
 -->
 
+<!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Schedule available!</a>
   </div>
 </div>
+-->
 
 <hr/>
 <br/>
@@ -128,7 +128,7 @@ Stay tuned for more details and the opening of registrations.
 <hr/>
 <br/>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yv76yK0zBi8?si=tT91eCsbxoAKR2rr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/yv76yK0zBi8?si=tT91eCsbxoAKR2rr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 <br/>Vous pouvez consulter les vidéos des éditions précédentes sur <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaîne Youtube</a>.
 </center>
