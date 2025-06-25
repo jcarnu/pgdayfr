@@ -11,6 +11,7 @@ layout: default
 <img src="img/pgday_2025_bandeau_final.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
 
+<br/>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=0KvbqbTvrv53nmYh&amp;list=PL8hcbCbHVHQl6Klm5_HfT9EVMe2zGuWN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
@@ -129,6 +130,6 @@ Stay tuned for more details and the opening of registrations.
 <br/>
 <center>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/yv76yK0zBi8?si=tT91eCsbxoAKR2rr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-<br/>Vous pouvez consulter les vidéos des éditions précédentes sur <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaîne Youtube</a>.
+<!-- <br/> -->
+Vous pouvez consulter les vidéos des éditions précédentes sur <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaîne Youtube</a>.
 </center>
