@@ -61,7 +61,7 @@ their presence alongside us.
     <td></td>
     <td></td>
     <td>Oui</td>
-    <td>Oui</td>
+    <td></td>
   </tr>
   <tr>
     <th>Stand lors des deux jours</th>
@@ -134,7 +134,7 @@ Pour toute demande, veuillez nous contacter à l'adresse **contact@pgday.fr**.
     <td></td>
     <td></td>
     <td>Yes</td>
-    <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <th>Booth during both days</th>
