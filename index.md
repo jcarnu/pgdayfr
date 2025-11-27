@@ -7,11 +7,11 @@ layout: default
 <h2>Le rendez-vous annuel de la communauté francophone de PostgreSQL !</h2>
 </center>
 
-<!--
+
 <center>
 <img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive"/>
 </center>
--->
+
 
 <center>
 <h2>PG Day France 2026 : Rendez-vous à Toulouse ! 🇫🇷</h2>
