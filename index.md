@@ -7,24 +7,21 @@ layout: default
 <h2>Le rendez-vous annuel de la communauté francophone de PostgreSQL !</h2>
 </center>
 
+<!--
 <center>
-<img src="img/pgday_2025_bandeau_final.png" alt="Mons Belgique" class="img-responsive"/>
+<img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive"/>
 </center>
+-->
 
 <center>
-<h2>Revivez le PG Day en vidéo :</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=0KvbqbTvrv53nmYh&amp;list=PL8hcbCbHVHQl6Klm5_HfT9EVMe2zGuWN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>PG Day France 2026 : Rendez-vous à Toulouse ! 🇫🇷</h2>
 </center>
 
-<center>
-<h2>PG Day France 2025 : Rendez-vous à Mons ! 🇧🇪</h2>
-</center>
-
-Cette année, le PG Day France franchit les frontières et vous invite à Mons, en Belgique, les 3 et 4 juin 2025 !
+Cette année, le PG Day France met le cap sur Toulouse, au siège de Météo France (42 avenue Gaspard Coriolis), les 3 et 4 juin 2026 !
 
 <strong>Au programme de ces deux jours :</strong>
-* <strong>Mardi matin</strong> : Ateliers pratiques pour approfondir vos compétences PostgreSQL.
-* <strong>Mardi après-midi & Mercredi</strong> : Conférences, table ronde et lightning talks pour échanger avec la communauté et les experts.
+* <strong>Mardi 3 juin</strong> : Une journée entièrement dédiée aux ateliers (4 ateliers au choix).
+* <strong>Mercredi 4 juin</strong> : Une journée de conférences pour échanger avec la communauté et les experts.
 
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
@@ -46,18 +43,18 @@ Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 <hr/>
 
 <center>
-<h2>PG Day France 2025 : See You in Mons! 🇧🇪</h2>
+<h2>PG Day France 2026 : See You in Toulouse! 🇫🇷</h2>
 </center>
 
 The PG Day France is the annual conference of the French-speaking PostgreSQL community.
 
-This year, the event will take place on **June 3 and 4, 2025, in Mons (Belgium)**. We are seizing the opportunity to expand beyond borders by also accepting presentations in English! To maintain the primarily French-speaking identity of PG Day France, the CfP committee will ensure a balanced distribution of languages.
+This year, the event will take place on **June 3 and 4, 2026, in Toulouse (France)**, at the Météo France headquarters (42 avenue Gaspard Coriolis).
 
 So, if you are an expert in a field related to open-source databases, have used PostgreSQL in a specific context (_large-scale deployments, high loads, well-known clients, innovative projects, etc._), or are involved in an open-source project related to PostgreSQL, don't hesitate to submit a talk!
 
 <strong>Program for these two days:</strong>
-* <strong>Tuesday morning</strong>: Hands-on workshops to deepen your PostgreSQL skills.
-* <strong>Tuesday afternoon & Wednesday</strong>: Conferences, panel discussions, and lightning talks to engage with the community and experts.
+* <strong>Tuesday, June 3rd</strong>: A full day dedicated to workshops (4 workshops to choose from).
+* <strong>Wednesday, June 4th</strong>: A day of talks to engage with the community and experts.
 
 Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
 Stay tuned for more details and the opening of registrations.
@@ -83,47 +80,7 @@ Stay tuned for more details and the opening of registrations.
 </center>
 
 <div class="container">
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.dalibo.com/" class="thumbnail">
-  <img src="img/dalibo.png" alt="Dalibo" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://aws.amazon.com/" class="thumbnail">
-  <img src="img/aws.png" alt="AWS" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.maif.fr/" class="thumbnail">
-  <img src="img/maif.png" alt="MAIF" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.leboncoin.fr/" class="thumbnail">
-  <img src="img/leboncoin.png" alt="Le Bon Coin" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.navicat.fr/" class="thumbnail">
-  <img src="img/navicat.png" alt="Navicat" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.crunchydata.com/" class="thumbnail">
-  <img src="img/crunchy.svg" alt="Crunchy Data" class="pg_sponsor">
-  </a>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-  <a href="https://www.data-bene.io/" class="thumbnail">
-  <img src="img/databene.svg" alt="Data Bene" class="pg_sponsor">
-  </a>
-  </div>
+<!-- Sponsors list to be updated -->
 </div>
 
 <hr/>
