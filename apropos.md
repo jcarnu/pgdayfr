@@ -46,7 +46,7 @@ bien que ses frais de déplacement puissent, dans certains cas, être remboursé
 
 L'équipe organisatrice est quant à elle entièrement composée de bénévoles.
 
-## Comité de sélection
+<!-- ## Comité de sélection
 
 Le comité de sélection 2025 est composé des personnes suivantes :
 
@@ -77,4 +77,4 @@ Le comité de sélection 2025 est composé des personnes suivantes :
     <p>Julien Riou <br/> Tech Lead<br/>@ OVHcloud</p>
   </div>
 
-</div>
+</div> -->
