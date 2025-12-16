@@ -20,8 +20,8 @@ layout: default
 Cette année, le PG Day France met le cap sur Toulouse, au siège de Météo France (42 avenue Gaspard Coriolis), les 3 et 4 juin 2026 !
 
 <strong>Au programme de ces deux jours :</strong>
-* <strong>Mardi 3 juin</strong> : Une journée entièrement dédiée aux ateliers (4 ateliers au choix).
-* <strong>Mercredi 4 juin</strong> : Une journée de conférences pour échanger avec la communauté et les experts.
+* <strong>Mercredi 3 juin</strong> : Une journée entièrement dédiée aux ateliers (4 ateliers au choix).
+* <strong>Jeudi 4 juin</strong> : Une journée de conférences pour échanger avec la communauté et les experts.
 
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
