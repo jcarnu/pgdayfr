@@ -5,7 +5,7 @@ layout: default
 
 # Programme / Schedule
 
-## Mardi 3 juin 2025 / Tuesday, June 3rd, 2025
+## Mercredi 3 juin 2025 / Wednesday, June 3rd, 2025
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h30</div>
@@ -71,8 +71,8 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   </div>
   <div class="schedule_desc">
   <h3>Pause / Lunch break</h3>
-  <p>Le repas du mardi midi n'est pas inclus. Une pause est prévue pour se restaurer à l'extérieur. Merci de votre compréhension.</p>
-  <p>Tuesday lunch is not included. A break is scheduled so participants can eat outside. Thank you for your understanding.</p>
+  <p>Le repas du mercredi midi n'est pas inclus. Une pause est prévue pour se restaurer à l'extérieur. Merci de votre compréhension.</p>
+  <p>Wednesday lunch is not included. A break is scheduled so participants can eat outside. Thank you for your understanding.</p>
   </div>
 </div>
 
@@ -198,7 +198,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 </div>
 
 
-## Mercredi 4 juin 2025 / Wednesday, June 4th, 2025
+## Jeudi 4 juin 2025 / Thursday, June 4th, 2025
 
 <div class="schedule_bloc">
   <div class="schedule_time">08h30</div>
