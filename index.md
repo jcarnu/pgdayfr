@@ -53,8 +53,8 @@ This year, the event will take place on **June 3 and 4, 2026, in Toulouse (Franc
 So, if you are an expert in a field related to open-source databases, have used PostgreSQL in a specific context (_large-scale deployments, high loads, well-known clients, innovative projects, etc._), or are involved in an open-source project related to PostgreSQL, don't hesitate to submit a talk!
 
 <strong>Program for these two days:</strong>
-* <strong>Tuesday, June 3rd</strong>: A full day dedicated to workshops (4 workshops to choose from).
-* <strong>Wednesday, June 4th</strong>: A day of talks to engage with the community and experts.
+* <strong>Wednesday, June 3rd</strong>: A full day dedicated to workshops (4 workshops to choose from).
+* <strong>Thursday, June 4th</strong>: A day of talks to engage with the community and experts.
 
 Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
 Stay tuned for more details and the opening of registrations.
