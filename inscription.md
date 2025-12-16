@@ -58,4 +58,4 @@ title: Inscription
 
 <hr/>
 <p><strong>Bon à savoir :</strong> en vous inscrivant à l'événement, vous aurez aussi accès à tous les ateliers du mercredi 3 juin au matin. L'entrée aux ateliers est libre, <u>dans la limite des places disponibles</u>, mais elle est réservée aux personnes inscrites à l'événement.</p>
-<p><strong>Good to know:</strong> By registering for the event, you'll also have access to all the workshops on Tuesday morning, June 3rd. Workshops are open on a first-come, first-served basis, <u>subject to availability</u>, and are only open to registered event participants.</p>
+<p><strong>Good to know:</strong> By registering for the event, you'll also have access to all the workshops on Wednesday morning, June 3rd. Workshops are open on a first-come, first-served basis, <u>subject to availability</u>, and are only open to registered event participants.</p>
