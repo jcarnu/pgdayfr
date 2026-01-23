@@ -82,7 +82,7 @@ Pour rejoindre **Météo France** :
 
 ### Accès au site
 
-![Acces au site](./acces_pgday.gif "Accces Météo France"
+![Acces au site](img/acces_pgday.gif "Accces Météo France"
 
 <hr/>
 
@@ -164,4 +164,4 @@ To join **Météo France** :
 
 ### Site access
 
-![Site acces](./pgday_acces.gif "Meteo France Access"
+![Site acces](img/pgday_acces.gif "Meteo France Access"
