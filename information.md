@@ -80,6 +80,10 @@ Pour rejoindre **Météo France** :
   
 * Le titre doit être composté à **chaque changement** sous peine de contravention (contrôles réguliers en ce moment).
 
+### Accès au site
+
+![Acces au site](acces_pgday.gif "Accces Météo France"
+
 <hr/>
 
 # Practical Information (EN)
@@ -157,3 +161,7 @@ To join **Météo France** :
 * A single ticket can be used for up to 3 transfers within 1 hour of the first validation.
   
 * The ticket must be validated **at each transfer** or you will be fined (regular checks are currently in place).
+
+### Site access
+
+![Site acces](pgday_acces.gif "Meteo France Access"
