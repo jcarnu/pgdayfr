@@ -57,7 +57,7 @@ layout: default
           </div>
           <div class="col-md-6">
             <h4><i class="fa fa-ticket"></i> Transports en commun</h4>
-            <p>Les tickets peuvent être achetés aux distributeurs (métro/tram) ou à bord des bus. Un ticket est valable pour 3 changements en 1h. Validez à chaque correspondance.</p>
+            <p>Les tickets peuvent être achetés aux distributeurs (métro/tram) ou à bord des bus. Un ticket est valable pour 3 changements en 1h. Validez à chaque correspondance. Vous pouvez aussi utiliser votre carte de paiement sans contact ou votre smartphone NFC avec l'application Tisséo pour <a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a> ou <a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a>, en guise de ticket. Consultez le <a href="https://www.tisseo.fr/">site de web  de Tisseo</a> pour plus d'informations.</p>
           </div>
         </div>
       </div>
@@ -135,7 +135,7 @@ layout: default
           </div>
           <div class="col-md-6">
             <h4><i class="fa fa-ticket"></i> Public Transport</h4>
-            <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection.</p>
+            <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection. You also can use your contactless credit/debit card or your NFC compatible smartphone with the Tisséo app for <a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a> instead of a ticket. Check-out the <a href="https://www.tisseo.fr/">Tisseo website</a> for more information.</p>
           </div>
         </div>
       </div>
