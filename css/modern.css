@@ -339,3 +339,29 @@ footer#sponsors h5 {
     }
 }
 
+/* Information Page Specific Styles */
+.panel-pg-primary .panel-heading {
+    background-color: var(--pg-blue);
+    color: white;
+    border-color: var(--pg-blue);
+}
+.panel-pg-primary {
+    border-color: var(--pg-blue);
+}
+
+.panel-pg-info .panel-heading {
+    background-color: var(--pg-light-blue);
+    color: var(--pg-dark-blue);
+    border-color: #ddd;
+}
+.panel-pg-info {
+    border-color: #ddd;
+}
+
+.panel-body ol {
+    padding-left: 20px;
+}
+.panel-body ol li {
+    margin-bottom: 10px;
+}
+
