@@ -9,7 +9,7 @@ layout: default
 
 
 <center>
-<img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive"/>
+<img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive" style="max-height: 400px; width: 100%; object-fit: cover; object-position: center;" />
 </center>
 
 
@@ -26,11 +26,9 @@ Cette année, le PG Day France met le cap sur Toulouse, au siège de Météo Fra
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 
-<!--
 <center>
 <h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
 </center>
--->
 
 <!--
 <div class='row'>
@@ -59,11 +57,9 @@ So, if you are an expert in a field related to open-source databases, have used 
 Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
 Stay tuned for more details and the opening of registrations.
 
-<!--
 <center>
 <h3><a href='/appel'>Call for Paper is open!</a></h3>
 </center>
--->
 
 <!--
 <div class='row'>

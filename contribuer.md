@@ -1,47 +1,103 @@
 ---
 title: Contribuer
+layout: default
 ---
 
-Le PG Day France est un événement à but non lucratif.
+<div style="width: 100%;">
+  <div class="row text-center">
+    <div class="col-lg-12">
+      <h1 style="margin-bottom: 20px;">Contribuer / Contribute</h1>
+      <p class="lead">
+        Le PG Day France est un événement communautaire et à but non lucratif.<br>
+        <em>PG Day France is a non-profit community event.</em>
+      </p>
+      <p>
+        Les éventuels profits réalisés seront réinvestis dans les activités de l’association.<br>
+        <em>Any profits made will be reinvested in the association's activities.</em>
+      </p>
+      <hr>
+    </div>
+  </div>
 
-Les éventuels profits réalisés lors de cet événement seront réinvestis dans
-les autres activités de l’association.
+  <div class="row" style="display: flex; flex-wrap: wrap;">
+    
+    <!-- Volontaires / Promotion -->
+    <div class="col-md-6" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+      <div class="well" style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; text-align: center; border-top: 8px solid #5bc0de; padding: 30px;">
+        <div>
+          <h2 style="color: #5bc0de; margin-top: 0;"><i class="fa fa-bullhorn"></i> Promotion</h2>
+          <p class="lead" style="margin: 20px 0;">
+            Aidez-nous à faire connaître l'événement !
+          </p>
+          <ul class="text-left" style="margin-top: 20px;">
+            <li>Parlez du PG Day France dans vos groupes tech locaux.</li>
+            <li>Placez notre bannière sur votre site web.</li>
+            <li>Partagez nos annonces sur les réseaux sociaux.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-## Volontaires
+    <!-- Partenaires / Sponsors -->
+    <div class="col-md-6" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+      <div class="well" style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; text-align: center; border-top: 8px solid #f0ad4e; padding: 30px;">
+        <div>
+          <h2 style="color: #f0ad4e; margin-top: 0;"><i class="fa fa-star"></i> Partenaires</h2>
+          <p class="lead" style="margin: 20px 0;">
+            Soutenez financièrement l'événement.
+          </p>
+          <p>
+            Associez votre image à la conférence PostgreSQL majeure en France.
+          </p>
+        </div>
+        <a href="/partenaires" class="btn btn-warning btn-lg btn-block" style="margin-top: 20px;">
+          Devenir Sponsor
+        </a>
+      </div>
+    </div>
 
-Si vous souhaitez nous soutenir, avant ou pendant l’événement, vous pouvez :
+    <!-- Conférencier·ères / Speakers -->
+    <div class="col-md-6" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+      <div class="well" style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; text-align: center; border-top: 8px solid #337ab7; padding: 30px;">
+        <div>
+          <h2 style="color: #337ab7; margin-top: 0;"><i class="fa fa-microphone"></i> Orateurs·rices</h2>
+          <p class="lead" style="margin: 20px 0;">
+            Partagez vos connaissances et expériences.
+          </p>
+          <p>
+            Proposez une conférence ou un atelier technique.
+          </p>
+        </div>
+        <a href="/appel" class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;">
+          Voir l'appel à participation
+        </a>
+      </div>
+    </div>
 
-* Promouvoir l’événement et parler du PG Day France autour de vous et
-  dans les groupes tech locaux ;
-* Placer notre bannière sur votre site ;
-* Annoncer le PG Day sur votre site et créer un lien vers notre site.
+    <!-- Bénévoles / Volunteers -->
+    <div class="col-md-6" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+      <div class="well" style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; text-align: center; border-top: 8px solid #5cb85c; padding: 30px;">
+        <div>
+          <h2 style="color: #5cb85c; margin-top: 0;"><i class="fa fa-users"></i> Bénévoles</h2>
+          <p class="lead" style="margin: 20px 0;">
+            Rejoignez l'équipe le jour J.
+          </p>
+          <p class="text-left">
+            Nous recherchons des bénévoles pour l'accueil, la logistique, etc. La charge est légère mais votre aide est précieuse !
+          </p>
+          <p>
+            Rejoignez-nous sur :
+            <br>
+            <a href="https://framalistes.org/sympa/info/pgdayfr" target="_blank">La liste de diffusion</a>
+            <br>
+            Slack <em>postgresteam</em> (canaux #pgdayfr et #postgres-fr)
+          </p>
+        </div>
+        <a href="/apropos" class="btn btn-success btn-lg btn-block" style="margin-top: 20px;">
+          Contactez-nous
+        </a>
+      </div>
+    </div>
 
-## Partenaires
-
-Contribuez à la réussite de l’événement en soutenant le projet.
-
-<!-- [En savoir plus](/partenaires) -->
-
-## Conférencier·ères
-
-Venez prendre la parole pour partager vos connaissances et expériences autour
-de PostgreSQL et ses outils.
-
-<a class="btn btn-default" href="/appel" role="button">
-En savoir plus
-</a>
-
-## Bénévoles
-
-Nous recherchons également des bénévoles pour différentes missions
-pendant les conférences (accueil, traduction, préparation).
-
-La charge de travail n'est pas forcément importante, mais les petites
-gouttes d'eau font les grandes rivières.
-
-<a href="/apropos">Contactez-nous</a> si vous êtes intéressé·e !
-
-Vous pouvez aussi nous rejoindre sur la
-[liste de discussion des organisateur·rices du PG Day](https://framalistes.org/sympa/info/pgdayfr).
-
-Nous disposons également des canaux #pgdayfr et #postgres-fr sur le slack _postgresteam_.
+  </div>
+</div>
