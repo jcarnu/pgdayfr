@@ -8,86 +8,77 @@ title: Information
 
 <div class="col-lg-12">
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.9382982254028325%2C50.45535918936764%2C3.941693902015686%2C50.457073695874065&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/50.456216/3.939996">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394">Afficher une carte plus grande</a></small>
 
 </div>
 
 ## Lieu de l'événement
 
 ```
-Van der Valk Congres & Spa Hotel Mons
+Météo France - Centre International de Conférences
 
-Avenue Mélina Mercouri 7
-7000 Mons
-Belgique
-Téléphone: +32 65 39 02 07
+42 avenue Gaspard Coriolis
+31100 Toulouse
+France
+Téléphone: +33 626297387
 ```
-<https://www.hotelmons.eu/>
+<http://www.meteo.fr/cic/presentation.html>
 
 
 ## Comment venir ?
 
 ### En train
 
-La **nouvelle gare de Mons**, [inaugurée récemment](https://www.belgiantrain.be/fr/news/opening-mons), permet de relier facilement le centre-ville à pied ainsi que des lieux clés comme le [Palais des Expositions](https://www.lottomonsexpo.be/Web/fr/) et le plus grand [centre commercial](https://www.grandspres.be/) de la région.
+La **gare Matabiau** permet de relier facilement le centre-ville à pied ainsi que le lieu qui accueille l'évènement en transports en commun.
 
-Depuis la gare de Mons, pour rejoindre l'Hôtel _Van der Valk Mons_, empruntez la sortie **Place des Congrès**.
+Pour rejoindre **Météo France** :
+- prendre métro **ligne A**, direction **Basso Cambo**.
+- descendre au terminus, arrêt **Basso Cambo**.
+- prendre bus **ligne 18**, direction **Arènes**.
+- descendre arrêt **Météo**.
 
-#### Liaisons principales vers Mons
-
-* Depuis **Bruxelles-Midi** :
-  * Liaison directe et régulière (env. 50 minutes)
-  * Connexion avec les trains à grande vitesse (Eurostar, TGV INOUI, ICE)
+#### Liaisons principales vers Toulouse
 
 * Depuis **Lille-Flandres** :
-  * Trajet d'environ 1 heure via Tournai
-  * Réservation possible sur [SNCB International](https://www.b-europe.com/FR)
-  * 💡 _Remarque_ : La correspondance à Tournai mentionnée par les planificateurs n'est généralement due qu'à un changement de numérotation des trains entre la France et la Belgique.
+  Trajet d'environ 7 heures via Paris.
 
-* Depuis **Paris-Nord** (trajet total d'env. 2h30) :
-  * Via Lille ou Bruxelles-Midi
-  * Liaison directe OUIGO (3 fois par jour) :
-    * Départ de Paris : 🕗 8h18 | 🕛 12h05 | 🕖 19h14
-    * Départ de Mons : 🕗 8h22 | 🕑 14h22 | 🕖 19h22
+* Depuis **Paris-Montparnasse** :
+  Trajet direct d'environ 4h30.
 
 * Depuis **Lyon Part-Dieu** :
-  * Via Bruxelles-Midi (trajet total d'env. 5h)
+  Trajet direct d'environ 4h10.
 
-* Depuis **Nantes** (trajet total d'env. 6h30) :
-  * Via Paris Montparnasse, puis liaison directe depuis Paris Nord
-  * Via Bruxelles-Midi
+* Depuis **Nantes** :
+  Trajet d'environ 7 heures via Bordeaux.
 
 ### En voiture
 
-* Idéalement situé à proximité de l'autoroute E42, l'Hôtel dispose d'un parking gratuit pour les participants de l'événement. (Pensez à faire valider votre ticket à l'accueil.)
-* Un autre parking gratuit est disponible à proximité, sur le site du _Lotto Mons Expo_.
+* Situé en périphérie de Toulouse, à proximité de la rocade **Arc en ciel**, Météo France dispose d'un parking gratuit pour les participants de l'événement.
 
 ### En avion
 
-* La gare de Mons dispose d'une ligne de train directe et régulière vers l'aéroport de **Bruxelles** (_Brussels Airport_).
-* L'aéroport de **Charleroi** (_Brussels South Charleroi Airport_) n'étant pas directement relié au réseau ferroviaire, plusieurs solutions existent :
-  * Navette SNCB : Informations [ici](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/charleroi-airport)
-  * Navette Flibco : Réserver [ici](https://www.flibco.com/fr) - arrivée directement devant l'Hôtel _Van der Valk Mons_ !
+* L'aéroport de **Blagnac** est proche du réseau de transports en commun toulousain.
+  
+  Pour rejoindre **Météo France** :
+  - rejoindre bus **ligne 31** , arrêt **Daurat** situé à environ 600 mètres de l'aéroport.
+  - prendre bus **ligne 31**, direction **Guyenne-Berry Blagnac**.
+  - descendre arrêt **Pasteur - Mairie de Blagnac**.
+  - prendre tramway **ligne T1**, direction **Palais de Justice**.
+  - descendre arrêt **Arènes**.
+  - prendre métro **ligne A**, direction **Basso Cambo**.
+  - descendre au terminus, arrêt **Basso Cambo**.
+  - prendre bus **ligne 18**, direction **Arènes**.
+  - descendre arrêt **Météo**.
 
-## Hébergement
+### A savoir
 
-Vous venez de loin (ou de moins loin) ? Profitez d'un hébergement confortable directement sur le lieu de l'événement pour un accès facilité aux conférences, ateliers et à la découverte de Mons !
+* Vous pouvez acheter vos titres de transports en commun via :
+  - des distributeurs automatiques présents aux stations de métro et de tramway.
+  - à bord des bus.
 
-Nous avons négocié un tarif préférentiel ([chambre confort](https://www.hotelmons.eu/chambres/chambre-confort)) en quantité limitée avec l'Hôtel _Van der Valk Mons_⭐⭐⭐⭐ pour nos participants.
-
-* Tarif négocié : 130€ par nuit (hors petit déjeuner)
-* Accès Wellness inclus !
-* Comment réserver ? Contactez la réception par :
-<br/>📧 Email : info@hotelmons.eu
-<br/>📞 Téléphone : +32 65 39 02 07
-<br/>📝 Mentionnez le code de réservation : GF13538
-
-* Dates importantes :
-<br/>✔ Jusqu'au 3 avril : La moitié des chambres non réservées sera libérée.
-<br/>✔ Jusqu'au 3 mai : Toutes les chambres restantes seront relâchées.
-<br/>✔ Après le 3 mai : Réservation selon disponibilité et au tarif en vigueur.
-
-Réservez dès maintenant pour garantir votre hébergement au meilleur prix !
+* Un titre de transport peut être utilisé pour 3 changements réalisés dans une durée d'1 heure après le premier compostage.
+  
+* Le titre doit être composté à **chaque changement** sous peine de contravention (contrôles réguliers en ce moment).
 
 <hr/>
 
@@ -95,78 +86,74 @@ Réservez dès maintenant pour garantir votre hébergement au meilleur prix !
 
 <div class="col-lg-12">
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.9382982254028325%2C50.45535918936764%2C3.941693902015686%2C50.457073695874065&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/50.456216/3.939996">View a larger map<</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394">Afficher une carte plus grande</a></small>
 
 </div>
 
 ## Venue
 
 ```
-Van der Valk Congres & Spa Hotel Mons
+Météo France - International Center of Conferences
 
-Avenue Mélina Mercouri 7
-7000 Mons
-Belgium
-Phone: +32 65 39 02 07
+42 avenue Gaspard Coriolis
+31100 Toulouse
+France
+Phone: +33 626297387
 ```
-<https://www.hotelmons.eu/>
+<http://www.meteo.fr/cic/presentation.html>
 
 
 ## How to get there?
 
 ### By Train
 
-The new **Mons train station**, [recently inaugurated](https://www.belgiantrain.be/fr/news/opening-mons), provides easy access to the city center on foot, as well as key locations such as the [Exhibition Center](https://www.lottomonsexpo.be/Web/fr/) and the region’s largest [shopping mall](https://www.grandspres.be/).
+The **Matabiau station** provides easy access to the city center on foot as well as to the place hosting the event by public transport.
 
-From Mons train station, to reach the _Van der Valk Mons Hotel_, take the **Place des Congrès** exit.
+To join **Météo France** :
+- take the metro **A line**, towards **Basso Cambo**.
+- get off at the terminus, **Basso Cambo** station.
+- take bus **18 line**, towards **Arènes**.
+- get off at the **Météo** stop.
 
-#### Main connections to Mons
+#### Main connections to Toulouse
 
-* From **Bruxelles-Midi**:
-  * Direct and regular connection (approx. 50 minutes)
-  * Connection to high-speed trains (Eurostar, TGV INOUI, ICE)
+* From **Lille-Flandres** :
+  Journey of approximately 7 hours via Paris.
 
-* From **Paris-Nord** (total journey approx. 2h30):
-  * Via Lille or Bruxelles-Midi
-  * Direct OUIGO connection (3 times per day):
-    * Departing from Paris: 🕗 8h18 | 🕛 12h05 | 🕖 19h14
-    * Departing from Mons: 🕗 8h22 | 🕑 14h22 | 🕖 19h22
+* From **Paris-Montparnasse** :
+  Journey of approximately 4h30.
 
-* From **Frankfurt Hbf**: connection via Bruxelles-Midi (total journey approx. 4h20)
+* From **Lyon Part-Dieu** :
+  Journey of approximately 4h10.
+
+* From **Nantes** :
+  Journey of approximately 7 hours via Bordeaux.
 
 ### By car
 
-* Ideally located near the E42 motorway, the hotel offers free parking for event participants. (Remember to have your parking ticket validated at reception.)
-* Another free parking area is available nearby at _Lotto Mons Expo_.
+* Located on the outskirts of Toulouse, near the **Arc en ciel** ring road, Météo France offers free parking for event participants.
 
 ### By plane
 
-* La gare de Mons dispose d'une ligne de train directe et régulière vers l'aéroport de **Bruxelles** (_Brussels Airport_).
-* L'aéroport de **Charleroi** (_Brussels South Charleroi Airport_) n'étant pas directement relié au réseau ferroviaire, plusieurs solutions existent :
-  * Navette SNCB : Informations
-  * Navette Flibco : Réserver [ici](https://www.flibco.com/fr) - arrivée directement devant l'Hôtel _Van der Valk Mons_ !
+* Blagnac Airport is close to the Toulouse public transport network.
 
-* Mons train station has a direct and regular train line to **Brussels Airport**.
-* **Charleroi** airport (_Brussels South Charleroi Airport_) is not directly connected to the railway network, but several shuttle options are available:
-  * SNCB shuttle: Information [here](https://www.belgiantrain.be/en/tickets-and-railcards/airports/charleroi-airport)
-  * Flibco shuttle: Book [here](https://www.flibco.com/en) - arrives directly in front of the _Van der Valk Mons Hotel_!
+  To join **Météo France** :
+  - go to the **Daurat** stop of the bus **31 line**, located at approximately 600 meters from the airport.
+  - take bus **31 line**, towards **Guyenne-Berry Blagnac**.
+  - get off at the **Pasteur - Mairie de Blagnac** stop.
+  - take tram **T1 line**, towards **Palais de Justice**.
+  - get off at the **Arènes** stop.
+  - take metro **A line**, towards **Basso Cambo**.
+  - get off at the terminus, **Basso Cambo** station.
+  - take bus **18 line**, towards **Arènes**.
+  - get off at the  **Météo** stop.
 
-## Accommodation
+### Important Information
 
-Coming from afar (or not so far)? Enjoy comfortable accommodation directly at the event venue, providing easy access to conferences, workshops, and the city of Mons!
+* You can purchase your public transport tickets via :
+  - ticket machines located at metro and tram stations.
+  - on board buses.
 
-We have negotiated a special rate ([Comfort Room](https://www.hotelmons.eu/en/rooms/comfort-room)) in limited quantity with the _Van der Valk Mons Hotel_⭐⭐⭐⭐ for our attendees.
-
-* Special rate: €130 per night (excluding breakfast)
-* Wellness access included!
-* How to book? Contact the reception via:
-<br/>📧 Email: info@hotelmons.eu
-<br/>📞 Phone: +32 65 39 02 07
-<br/>📝 Mention the booking code: GF13538
-
-* Important dates:
-<br/>✔ Until April 3: Half of the unreserved rooms will be released.
-<br/>✔ Until May 3: All remaining unclaimed rooms will be released.
-<br/>✔ After May 3: Booking will be subject to availability at the current rate.
-
-Book now to secure your accommodation at the best price!
+* A single ticket can be used for up to 3 transfers within 1 hour of the first validation.
+  
+* The ticket must be validated **at each transfer** or you will be fined (regular checks are currently in place).
