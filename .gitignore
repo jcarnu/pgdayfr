@@ -1,2 +1,7 @@
 *.lock
 _site/
+_site_python/
+serve.py
+site_builder.py
+venv/
+.DS_Store
