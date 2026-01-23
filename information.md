@@ -1,167 +1,164 @@
 ---
 title: Information
+layout: default
 ---
 
-# Informations Pratiques (FR)
+<div style="width: 100%;">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1 class="page-header" style="border-bottom: 4px solid #337ab7; color: #337ab7; margin-bottom: 30px;">
+        Informations Pratiques (FR)
+      </h1>
 
-**-- English version below --**
+<div class="row">
+  <div class="col-md-8">
+    <div class="panel panel-pg-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-map-marker"></i> Lieu de l'événement</h3>
+      </div>
+      <div class="panel-body">
+        <p><strong>Météo France - Centre International de Conférences</strong></p>
+        <p>42 avenue Gaspard Coriolis, 31100 Toulouse, France</p>
+        <p><a href="http://www.meteo.fr/cic/presentation.html" target="_blank" class="btn btn-primary btn-sm">Site Web</a></p>
+      </div>
+    </div>
+    <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Comment venir ?</h3>
+      </div>
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-md-6">
+            <h4><i class="fa fa-train"></i> En train</h4>
+            <p>La <strong>gare Matabiau</strong> est le point d'arrivée principal. Pour rejoindre Météo France :</p>
+            <ol>
+              <li>Prendre le <strong>métro Ligne A</strong> direction <strong>Basso Cambo</strong>.</li>
+              <li>Descendre au terminus <strong>Basso Cambo</strong>.</li>
+              <li>Prendre le <strong>bus Ligne 18</strong> direction <strong>Arènes</strong>.</li>
+              <li>Descendre à l'arrêt <strong>Météo</strong>.</li>
+            </ol>
+          </div>
+          <div class="col-md-6">
+            <h4><i class="fa fa-plane"></i> En avion</h4>
+            <p>Depuis l'aéroport de <strong>Toulouse-Blagnac</strong> :</p>
+            <ol>
+              <li>Marcher 600m jusqu'à l'arrêt <strong>Daurat</strong>.</li>
+              <li>Prendre le <strong>bus Ligne 31</strong> jusqu'à <strong>Pasteur - Mairie de Blagnac</strong>.</li>
+              <li>Prendre le <strong>tram T1</strong> jusqu'aux <strong>Arènes</strong>.</li>
+              <li>Continuer avec le <strong>métro Ligne A</strong> jusqu'à <strong>Basso Cambo</strong>, puis le <strong>bus 18</strong>.</li>
+            </ol>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-md-6">
+            <h4><i class="fa fa-car"></i> En voiture</h4>
+            <p>Un parking gratuit est disponible sur le site de Météo France, accessible via la rocade <strong>Arc en ciel</strong>.</p>
+          </div>
+          <div class="col-md-6">
+            <h4><i class="fa fa-ticket"></i> Transports en commun</h4>
+            <p>Les tickets peuvent être achetés aux distributeurs (métro/tram) ou à bord des bus. Un ticket est valable pour 3 changements en 1h. Validez à chaque correspondance.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-map"></i> Carte</h3>
+        </div>
+        <div class="panel-body">
+            <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik"></iframe>
+            <small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394" target="_blank">Afficher une carte plus grande</a></small>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-road"></i> Accès au site</h3>
+        </div>
+        <div class="panel-body">
+            <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
+        </div>
+    </div>
+  </div>
+</div>
+<hr>
+<h1 class="page-header" style="border-bottom: 4px solid #337ab7; color: #337ab7; margin-bottom: 30px;">
+  Practical Information (EN)
+</h1>
 
-<div class="col-lg-12">
-
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394">Afficher une carte plus grande</a></small>
-
+<div class="row">
+  <div class="col-md-8">
+    <div class="panel panel-pg-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-map-marker"></i> Venue</h3>
+      </div>
+      <div class="panel-body">
+        <p><strong>Météo France - International Center of Conferences</strong></p>
+        <p>42 avenue Gaspard Coriolis, 31100 Toulouse, France</p>
+        <p><a href="http://www.meteo.fr/cic/presentation.html" target="_blank" class="btn btn-primary btn-sm">Website</a></p>
+      </div>
+    </div>
+    <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> How to Get There</h3>
+      </div>
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-md-6">
+            <h4><i class="fa fa-train"></i> By Train</h4>
+            <p>The main arrival point is <strong>Matabiau station</strong>. To reach Météo France:</p>
+            <ol>
+              <li>Take <strong>Metro Line A</strong> towards <strong>Basso Cambo</strong>.</li>
+              <li>Get off at the terminus <strong>Basso Cambo</strong>.</li>
+              <li>Take <strong>Bus Line 18</strong> towards <strong>Arènes</strong>.</li>
+              <li>Get off at the <strong>Météo</strong> stop.</li>
+            </ol>
+          </div>
+          <div class="col-md-6">
+            <h4><i class="fa fa-plane"></i> By Plane</h4>
+            <p>From <strong>Toulouse-Blagnac Airport</strong>:</p>
+            <ol>
+              <li>Walk 600m to the <strong>Daurat</strong> bus stop.</li>
+              <li>Take <strong>Bus Line 31</strong> to <strong>Pasteur - Mairie de Blagnac</strong>.</li>
+              <li>Take <strong>Tram T1</strong> to <strong>Arènes</strong>.</li>
+              <li>Continue with <strong>Metro Line A</strong> to <strong>Basso Cambo</strong>, then take <strong>Bus 18</strong>.</li>
+            </ol>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-md-6">
+            <h4><i class="fa fa-car"></i> By Car</h4>
+            <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
+          </div>
+          <div class="col-md-6">
+            <h4><i class="fa fa-ticket"></i> Public Transport</h4>
+            <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-map"></i> Map</h3>
+        </div>
+        <div class="panel-body">
+            <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik"></iframe>
+            <small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394" target="_blank">View larger map</a></small>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-road"></i> Site Access</h3>
+        </div>
+        <div class="panel-body">
+            <img src="img/pgday_acces.gif" alt="Site Access" class="img-responsive">
+        </div>
+    </div>
+  </div>
 </div>
 
-## Lieu de l'événement
-
-```
-Météo France - Centre International de Conférences
-
-42 avenue Gaspard Coriolis
-31100 Toulouse
-France
-Téléphone: +33 626297387
-```
-<http://www.meteo.fr/cic/presentation.html>
-
-
-## Comment venir ?
-
-### En train
-
-La **gare Matabiau** permet de relier facilement le centre-ville à pied ainsi que le lieu qui accueille l'évènement en transports en commun.
-
-Pour rejoindre **Météo France** :
-- prendre métro **ligne A**, direction **Basso Cambo**.
-- descendre au terminus, arrêt **Basso Cambo**.
-- prendre bus **ligne 18**, direction **Arènes**.
-- descendre arrêt **Météo**.
-
-#### Liaisons principales vers Toulouse
-
-* Depuis **Lille-Flandres** :
-  Trajet d'environ 7 heures via Paris.
-
-* Depuis **Paris-Montparnasse** :
-  Trajet direct d'environ 4h30.
-
-* Depuis **Lyon Part-Dieu** :
-  Trajet direct d'environ 4h10.
-
-* Depuis **Nantes** :
-  Trajet d'environ 7 heures via Bordeaux.
-
-### En voiture
-
-* Situé en périphérie de Toulouse, à proximité de la rocade **Arc en ciel**, Météo France dispose d'un parking gratuit pour les participants de l'événement.
-
-### En avion
-
-* L'aéroport de **Blagnac** est proche du réseau de transports en commun toulousain.
-  
-  Pour rejoindre **Météo France** :
-  - rejoindre bus **ligne 31** , arrêt **Daurat** situé à environ 600 mètres de l'aéroport.
-  - prendre bus **ligne 31**, direction **Guyenne-Berry Blagnac**.
-  - descendre arrêt **Pasteur - Mairie de Blagnac**.
-  - prendre tramway **ligne T1**, direction **Palais de Justice**.
-  - descendre arrêt **Arènes**.
-  - prendre métro **ligne A**, direction **Basso Cambo**.
-  - descendre au terminus, arrêt **Basso Cambo**.
-  - prendre bus **ligne 18**, direction **Arènes**.
-  - descendre arrêt **Météo**.
-
-### A savoir
-
-* Vous pouvez acheter vos titres de transports en commun via :
-  - des distributeurs automatiques présents aux stations de métro et de tramway.
-  - à bord des bus.
-
-* Un titre de transport peut être utilisé pour 3 changements réalisés dans une durée d'1 heure après le premier compostage.
-  
-* Le titre doit être composté à **chaque changement** sous peine de contravention (contrôles réguliers en ce moment).
-
-### Accès au site
-
-![Acces au site](img/acces_pgday.gif "Accces Météo France")
-
-<hr/>
-
-# Practical Information (EN)
-
-<div class="col-lg-12">
-
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394">Afficher une carte plus grande</a></small>
-
-</div>
-
-## Venue
-
-```
-Météo France - International Center of Conferences
-
-42 avenue Gaspard Coriolis
-31100 Toulouse
-France
-Phone: +33 626297387
-```
-<http://www.meteo.fr/cic/presentation.html>
-
-
-## How to get there?
-
-### By Train
-
-The **Matabiau station** provides easy access to the city center on foot as well as to the place hosting the event by public transport.
-
-To join **Météo France** :
-- take the metro **A line**, towards **Basso Cambo**.
-- get off at the terminus, **Basso Cambo** station.
-- take bus **18 line**, towards **Arènes**.
-- get off at the **Météo** stop.
-
-#### Main connections to Toulouse
-
-* From **Lille-Flandres** :
-  Journey of approximately 7 hours via Paris.
-
-* From **Paris-Montparnasse** :
-  Journey of approximately 4h30.
-
-* From **Lyon Part-Dieu** :
-  Journey of approximately 4h10.
-
-* From **Nantes** :
-  Journey of approximately 7 hours via Bordeaux.
-
-### By car
-
-* Located on the outskirts of Toulouse, near the **Arc en ciel** ring road, Météo France offers free parking for event participants.
-
-### By plane
-
-* Blagnac Airport is close to the Toulouse public transport network.
-
-  To join **Météo France** :
-  - go to the **Daurat** stop of the bus **31 line**, located at approximately 600 meters from the airport.
-  - take bus **31 line**, towards **Guyenne-Berry Blagnac**.
-  - get off at the **Pasteur - Mairie de Blagnac** stop.
-  - take tram **T1 line**, towards **Palais de Justice**.
-  - get off at the **Arènes** stop.
-  - take metro **A line**, towards **Basso Cambo**.
-  - get off at the terminus, **Basso Cambo** station.
-  - take bus **18 line**, towards **Arènes**.
-  - get off at the  **Météo** stop.
-
-### Important Information
-
-* You can purchase your public transport tickets via :
-  - ticket machines located at metro and tram stations.
-  - on board buses.
-
-* A single ticket can be used for up to 3 transfers within 1 hour of the first validation.
-  
-* The ticket must be validated **at each transfer** or you will be fined (regular checks are currently in place).
-
-### Site access
-
-![Site acces](img/pgday_acces.gif "Meteo France Access")
