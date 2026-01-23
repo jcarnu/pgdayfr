@@ -17,6 +17,10 @@ l'ambition de faire naître ou grandir une communauté locale. Les précédentes
 éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon, Nantes,
 Montpellier, et Strasbourg.
 
+L'évènement regroupe un ensemble de présentations, et ateliers sous les valeurs de l'Open-Source.
+Le comité de sélection est libre quant aux critères de choix des interventions.
+
+
 ## Contact
 
 Pour toute information, adressez vos messages à [contact@pgday.fr](mailto:contact@pgday.fr).
@@ -46,21 +50,11 @@ bien que ses frais de déplacement puissent, dans certains cas, être remboursé
 
 L'équipe organisatrice est quant à elle entièrement composée de bénévoles.
 
-<!-- ## Comité de sélection
+## Comité de sélection
 
-Le comité de sélection 2025 est composé des personnes suivantes :
+Le comité de sélection 2026 est composé des personnes suivantes :
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-
-  <div style="text-align: center; margin: 10px;">
-    <img src="img/team/h_nguyen.jpg" alt="Helene Nguyen" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Helene Nguyen <br/> Engineering Manager & Software Engineer<br/>@ Filigran</p>
-  </div>
-
-  <div style="text-align: center; margin: 10px;">
-    <img src="img/orateurs/l_avrot.jpg" alt="Lætitia Avrot" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Lætitia Avrot <br/> Practice Leader, Postgres & Security<br/>@ EDB</p>
-  </div>
 
   <div style="text-align: center; margin: 10px;">
     <img src="img/team/y_colin.jpg" alt="Yves Colin" class="img-responsive" width=100 style="margin: auto;"/>
@@ -73,8 +67,53 @@ Le comité de sélection 2025 est composé des personnes suivantes :
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/orateurs/j_riou.jpg" alt="Julien Riou" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Julien Riou <br/> Tech Lead<br/>@ OVHcloud</p>
+    <img src="img/orateurs/n_mallet.jpg" alt="Naeva Mallet" class="img-responsive" width=100 style="margin: auto;"/>
+    <p> Naeva Mallet<br/> Database administrator <br/>@ leboncoin</p>
   </div>
 
-</div> -->
+  <div style="text-align: center; margin: 10px;">
+    <img src="img/team/h_nguyen.jpg" alt="Helene Nguyen" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Helene Nguyen <br/> Engineering Manager & Software Engineer<br/>@ Filigran</p>
+  </div>
+
+<!--
+  <div style="text-align: center; margin: 10px;">
+    <img src="img/orateurs/todo.jpg" alt="TODO" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>TODO <br/> TODO<br/>@ TODO</p>
+  </div>
+-->
+</div> 
+
+## Comité d'organisation
+
+Cet évènement est organisé par des volontaires cojointement avec les membres de l'association PostgreSQLFr, notamment :
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
+    <p> Jean-Paul Argudo<br/> <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Jean-Christophe Arnu<br/> <br/> (Toulouse)</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Sylvain Beorchia<br/> (Graphiste) <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Damien Clochard<br/> <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Matthieu Cornillon<br/> <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Flavio Henrique Araque Gurgel<br/> <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Yohann Martin<br/> <br/> </p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Xavier Simon<br/> <br/> (Toulouse)</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p> Anaïs Oberto<br/> <br/> </p>
+  </div>
+
+</div>
