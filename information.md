@@ -8,30 +8,45 @@ title: Information
 
 <div class="col-lg-12">
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.9382982254028325%2C50.45535918936764%2C3.941693902015686%2C50.457073695874065&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/50.456216/3.939996">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/43.577430/1.375394">Afficher une carte plus grande</a></small>
 
 </div>
 
 ## Lieu de l'événement
 
 ```
-Van der Valk Congres & Spa Hotel Mons
+Météo France - Centre International de Conférences
 
-Avenue Mélina Mercouri 7
-7000 Mons
-Belgique
-Téléphone: +32 65 39 02 07
+42 Avenue Gaspard Coriolis
+31100 TOULOUSE
+France
+Téléphone: +33 626297387
 ```
-<https://www.hotelmons.eu/>
+<http://www.meteo.fr/cic/>
 
 
 ## Comment venir ?
 
 ### En train
 
-La **nouvelle gare de Mons**, [inaugurée récemment](https://www.belgiantrain.be/fr/news/opening-mons), permet de relier facilement le centre-ville à pied ainsi que des lieux clés comme le [Palais des Expositions](https://www.lottomonsexpo.be/Web/fr/) et le plus grand [centre commercial](https://www.grandspres.be/) de la région.
+La gare Matabiau, située au coeur de la ville rose, permet de relier facilement le centre-ville à pied ainsi que le lieu où se déroulera le PgDay en transports en commun.
 
-Depuis la gare de Mons, pour rejoindre l'Hôtel _Van der Valk Mons_, empruntez la sortie **Place des Congrès**.
+Pour rejoindre Météo France qui accueille l'évènement :
+- prendre le métro ligne A, direction "Basso Cambo".
+- descendre au terminus, arrêt "Basso Cambo".
+- prendre le bus 18, direction "Arènes".
+- descendre à l'arrêt "Météo".
+
+Pour rejoindre l'hôtel le plus proche de l'évènement (B&B Basso Cambo) :
+- prendre le métro ligne A, direction "Basso Cambo".
+- descendre au terminus, arrêt "Basso Cambo".
+- prendre le bus 21, direction "Colomiers Airbus".
+- descendre à l'arrêt "Déodat Roché".
+
+A savoir :
+Tickets transports en commun vendus en gares.
+Un ticket permet de faire l'ensemble du trajet.
+Penser à composter le ticket à chaque changement de moyen de transport : risque d'amende le cas échéant.
 
 #### Liaisons principales vers Mons
 
