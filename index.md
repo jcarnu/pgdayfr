@@ -9,7 +9,7 @@ layout: default
 
 
 <center>
-<img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive" style="max-height: 400px; width: 100%; object-fit: cover; object-position: center;" />
+<img src="img/pgday_2026_bandeau.png" alt="Toulouse" class="img-responsive" style="width: 100%;" />
 </center>
 
 
