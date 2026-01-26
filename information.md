@@ -64,13 +64,13 @@ layout: default
     </div>
      <div class="panel panel-pg-info">
       <div class="panel-heading">
-        <h3 class="panel-title"><i class="fa fa-bus"></i> Accommodation</h3>
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Hébergement</h3>
       </div>
       <div class="panel-body">
-        <p>Located 450 meters from <strong>Météo France</strong>, the <strong>B&B Toulouse-Basso Cambo</strong> hotel will welcome you at a preferential rate.</p>
-        <p>For all bookings made via the establishment's website, our participants can benefit from a 10% discount by specifying the promotional code <strong>PGDAY26</strong> (discount available excluding other promotions).</p>
-        <p>Address : 12 Rue Claude-Marie Perroud - 31100 Toulouse.</p>
-        <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Booking</a></p>
+        <p>Situé à 450 mètres de <strong>Météo France</strong>, l'hôtel <strong>B&B Toulouse-Basso Cambo</strong> vous accueillera à un tarif préférentiel.</p>
+        <p>Pour toute réservation via le site Internet de l'établissement, nos participants pourront bénéficier d'une remise de 10% en précisant le code promotion <strong>PGDAY26</strong> (remise valable hors autres promotions).</p>
+        <p>Adresse : 12 Rue Claude-Marie Perroud - 31100 Toulouse.</p>
+        <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Réservation</a></p>
       </div>
     </div>
   </div>
