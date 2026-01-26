@@ -62,6 +62,17 @@ layout: default
         </div>
       </div>
     </div>
+     <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Accommodation</h3>
+      </div>
+      <div class="panel-body">
+        <p>Located 450 meters from <strong>Météo France</strong>, the <strong>B&B Toulouse-Basso Cambo</strong> hotel will welcome you at a preferential rate.</p>
+        <p>For all bookings made via the establishment's website, our participants can benefit from a 10% discount by specifying the promotional code <strong>PGDAY26</strong> (discount available excluding other promotions).</p>
+        <p>Address : 12 Rue Claude-Marie Perroud - 31100 Toulouse.</p>
+        <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Booking</a></p>
+      </div>
+    </div>
   </div>
   <div class="col-md-4">
     <div class="panel panel-default">
