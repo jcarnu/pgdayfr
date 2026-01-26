@@ -63,6 +63,18 @@ layout: default
       </div>
     </div>
   </div>
+  <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Hébergement</h3>
+      </div>
+      <div class="panel-body">
+        <p>Situé à 450 mètres de <strong>Météo France</strong>, l'hôtel <strong>B&B Toulouse-Basso Cambo</strong> vous accueillera à un tarif préférentiel.</p>
+        <p>Pour toute réservation via le site Internet de l'établissement, nos participants pourront bénéficier d'une remise de 10% en précisant le code promotion <strong>PGDAY26</strong> (remise valable hors autres promotions).</p>
+        <p>Adresse : 12 Rue Claude-Marie Perroud - 31100 Toulouse.</p>
+        <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Réservation</a></p>
+      </div>
+   </div>
+  </div>
   <div class="col-md-4">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -138,6 +150,17 @@ layout: default
             <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection. You also can use your contactless credit/debit card or your NFC compatible smartphone with the Tisséo app for <a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a> instead of a ticket. Check-out the <a href="https://www.tisseo.fr/">Tisseo website</a> for more information.</p>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Accommodation</h3>
+      </div>
+      <div class="panel-body">
+        <p>Located 450 meters from <strong>Météo France</strong>, the <strong>B&B Toulouse-Basso Cambo</strong> hotel will welcome you at a preferential rate.</p>
+        <p>For all bookings made via the establishment's website, our participants can benefit from a 10% discount by specifying the promotional code <strong>PGDAY26</strong> (discount available excluding other promotions).</p>
+        <p>Adress : 12 Rue Claude-Marie Perroud - 31100 Toulouse.</p>
+        <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Booking</a></p>
       </div>
     </div>
   </div>
