@@ -345,6 +345,10 @@ footer#sponsors h5 {
     color: white;
     border-color: var(--pg-blue);
 }
+
+.panel-pg-primary .panel-heading .panel-title {
+    color: white;
+}
 .panel-pg-primary {
     border-color: var(--pg-blue);
 }
