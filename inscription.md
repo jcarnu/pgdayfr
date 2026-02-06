@@ -1,61 +1,56 @@
 ---
 title: Inscription
+layout: default
 ---
 
-<br/>
-<br/>
+<div style="width: 100%;">
+  <div class="row text-center">
+    <div class="col-lg-12">
+      <h1 style="margin-bottom: 20px;">Inscription / Registration</h1>
+      <p class="lead">
+        Rejoignez-nous à Toulouse pour le PG Day France 2026.<br>
+        <em>Join us in Toulouse for PG Day France 2026.</em>
+      </p>
+      <hr>
+    </div>
+  </div>
 
-<!-- COMPLET
-<div class="row">
-  <div class="col-sm-1"></div>
-  <div class="col-lg-12 col-md-12 text-center">
-    <h2>Événement complet!</h2>
-    <b>Nous travaillons actuellement pour ajouter des places supplémentaires,
-      n'hésitez pas à suivre notre <a href="https://twitter.com/PGDAY_Fr">fil
-        twitter</a> pour être prévenu dès que de nouvelles
-    places seront disponibles.</b>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="well" style="text-align: center; border-top: 8px solid #337ab7; padding: 40px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        <h2 style="color: #337ab7; margin-top: 0;"><i class="fa fa-ticket"></i> Billetterie</h2>
+        <h4 class="text-muted">Tickets</h4>
+        
+        <div style="margin: 30px 0; font-size: 1.2em;">
+          <p>
+            <strong>L'inscription est valable pour les deux journées complètes (3 et 4 juin).</strong>
+          </p>
+          <p>
+            Elle comprend l'accès aux ateliers du mercredi, aux conférences du jeudi, à l'événement communautaire ainsi qu'au déjeuner du deuxième jour.
+          </p>
+          <hr style="width: 50%;">
+          <p>
+            <em><strong>Registration is valid for both full days (June 3rd and 4th).</strong></em>
+          </p>
+          <p>
+            <em>It includes access to Wednesday's workshops, Thursday's conferences, the community event, and lunch on the second day.</em>
+          </p>
+        </div>
+
+        <a href="https://www.eventbrite.fr/e/billets-pg-day-france-2026-1981416495075?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" class="btn btn-primary btn-lg btn-block" target="_blank" style="padding: 20px; font-size: 1.5em;">
+          S'inscrire à l'événement <br>
+          <small style="color: #e1e1e1;">Register for the event</small>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row text-center" style="margin-top: 30px;">
+    <div class="col-lg-12">
+      <p class="text-muted">
+        <i class="fa fa-info-circle"></i> L'entrée aux ateliers est libre dans la limite des places disponibles.<br>
+        <em>Workshop entrance is on a first-come, first-served basis, subject to availability.</em>
+      </p>
+    </div>
   </div>
 </div>
--->
-
-<!-- PAS ENCORE OUVERT
-<div class="row">
-  <div class="col-sm-1"></div>
-  <div class="col-lg-12 col-md-12 text-center section-colored">
-    <h4> Inscriptions : Les inscriptions ne sont pas ouvertes !</h4>
-  </div>
-</div>
--->
-
-<div class="row">
-  <div class="col-sm-1"></div>
-  <div class="col-lg-12 col-md-12 text-center section-colored">
-  <!-- <div class="col-md-8 col-md-offset-2 section-colored text-center"> -->
-
-<div id="eventbrite-widget-container-1281155042219"></div>
-
-<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '1281155042219',
-        iframeContainerId: 'eventbrite-widget-container-1281155042219',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
-  </div>
-</div>
-
-<hr/>
-<p><strong>Bon à savoir :</strong> en vous inscrivant à l'événement, vous aurez aussi accès à tous les ateliers du mercredi 3 juin au matin. L'entrée aux ateliers est libre, <u>dans la limite des places disponibles</u>, mais elle est réservée aux personnes inscrites à l'événement.</p>
-<p><strong>Good to know:</strong> By registering for the event, you'll also have access to all the workshops on Wednesday morning, June 3rd. Workshops are open on a first-come, first-served basis, <u>subject to availability</u>, and are only open to registered event participants.</p>
