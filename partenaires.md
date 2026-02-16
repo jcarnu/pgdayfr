@@ -47,7 +47,7 @@ their presence alongside us.
     <td>1</td>
     <td>2</td>
     <td>2</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <th>Priorité sur les lightning talks (1 max)</th>
