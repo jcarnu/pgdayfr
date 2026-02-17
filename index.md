@@ -89,11 +89,6 @@ Stay tuned for more details and the opening of registrations.
         </a>
       </div>
       <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
-        <a href="https://loxodata.com/" target="_blank">
-          <img src="/img/loxodata.png" alt="Loxodata" style="max-height: 80px;" />
-        </a>
-      </div>
-      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
         <a href="https://www.leboncoin.fr/" target="_blank">
           <img src="/img/leboncoin.png" alt="LeBonCoin" style="max-height: 100px;" />
         </a>
