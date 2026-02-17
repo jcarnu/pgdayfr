@@ -32,13 +32,7 @@ their presence alongside us.
        </a>
      </div>
   </div>
-  <div class="col-md-4 col-sm-12">
-     <div style="text-align: center;">
-       <a href="https://loxodata.com/" target="_blank">
-         <img src="/img/loxodata.png" alt="Loxodata" class="img-responsive" style="max-height: 150px; margin: 0 auto;" />
-       </a>
-     </div>
-  </div>
+  
 </div>
 
 <div class="row">
