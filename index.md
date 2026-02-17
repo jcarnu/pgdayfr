@@ -75,8 +75,36 @@ Stay tuned for more details and the opening of registrations.
 <h2><a href='/partenaires'>Sponsors</a></h2>
 </center>
 
-<div class="container">
-<!-- Sponsors list to be updated -->
+<div class="row text-center">
+  <div class="col-md-12">
+    <div style="margin-top: 20px;">
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://aws.amazon.com/" target="_blank">
+          <img src="/img/aws.png" alt="AWS" style="max-height: 80px; padding: 10px;" />
+        </a>
+      </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://www.dalibo.com/" target="_blank">
+          <img src="/img/dalibo.png" alt="Dalibo" style="max-height: 80px;" />
+        </a>
+      </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://loxodata.com/" target="_blank">
+          <img src="/img/loxodata.png" alt="Loxodata" style="max-height: 80px;" />
+        </a>
+      </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://www.leboncoin.fr/" target="_blank">
+          <img src="/img/leboncoin.png" alt="LeBonCoin" style="max-height: 100px;" />
+        </a>
+      </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://www.navicat.com/" target="_blank">
+          <img src="/img/navicat.png" alt="Navicat" style="max-height: 50px;" />
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <hr/>
