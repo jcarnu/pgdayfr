@@ -90,7 +90,7 @@ their presence alongside us.
 
   <div class="col-md-6 col-sm-12">
      <div style="text-align: center;">
-       <a href="[https://www.navicat.com/](https://meteofrance.com/)" target="_blank">
+       <a href="https://meteofrance.com/" target="_blank">
          <img src="/img/MeteoFrance.png" alt="Meteo France" class="img-responsive" style="max-height: 100px; margin: 0 auto;" />
        </a>
      </div>
