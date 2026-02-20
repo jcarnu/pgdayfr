@@ -80,15 +80,23 @@ their presence alongside us.
 </div>
 
 <div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <div class="col-md-6 col-sm-12">
+  <div class="col-md-12 col-sm-12">
      <div style="text-align: center;">
        <a href="https://www.navicat.com/" target="_blank">
          <img src="/img/navicat.png" alt="Navicat" class="img-responsive" style="max-height: 100px; margin: 0 auto;" />
        </a>
      </div>
   </div>
+</div>
 
-  <div class="col-md-6 col-sm-12">
+<div class="row">
+  <div class="col-lg-12 text-center">
+    <h3 style="margin-top: 40px; margin-bottom: 30px; color: #336791;">Special Thanks</h3>
+  </div>
+</div>
+
+<div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <div class="col-md-12 col-sm-12">
      <div style="text-align: center;">
        <a href="https://meteofrance.com/" target="_blank">
          <img src="/img/MeteoFrance.png" alt="Meteo France" class="img-responsive" style="max-height: 100px; margin: 0 auto;" />
