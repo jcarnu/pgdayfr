@@ -103,6 +103,11 @@ Stay tuned for more details and the opening of registrations.
           <img src="/img/navicat.png" alt="Navicat" style="max-height: 50px;" />
         </a>
       </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://meteofrance.com/" target="_blank">
+          <img src="/img/MeteoFrance.png" alt="Météo France" style="max-height: 50px;" />
+        </a>
+      </div>
     </div>
   </div>
 </div>
