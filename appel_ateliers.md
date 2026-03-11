@@ -59,13 +59,13 @@ layout: default
       <div class="well text-center" style="margin-top: 40px; border-top: 5px solid #5cb85c;">
         <h2>Formulaire de soumission / Submission Form</h2>
         <p class="lead">
-          Cliquez sur le bouton ci-dessous pour accéder au formulaire.<br>
-          <em>Click the button below to access the form.</em>
+          L'appel à ateliers est désormais clos. Merci à toutes et tous pour vos propositions !<br>
+          <em>The call for workshops is now closed. Thank you all for your submissions!</em>
         </p>
         <br>
-        <a href="https://framaforms.org/call-for-paper-workshops-pg-day-france-2026-1769153787" target="_blank" class="btn btn-success btn-lg" style="padding: 20px 40px; font-size: 1.3em;">
-          <i class="fa fa-pencil-square-o"></i> Proposer un atelier / Submit a Workshop
-        </a>
+        <button class="btn btn-success btn-lg" style="padding: 20px 40px; font-size: 1.3em;" disabled>
+          <i class="fa fa-pencil-square-o"></i> Soumission fermée / Submission Closed
+        </button>
       </div>
 
     </div>

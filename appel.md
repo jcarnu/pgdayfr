@@ -34,10 +34,10 @@ layout: default
             <li>Nouveautés de PostgreSQL</li>
           </ul>
         </div>
-        <a href="/appel_conferences" class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;">
-          Proposer une conférence <br>
-          <small>Submit a Talk</small>
-        </a>
+        <button class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" disabled>
+          L'appel est clos <br>
+          <small>Call is closed</small>
+        </button>
       </div>
     </div>
 
@@ -59,10 +59,10 @@ layout: default
             <li>Découverte d'outils</li>
           </ul>
         </div>
-        <a href="/appel_ateliers" class="btn btn-success btn-lg btn-block" style="margin-top: 20px;">
-          Proposer un atelier <br>
-          <small>Submit a Workshop</small>
-        </a>
+        <button class="btn btn-success btn-lg btn-block" style="margin-top: 20px;" disabled>
+          L'appel est clos <br>
+          <small>Call is closed</small>
+        </button>
       </div>
     </div>
   </div>

@@ -27,7 +27,7 @@ Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 
 <center>
-<h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
+<h3>L'appel à conférencier·ères est désormais clos.</h3>
 </center>
 
 <!--
@@ -58,7 +58,7 @@ Enthusiasts, students, DBAs, developers, and companies: everyone comes together 
 Stay tuned for more details and the opening of registrations.
 
 <center>
-<h3><a href='/appel'>Call for Paper is open!</a></h3>
+<h3>Call for Paper is now closed.</h3>
 </center>
 
 <!--
