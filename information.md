@@ -79,7 +79,7 @@ layout: default
           <div class="panel-body">
             <div class="row">
               <div class="col-md-12">
-                <p>A titre indicatif, quelques durées de déplacements pour organiser au mieux votre venue :</p>
+                <p>A titre indicatif, quelques durées de déplacements pour préparer au mieux votre venue :</p>
               </div>
             </div>
             <div class="row">
