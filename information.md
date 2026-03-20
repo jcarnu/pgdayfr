@@ -85,28 +85,34 @@ layout: default
           <div class="col-md-3">
              <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
              <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
              <p><strong>Météo France</strong></p>
+          </div>
+          <div class="col-md-1">
+             <p>:</p>
           </div>          
           <div class="col-md-3">
-             <p> : 52 minutes.</p>
+             <p>52 minutes.</p>
           </div>          
         </div>
         <div class="row">
           <div class="col-md-3">        
              <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Hotel B&B</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>          
           <div class="col-md-3">
-            <p> : 55 minutes.</p>
+            <p>55 minutes.</p>
           </div>
         </div>
         <div class="row">        
