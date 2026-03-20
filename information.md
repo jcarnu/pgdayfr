@@ -241,7 +241,7 @@ layout: default
                 <p>Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
                 <p>Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
                 <p>Fréquence tramway <strong>Ligne T1</strong> : toutes les 6 minutes.</p>
-                <p>Fréquence métro <strong>Ligne A</strong> (qui dessert Météo France) : toutes les 15 minutes.</p>
+                <p>Fréquence métro <strong>Ligne A</strong> : toutes les 15 minutes.</p>
               </div>
             </div>
             <hr>
