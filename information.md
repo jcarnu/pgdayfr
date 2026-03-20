@@ -234,6 +234,7 @@ layout: default
             <p>35 minutes.</p>
           </div>
         </div>
+        <hr>
         <div class="row">
           <p>   Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
           <p>   Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
