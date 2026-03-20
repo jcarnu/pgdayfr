@@ -72,7 +72,6 @@ layout: default
             <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Réservation</a></p>
           </div>
         </div>
-        </div>    
       </div>
       <div class="col-md-4">
         <div class="panel panel-default">
@@ -93,7 +92,6 @@ layout: default
           </div>
         </div>
       </div>
-    </div>
     </div>
     <hr>
     <h1 class="page-header" style="border-bottom: 4px solid #337ab7; color: #337ab7; margin-bottom: 30px;">
