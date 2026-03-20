@@ -72,6 +72,16 @@ layout: default
             <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Réservation</a></p>
           </div>
         </div>
+        <div class="panel panel-pg-info">
+          <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-bus"></i> Trajets</h3>
+          </div>
+          <div class="panel-body">
+            <div class="row">
+              <p>A titre indicatif, quelques durées de déplacements pour organiser au mieux votre venue :</p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <div class="panel panel-default">
