@@ -119,98 +119,119 @@ layout: default
           <div class="col-md-3">
             <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Place du Capitole</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 42 minutes.</p>
+            <p>42 minutes.</p>
           </div>
         </div>
         <div class="row">      
           <div class="col-md-3">
             <p><strong>Gare Matabiau</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-           <div class="col-md-3">
+           <div class="col-md-4">
             <p><strong>Météo France</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 33 minutes.</p>
+            <p>33 minutes.</p>
           </div> 
         </div>
         <div class="row">        
           <div class="col-md-3">
             <p><strong>Gare Matabiau</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Hotel B&B</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 36 minutes.</p>
+            <p>36 minutes.</p>
           </div> 
         </div>
         <div class="row">        
           <div class="col-md-3">
             <p><strong>Gare Matabiau</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Place du Capitole</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 12 minutes.</p>
+            <p>12 minutes.</p>
           </div> 
         </div>
         <div class="row">        
           <div class="col-md-3">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Hotel B&B</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 5 minutes.</p>
+            <p>5 minutes.</p>
           </div>        
         </div>
         <div class="row">        
           <div class="col-md-3">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Place du Capitole</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 29 minutes.</p>
+            <p>29 minutes.</p>
           </div>        
         </div>
         <div class="row">        
           <div class="col-md-3">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             <p>-</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p><strong>Soirée Communautaire</strong></p>
           </div>
+          <div class="col-md-1">
+            <p>:</p>
+          </div>
           <div class="col-md-3">
-            <p> : 35 minutes.</p>
+            <p>35 minutes.</p>
           </div>
         </div>
         <div class="row">
