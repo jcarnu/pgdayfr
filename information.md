@@ -73,6 +73,35 @@ layout: default
         <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Réservation</a></p>
       </div>
     </div>
+    <div class="panel panel-pg-info">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-bus"></i> Trajets</h3>
+      </div>
+      <div class="panel-body">
+        <p>A titre indicatif, quelques durées de déplacements pour organiser au mieux votre venue :</p>
+      </div>
+      <div class="row">
+        <p><strong>Aéroport</strong>       - <strong>Météo France</strong>         : 52 minutes.</p>
+        <p><strong>Aéroport</strong>       - <strong>Hotel B&B</strong>            : 55 minutes.</p>
+        <p><strong>Aéroport</strong>       - <strong>Place du Capitole</strong>    : 42 minutes.</p>
+        <p><strong>Gare Matabiau</strong>  - <strong>Météo France</strong>         : 33 minutes.</p>
+        <p><strong>Gare Matabiau</strong>  - <strong>Hotel B&B</strong>            : 36 minutes.</p>
+        <p><strong>Gare Matabiau</strong>  - <strong>Place du Capitole</strong>    : 12 minutes.</p>
+        <p><strong>Météo France</strong>   - <strong>Hotel B&B</strong>            :  5 minutes.</p>
+        <p><strong>Météo France</strong>   - <strong>Place du Capitole</strong>    : 29 minutes.</p>
+        <p><strong>Météo France</strong>   - <strong>Soirée Communautaire</strong> : 35 minutes.</p>
+      </div>
+      <div class="row">
+        <p> Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
+        <p> Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
+        <p> Fréquence tramway <strong>Ligne T1</strong> : toutes les 6 minutes.</p>
+        <p> Fréquence métro <strong>Ligne A</strong> (qui dessert Météo France) : toutes les 15 minutes.</p>
+      </div>
+      <div class="row">
+        <p> Données source Tisséo. Pour organiser votre trajet :
+        <p><a href="https://www.tisseo.fr" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
+      </div>
+    </div>
   </div>
   <div class="col-md-4">
     <div class="panel panel-default">
