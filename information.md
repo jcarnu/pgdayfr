@@ -131,7 +131,7 @@ layout: default
             <h4><i class="fa fa-plane"></i> By Plane</h4>
             <p>From <strong>Toulouse-Blagnac Airport</strong>:</p>
             <ol>
-              <li>Walk 600m to the <strong>Daurat</strong> bus stop.</li>
+              <li>The bus station is near the <strong>Terminal 1</strong>, on the <strong>right</strong> when you leave the airport.</li>
               <li>Take <strong>Bus Line 31</strong> to <strong>Pasteur - Mairie de Blagnac</strong>.</li>
               <li>Take <strong>Tram T1</strong> to <strong>Arènes</strong>.</li>
               <li>Continue with <strong>Metro Line A</strong> to <strong>Basso Cambo</strong>, then take <strong>Bus 18</strong>.</li>
