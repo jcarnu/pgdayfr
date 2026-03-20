@@ -266,7 +266,7 @@ layout: default
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
           </div>
         </div>
-      </div>
+ 
     </div>
     <hr>
     <h1 class="page-header" style="border-bottom: 4px solid #337ab7; color: #337ab7; margin-bottom: 30px;">
