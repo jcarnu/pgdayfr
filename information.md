@@ -82,102 +82,156 @@ layout: default
           <p>A titre indicatif, quelques durées de déplacements pour organiser au mieux votre venue :</p>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-2">
              <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-4">
-             <p> - <strong>Météo France</strong>.</p>
+          <div class="col-md-2">
+             <p>-</p>
           </div>
-          <div class="col-md-4">
-             <p>: 52 minutes.</p>
+          <div class="col-md-2">
+             <p><strong>Météo France</strong></p>
+          </div>          
+          <div class="col-md-2">
+             <p>:</p>
           </div>
+          <div class="col-md-2">
+             <p>52 minutes.</p>
+          </div>          
         </div>
         <div class="row">
-          <div class="col-md-4">        
+          <div class="col-md-2">        
              <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Hotel B&B</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 55 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Hotel B&B</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
+          </div>
+          <div class="col-md-2">
+            <p>55 minutes.</p>
           </div>
         </div>
         <div class="row">        
-          <div class="col-md-4">
+          <div class="col-md-2">
             <p><strong>Aéroport</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Place du Capitole</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 42 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Place du Capitole</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
+          </div>
+           <div class="col-md-2">
+            <p>42 minutes.</p>
           </div>
         </div>
         <div class="row">      
-          <div class="col-md-4">
+          <div class="col-md-2">
             <p><strong>Gare Matabiau</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Météo France</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 33 minutes.</p>
+           <div class="col-md-2">
+            <p><strong>Météo France</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
           </div>   
-        </div>
-        <div class="row">        
-          <div class="col-md-4">
-            <p><strong>Gare Matabiau</strong></p>
-          </div>
-          <div class="col-md-4">
-            <p> - <strong>Hotel B&B</strong></p>
-          </div>
-          <div class="col-md-4">
-            <p>: 36 minutes.</p>
+          <div class="col-md-2">
+            <p>33 minutes.</p>
           </div> 
         </div>
         <div class="row">        
-          <div class="col-md-4">
+          <div class="col-md-2">
             <p><strong>Gare Matabiau</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Place du Capitole</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 12 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Hotel B&B</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
+          </div> 
+          <div class="col-md-2">
+            <p>36 minutes.</p>
+          </div> 
+        </div>
+        <div class="row">        
+          <div class="col-md-2">
+            <p><strong>Gare Matabiau</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>-</p>
+          </div>
+          <div class="col-md-2">
+            <p><strong>Place du Capitole</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
           </div>   
+          <div class="col-md-2">
+            <p>12 minutes.</p>
+          </div> 
         </div>
         <div class="row">        
-          <div class="col-md-4">
+          <div class="col-md-1">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Hotel B&B</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>:  5 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Hotel B&B</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
+          </div> 
+          <div class="col-md-2">
+            <p>5 minutes.</p>
           </div>        
         </div>
         <div class="row">        
-          <div class="col-md-4">
+          <div class="col-md-2">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Place du Capitole</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 29 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Place du Capitole</strong></p>
+          </div>
+          <div class="col-md-2">
+            <p>:</p>
+          </div>  
+          <div class="col-md-2">
+            <p>29 minutes.</p>
           </div>        
         </div>
         <div class="row">        
-          <div class="col-md-4">
+          <div class="col-md-2">
             <p><strong>Météo France</strong></p>
           </div>
-          <div class="col-md-4">
-            <p> - <strong>Soirée Communautaire</strong></p>
+          <div class="col-md-2">
+            <p>-</p>
           </div>
-          <div class="col-md-4">
-            <p>: 35 minutes.</p>
+          <div class="col-md-2">
+            <p><strong>Soirée Communautaire</strong></p>
+          </div>
+          <div class="col-md-24">
+            <p>:</p>
+          </div>
+          <div class="col-md-24">
+            <p>35 minutes.</p>
           </div>
         </div>
         <div class="row">
