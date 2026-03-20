@@ -188,7 +188,7 @@ layout: default
         </div>
         <div class="row">
           <p> Données source Tisséo. Pour organiser votre trajet :
-          <p><a href="https://www.tisseo.fr" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
+          <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
         </div>
       </div>
     </div>
