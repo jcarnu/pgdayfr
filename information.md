@@ -42,7 +42,7 @@ layout: default
             <h4><i class="fa fa-plane"></i> En avion</h4>
             <p>Depuis l'aéroport de <strong>Toulouse-Blagnac</strong> :</p>
             <ol>
-              <li>Marcher 600m jusqu'à l'arrêt <strong>Daurat</strong>.</li>
+              <li>L'arrêt de bus est situé à proximité du <strong>Terminal 1</strong>, sur la <strong>droite</strong> quand on sort de l'aéroport.</li>
               <li>Prendre le <strong>bus Ligne 31</strong> jusqu'à <strong>Pasteur - Mairie de Blagnac</strong>.</li>
               <li>Prendre le <strong>tram T1</strong> jusqu'aux <strong>Arènes</strong>.</li>
               <li>Continuer avec le <strong>métro Ligne A</strong> jusqu'à <strong>Basso Cambo</strong>, puis le <strong>bus 18</strong>.</li>
