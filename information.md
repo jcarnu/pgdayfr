@@ -246,9 +246,7 @@ layout: default
               <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
             </div>
           </div>
-        </div>
-        </div>
-        </div>        
+        </div>      
       </div>
       <div class="col-md-4">
         <div class="panel panel-default">
