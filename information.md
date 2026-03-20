@@ -11,7 +11,7 @@ layout: default
       </h1>
 
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
     <div class="panel panel-pg-primary">
       <div class="panel-heading">
         <h3 class="panel-title"><i class="fa fa-map-marker"></i> Lieu de l'événement</h3>
@@ -236,13 +236,14 @@ layout: default
         </div>
         <hr>
         <div class="row">
-          <p>   Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
-          <p>   Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
-          <p>   Fréquence tramway <strong>Ligne T1</strong> : toutes les 6 minutes.</p>
-          <p>   Fréquence métro <strong>Ligne A</strong> (qui dessert Météo France) : toutes les 15 minutes.</p>
+          <p>Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
+          <p>Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
+          <p>Fréquence tramway <strong>Ligne T1</strong> : toutes les 6 minutes.</p>
+          <p>Fréquence métro <strong>Ligne A</strong> (qui dessert Météo France) : toutes les 15 minutes.</p>
         </div>
+        <hr>
         <div class="row">
-          <p>   Données source Tisséo. Pour organiser votre trajet :
+          <p>Données source Tisséo. Pour organiser votre trajet :
           <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
         </div>
       </div>
