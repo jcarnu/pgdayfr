@@ -313,7 +313,7 @@ layout: default
                   <li>The bus station is near the <strong>Terminal 1</strong>, on the <strong>right</strong> when you leave the airport.</li>
                   <li>Take <strong>Bus Line 31</strong> to <strong>Pasteur - Mairie de Blagnac</strong>.</li>
                   <li>Take <strong>Tram T1</strong> to <strong>Arènes</strong>.</li>
-                  <li>Continue with <strong>Metro Line A</strong> to <strong>Basso Cambo</strong>, then take <strong>Bus 18</strong>.</li>
+                  <li>Continue with <strong>Subway Line A</strong> to <strong>Basso Cambo</strong>, then take <strong>Bus 18</strong>.</li>
                 </ol>
               </div>
             </div>
@@ -344,17 +344,17 @@ layout: default
       </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-bus"></i>Trajets en transports en commun</h3>
+            <h3 class="panel-title"><i class="fa fa-bus"></i>Journeys by public transport</h3>
           </div>
           <div class="panel-body">
             <div class="row">
               <div class="col-md-12">
-                <p>A titre indicatif, quelques durées de déplacements pour préparer au mieux votre venue :</p>
+                <p>For your information, some estimated travel times to help you plan your visit :</p>
               </div>
             </div>
             <div class="row">
               <div class="col-md-3">
-                 <p><strong>Aéroport</strong></p>
+                 <p><strong>Airport</strong></p>
               </div>
               <div class="col-md-1">
                  <p>-</p>
@@ -371,13 +371,13 @@ layout: default
             </div>
             <div class="row">
               <div class="col-md-3">        
-                 <p><strong>Aéroport</strong></p>
+                 <p><strong>Airport</strong></p>
               </div>
               <div class="col-md-1">
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Hotel B&B</strong></p>
+                <p><strong>B&B Hotel</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -388,13 +388,13 @@ layout: default
             </div>
             <div class="row">        
               <div class="col-md-3">
-                <p><strong>Aéroport</strong></p>
+                <p><strong>Airport</strong></p>
               </div>
               <div class="col-md-1">
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Place du Capitole</strong></p>
+                <p><strong>Capitole square</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -405,7 +405,7 @@ layout: default
             </div>
             <div class="row">      
               <div class="col-md-3">
-                <p><strong>Gare Matabiau</strong></p>
+                <p><strong>Matabiau station</strong></p>
               </div>
               <div class="col-md-1">
                 <p>-</p>
@@ -422,13 +422,13 @@ layout: default
             </div>
             <div class="row">        
               <div class="col-md-3">
-                <p><strong>Gare Matabiau</strong></p>
+                <p><strong>Matabiau station</strong></p>
               </div>
               <div class="col-md-1">
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Hotel B&B</strong></p>
+                <p><strong>B&B Hotel</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -439,13 +439,13 @@ layout: default
             </div>
             <div class="row">        
               <div class="col-md-3">
-                <p><strong>Gare Matabiau</strong></p>
+                <p><strong>Matabiau station</strong></p>
               </div>
               <div class="col-md-1">
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Place du Capitole</strong></p>
+                <p><strong>Capitole square</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -462,7 +462,7 @@ layout: default
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Hotel B&B</strong></p>
+                <p><strong>B&B Hotel</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -479,7 +479,7 @@ layout: default
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Place du Capitole</strong></p>
+                <p><strong>Capitole square</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -496,7 +496,7 @@ layout: default
                 <p>-</p>
               </div>
               <div class="col-md-4">
-                <p><strong>Soirée Communautaire</strong></p>
+                <p><strong>Community evening event</strong></p>
               </div>
               <div class="col-md-1">
                 <p>:</p>
@@ -508,16 +508,16 @@ layout: default
             <hr>
             <div class="row">
               <div class="col-md-12">              
-                <p>Fréquence bus <strong>Ligne 31</strong> (qui dessert l'aéroport) : toutes les 10 minutes.</p>
-                <p>Fréquence bus <strong>Ligne 18</strong> (qui dessert Météo France) : toutes les 15 minutes en moyenne.</p>
-                <p>Fréquence tramway <strong>Ligne T1</strong> : toutes les 6 minutes.</p>
-                <p>Fréquence métro <strong>Ligne A</strong> : toutes les 15 minutes.</p>
+                <p>Bus frequency <strong>Line 31</strong> (which serves the airport) : every 10 minutes.</p>
+                <p>Bus frequency <strong>Line 18</strong> (which serves Météo France) : every 15 minutes on average.</p>
+                <p>Tram frequency <strong>Line T1</strong> : every 6 minutes.</p>
+                <p>Subway frequency <strong>Line A</strong> : every 15 minutes.</p>
               </div>
             </div>
             <hr>
             <div class="row">
               <div class="col-md-12">              
-                <p>Données source Tisséo. Pour organiser votre trajet :</p>
+                <p>Data source from Tisséo. To plan your journey :</p>
                 <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
               </div>
             </div>
