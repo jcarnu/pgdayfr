@@ -74,7 +74,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-bus"></i> Trajets</h3>
+            <h3 class="panel-title"><i class="fa fa-bus"></i>Trajets en transports en commun</h3>
           </div>
           <div class="panel-body">
             <div class="row">
