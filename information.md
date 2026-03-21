@@ -341,7 +341,6 @@ layout: default
             <p><a href="https://www.hotel-bb.com/fr/hotel/toulouse-basso-cambo" target="_blank" class="btn btn-primary btn-sm">Booking</a></p>
           </div>
         </div>
-      </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
             <h3 class="panel-title"><i class="fa fa-bus"></i>Journeys by public transport</h3>
@@ -523,6 +522,7 @@ layout: default
             </div>
           </div>
         </div>
+       </div>
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
