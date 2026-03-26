@@ -110,7 +110,7 @@ their presence alongside us.
 ## (FR) Devenez partenaire du PG Day France
 
 <div class="table-responsive">
-<table class="table table-striped table-bordered" width="100%">
+<table class="table table-striped table-bordered">
   <thead>
     <tr class="info">
       <th>Avantages</th>
