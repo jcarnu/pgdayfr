@@ -278,7 +278,7 @@ layout: default
           </div>
           <div class="panel-body">
             <div class="row">
-              <p><a href="img/visiter_toulouse.pdf" alt="Visiter Toulouse" target="_blank" class="btn btn-primary btn-sm">Visite</a></p>
+              <object data="img/visiter_toulouse.pdf" type="application/pdf" title="cv" width="50" height="55"></object>
             </div>
           </div>
         </div>
