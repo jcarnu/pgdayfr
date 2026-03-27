@@ -277,7 +277,8 @@ layout: default
             <h3 class="panel-title"><i class="fa fa-map"></i>Visiter la Ville Rose</h3>
           </div>
           <div class="panel-body">
-            <p><a href="img/visiter_toulouse.pdf" <img src="img/visiter_toulouse.png"/></a></p>
+            <p><a href="img/visiter_toulouse.pdf" target="_blank">
+            <img src="img/visiter_toulouse.png"/> alt="Visiter Toulouse" width="100%"</a></p>
           </div>
         </div>
       </div>
