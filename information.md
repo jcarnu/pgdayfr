@@ -278,7 +278,7 @@ layout: default
           </div>
           <div class="panel-body">
             <div class="row">
-              <object data="img/visiter_toulouse.pdf" type="application/pdf" title="cv" width="50" height="55"></object>
+              <object data="img/visiter_toulouse.pdf" type="application/pdf" width="100%" height="100%"></object>
             </div>
           </div>
         </div>
