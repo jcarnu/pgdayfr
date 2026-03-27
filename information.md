@@ -550,6 +550,15 @@ layout: default
             <img src="img/pgday_acces.gif" alt="Site Access" class="img-responsive">
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-map"></i>Discover the Pink City</h3>
+          </div>
+          <div class="panel-body">
+            <p><a href="img/Toulouse_guide.pdf" target="_blank">
+            <img src="img/Toulouse_guide.png" class="img-responsive"/></a></p>
+          </div>
+        </div>
       </div>
     </div>
 
