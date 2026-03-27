@@ -274,7 +274,7 @@ layout: default
         </div>
         <div class="panel panel-pg-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-road"></i>Visiter la Ville Rose</h3>
+            <h3 class="panel-title"><i class="fa fa-map"></i>Visiter la Ville Rose</h3>
           </div>
           <div class="panel-body">
             <div class="row">
