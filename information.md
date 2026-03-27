@@ -272,6 +272,16 @@ layout: default
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
           </div>
         </div>
+        <div class="panel panel-pg-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-road"></i>Visiter la Ville Rose</h3>
+          </div>
+          <div class="panel-body">
+            <div class="row">
+              <img src="img/visiter_toulouse.pdf" alt="Visiter Toulouse" class="img-responsive">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <hr>
