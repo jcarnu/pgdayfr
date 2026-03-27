@@ -278,7 +278,7 @@ layout: default
           </div>
           <div class="panel-body">
             <p><a href="img/visiter_toulouse.pdf" target="_blank">
-            <img src="img/visiter_toulouse.png"/> alt="Visiter Toulouse" width="100%"</a></p>
+            <img src="img/visiter_toulouse.png"/> alt="Visiter Toulouse" class="img-responsive"</a></p>
           </div>
         </div>
       </div>
