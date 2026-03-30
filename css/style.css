@@ -30,6 +30,11 @@ body {
   margin-top: 15px;
 }
 
+.zoom img:hover {
+width:400px;
+height:300px;
+}
+
 /* Page Sections */
 .section,
 .section-colored {
