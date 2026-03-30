@@ -283,6 +283,15 @@ layout: default
             <img src="img/visiter_toulouse.png" class="img-responsive"/></a></p>
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-map"></i>Restauration</h3>
+          </div>          
+          <div class="panel-body">
+            <p><a href="img/restauration.png" target="_blank">
+            <img src="img/restauration.png" class="img-responsive"/></a></p>
+          </div>
+        </div>
       </div>
     </div>
     <hr>
@@ -561,6 +570,15 @@ layout: default
           <div class="panel-body">
             <p><a href="img/Toulouse_guide.pdf" target="_blank">
             <img src="img/Toulouse_guide.png" class="img-responsive"/></a></p>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><i class="fa fa-map"></i>Restaurants near event</h3>
+          </div>
+          <div class="panel-body">
+            <p><a href="img/restaurants.png" target="_blank">
+            <img src="img/restaurants.png" class="img-responsive"/></a></p>
           </div>
         </div>
       </div>
