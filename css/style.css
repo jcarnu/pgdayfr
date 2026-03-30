@@ -32,7 +32,10 @@ body {
 
 .zoom img:hover {
 width:200%;
-height:200%;
+-webkit-transform:scale(1.3);
+transform:scale(1.3);
+-webkit-transition:1s ease-in-out;
+transition:1s ease-in-out
 }
 
 /* Page Sections */
