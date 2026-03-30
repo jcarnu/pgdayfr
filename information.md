@@ -270,6 +270,8 @@ layout: default
           </div>
           <div class="panel-body">
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
+            <strong><font color="red"><p><u></u>A noter :</u></p>
+            <p>Site sécurisé oblige, une pièce d'identité vous sera demandée.</p></font></strong>
           </div>
         </div>
         <div class="panel panel-default">
