@@ -287,9 +287,9 @@ layout: default
           <div class="panel-heading">
             <h3 class="panel-title"><i class="fa fa-map"></i>Restauration</h3>
           </div>          
-          <div class="panel-body">
+          <div class="zoom">
             <p><a href="img/restauration.png" target="_blank">
-            <div class="zoom"><img src="img/restauration.png" class="img-responsive"/></a></p></div>
+            <img src="img/restauration.png" class="img-responsive"/></a></p>
           </div>
         </div>
       </div>
