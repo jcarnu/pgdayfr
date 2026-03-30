@@ -289,7 +289,7 @@ layout: default
           </div>          
           <div class="panel-body">
             <p><a href="img/restauration.png" target="_blank">
-            <img src="img/restauration.png" class="img-responsive"/></a></p>
+            <div class="zoom"><img src="img/restauration.png" class="img-responsive"/></a></p></div>
           </div>
         </div>
       </div>
