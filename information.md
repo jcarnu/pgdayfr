@@ -271,7 +271,7 @@ layout: default
           <div class="panel-body">
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
             <strong><h4 style="color:#FF0000;"><u>A noter :</u></h4>
-            <p style="color:#FF0000;">Site sécurisé oblige, une pièce d'identité vous sera demandée.</p></strong>
+            <p style="color:#FF0000;">Météo France est un site sécurisé. Une pièce d'identité vous sera demandée.</p></strong>
           </div>
         </div>
         <div class="panel panel-default">
@@ -550,6 +550,8 @@ layout: default
           </div>
           <div class="panel-body">
             <img src="img/pgday_acces.gif" alt="Site Access" class="img-responsive">
+            <strong><h4 style="color:#FF0000;"><u>Important to know :</u></h4>
+            <p style="color:#FF0000;">Meteo France is a secure site. You will be asked to provide proof of identity.</p></strong>
           </div>
         </div>
         <div class="panel panel-default">
