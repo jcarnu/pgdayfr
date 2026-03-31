@@ -112,18 +112,16 @@ Cette session propose une mise en pratique d'un rafraîchissement à la demande 
 <div class="schedule_bloc">
   <div class="schedule_time">19h30 - 23h00</div>
     <div class="schedule_speaker">
-  <img src="img/2025-mons-brasse-temps.jpg" class="img-thumbnail" alt="">
+  <img src="img/monsieur_georges-3.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>FIXME Grande soirée ouverte à tous·tes et incluse dans le prix de votre billet.</h3>
-  <p><b>FIXME : CI DESSOUS TEXTE POUR MONS 2025 A TITRE D'EXEMPLE. A REFAIRE PAR
-LES TOULOUSAINGS</b></p>
-  <p>A deux pas du lieu de l'événement, tous les participant·e·s, sponsors et orateurs·rices se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
-  <p>Lieu de Rendez-vous : <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
+  <h3>Grande soirée ouverte à tous·tes et incluse dans le prix de votre billet.</h3>
+  <p>Tous les participant·e·s, sponsors et orateurs·rices se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire au coeur de la ville rose, à 10 minutes de la place du Capitole.</p>
+  <p>Lieu de Rendez-vous : <strong>Restaurant Monsieur Georges</strong>, 20 Place Saint-Georges, 31000 TOULOUSE</p>
   <br/>
   <h3>Community reception included in the price of your ticket.</h3>
-  <p>Just a stone's throw from the event venue, all participants, sponsors, and speakers are invited to gather for a vibrant evening of connection and sharing over a standing dinner reception.</p>
-  <p>Location: <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
+  <p>All participants, sponsors, and speakers are invited to gather for a vibrant evening of connection and sharing over a standing dinner reception in the heart of the Pink City, at 10 minutes from the Place du Capitole..</p>
+  <p>Location: <strong>Monsieur Georges Restaurant</strong>, 20 Place Saint-Georges, 31000 TOULOUSE</p>
   <p><strong>COMMUNITY EVENT SPONSOR</strong> <a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></p>
   </div>
 </div>
