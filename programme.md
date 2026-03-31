@@ -114,7 +114,7 @@ Cette session propose une mise en pratique d'un rafraîchissement à la demande 
 
 
 <div class="schedule_bloc">
-  <div class="schedule_time">19h30 - 23h00</div>
+  <div class="schedule_time">19h00 - 23h00</div>
     <div class="schedule_speaker">
   <img src="img/monsieur_georges-3.jpg" class="img-thumbnail" alt="">
   </div>
