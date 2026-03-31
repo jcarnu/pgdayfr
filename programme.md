@@ -26,7 +26,7 @@ layout: default
   <p>PostgreSQL connections are expensive, their number is the limiting factor for performance and stability. Connection pooling is a primary scaling tool for modern systems. We all know it, but do we really understand why? We will dive into PostgreSQL and Linux architecture, explaining the concrete costs of “too many connections” in PostgreSQL’s process-per-connection model.
 Second part is dedicated to PgBouncer. We will examine how its current single‑threaded event loop works and outline the proposed multithreaded approach. We will cover practical and experimental use cases and the configuration edges that matter in production—like scaling.
   </p>
-  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Second part is dedicated to PgBouncer. We will examine how its current single‑
   <p>
 Cet atelier est consacré au framework PGRX, un environnement de développement qui facilite la conception d'extensions PostgreSQL avec le langage Rust. Avec une succession d'exercices concrets et progressifs, nous verrons les avantages du langage Rust pour intégrer du code au plus près de vos données.
   </p>
-  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ Au programme:
 
 Cas pratique : Création d'un agent expert météo capable d'analyser vos historiques climatiques et de répondre aux questions des utilisateurs directement depuis vos tables.
   </p>
-  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   </div>
 </div>
 
@@ -102,7 +102,7 @@ Dans nos workflows de développement, le chemin de promotion du code est désorm
 
 Cette session propose une mise en pratique d'un rafraîchissement à la demande avec CloudNativePG et postgresql_anonymizer. Elle prouve qu'avec les bons outils, on peut offrir des environnements de test fidèles et anonymisés en quelques secondes.
   </p>
-  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   </div>
 </div>
 
