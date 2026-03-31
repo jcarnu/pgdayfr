@@ -155,7 +155,7 @@ Cette session propose une mise en pratique d'un rafraîchissement à la demande 
   <img src="img/orateurs/w_roset.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Rendre 700 développeurs autonomes sur PostgreSQL grâce à l'IA : Premiers retours (FR></h3>
+  <h3>Rendre 700 développeurs autonomes sur PostgreSQL grâce à l'IA : Premiers retours (FR)</h3>
   <p>Par <a href="orateurs#w_roset" class="pg_speaker_name">Wilfried Roset</a> - OVH Cloud</p>
   <p>
 Notre équipe DBA chez OVHcloud était submergée par 700+ développeurs posant sans cesse les mêmes questions : "C'est quoi ce schéma ?", "Aide-moi avec cette jointure ?", "Pourquoi c'est lent ?"
