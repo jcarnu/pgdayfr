@@ -12,7 +12,11 @@ layout: default
   <div class="schedule_break">
   <img src="img/elephant_lego_toulouse.png" class="img-thumbnail" alt="">
   </div>
-  <div class="schedule_desc"><h3>Ouverture des portes / Doors open</h3></div>
+  <div class="schedule_desc">
+    <h3>Ouverture des portes / Doors open</h3>
+    <strong><p>Météo France est un site sécurisé. Une pièce d'identité vous sera demandée.</p>
+    <p>Meteo France is a secure site. You will be asked to provide proof of identity.</p></strong>
+  </div>
 </div>
 
 <div class="schedule_bloc">
@@ -73,7 +77,7 @@ Cet atelier est consacré au framework PGRX, un environnement de développement 
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier: Créez votre premier agent IA avec PostgreSQL</h3>
+  <h3>Atelier: Créez votre premier agent IA avec PostgreSQL (FR)</h3>
   <p>Matt Cornillon - <a href="https://www.google.com/">Google</a></p>
   <p>
 Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM.
@@ -95,7 +99,7 @@ Cas pratique : Création d'un agent expert météo capable d'analyser vos histor
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier: Rafraîchir les données de développement avec anonymisation dans CloudNativePG</h3>
+  <h3>Atelier: Rafraîchir les données de développement avec anonymisation dans CloudNativePG (FR)</h3>
   <p>Julien Acroute - <a href="https://www.camptocamp.com/">camptocamp</a></p>
   <p>
 Dans nos workflows de développement, le chemin de promotion du code est désormais bien balisé. Pourtant, dès qu'on parle de données, tout se complique : le chemin inverse (Prod -> Dev) reste souvent le parent pauvre de l’automatisation. Rafraîchir une base de développement rime encore trop souvent avec "ouverture de ticket", "restauration lente" ou compromis sur la confidentialité des données.
