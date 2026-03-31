@@ -5,60 +5,41 @@ layout: default
 
 # Programme / Schedule
 
-## Mercredi 3 juin 2025 / Wednesday, June 3rd, 2025
+## Mercredi 3 juin 2026 / Wednesday, June 3rd, 2026
 
 <div class="schedule_bloc">
-  <div class="schedule_time">09h30</div>
+  <div class="schedule_time">08h00</div>
   <div class="schedule_break">
-  <img src="img/elephant_lego_mons.png" class="img-thumbnail" alt="">
+  <img src="img/elephant_lego_toulouse.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc"><h3>Ouverture des portes / Doors open</h3></div>
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">10h00</div>
+  <div class="schedule_time">09h00</div>
   <div class="schedule_break">
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier : Industrialisez vos déploiements PostgreSQL avec pglift et Ansible</h3>
-  <p>Par Alexandre Pereira et Julian Vanden Broeck - <a href="https://www.dalibo.com/">Dalibo</a></p>
-  <p>
-Dans cet atelier, nous verrons comment déployer des instances, bases de données et rôles PostgreSQL à l'aide de pglift et Ansible pour industrialiser vos environnements.
-De l'installation à la configuration, en passant par la gestion des utilisateurs, des extensions et la mise en place de la sauvegarde physique avec pgBackRest, vous utiliserez des collections Ansible et des playbooks réutilisables pour déployer vos bases de données PostgreSQL.
+  <h3>Atelier: PgBouncer - Everything, Everywhere, All At Once About This Tool (EN)</h3>
+  <p>Machytka Josef - <a href="https://www.credativ.de/en/">Credativ</a></p>
+  <p>PostgreSQL connections are expensive, their number is the limiting factor for performance and stability. Connection pooling is a primary scaling tool for modern systems. We all know it, but do we really understand why? We will dive into PostgreSQL and Linux architecture, explaining the concrete costs of “too many connections” in PostgreSQL’s process-per-connection model.
+Second part is dedicated to PgBouncer. We will examine how its current single‑threaded event loop works and outline the proposed multithreaded approach. We will cover practical and experimental use cases and the configuration edges that matter in production—like scaling.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">10h00</div>
+  <div class="schedule_time">09h00</div>
   <div class="schedule_break">
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier : PostgreSQL et IA générative : Exploiter pgvector pour des solutions innovantes</h3>
-  <p>Par Vincent Mercier, Solution Architect - <a href="https://aws.amazon.com/">AWS</a></p>
+  <h3>Atelier: Développer une extension Postgres en Rust (FR)</h3>
+  <p>Damien Clochard - <a href="https://www.dalibo.com/">Dalibo</a></p>
   <p>
-  Plongez dans l'univers du Retrieval Augmented Generation (RAG) en combinant la puissance de PostgreSQL et des Large Language Models. Cet atelier pratique vous guidera dans l'implémentation d'une solution d'IA générative en utilisant l'extension pgvector pour le stockage et la recherche de vecteurs sémantiques. Vous développerez une application complète illustrant l'intégration d'un LLM avec une base de connaissances vectorielle, permettant des réponses contextuelles précises et traçables.
-  Prerequis: ordinateur avec accès Internet.
-  </p>
-  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">10h00</div>
-  <div class="schedule_break">
-  <i class="fa fa-laptop"></i>
-  </div>
-  <div class="schedule_desc">
-  <h3>Atelier: Are you collecting the right metrics?</h3>
-  <p>Par Frédéric Delacourt - <a href="https://www.data-bene.io/">Data Bene</a></p>
-  <p>
-  Cet atelier de 2 heures s’adresse principalement aux DBA débutants à intermédiaires. Il est théorique, sans exercices pratiques ni manipulations, mais les questions sont bien sûr les bienvenues.
-Il est naturellement essentiel de superviser ses instances PostgreSQL. Toutefois, il n’est pas toujours évident de distinguer les métriques absolument indispensables de celles simplement utiles ou optionnelles. De plus, selon le contexte et l’architecture PostgreSQL en place, des métriques en général jugées secondaires peuvent devenir critiques.
-Nous nous concentrerons sur les métriques offertes par le système de statistiques cumulatives de PostgreSQL. En fonction de l’avancée des discussions, nous pourrons également aborder certaines métriques système sous Linux.
+Cet atelier est consacré au framework PGRX, un environnement de développement qui facilite la conception d'extensions PostgreSQL avec le langage Rust. Avec une succession d'exercices concrets et progressifs, nous verrons les avantages du langage Rust pour intégrer du code au plus près de vos données.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
@@ -79,7 +60,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 <div class="schedule_bloc">
   <div class="schedule_time">13h30</div>
   <div class="schedule_break">
-  <img src="img/elephant_lego_mons.png" class="img-thumbnail" alt="">
+  <img src="img/elephant_lego_toulouse.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Ré-Ouverture des portes / Doors reopen</h3>
@@ -89,93 +70,41 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 <div class="schedule_bloc">
   <div class="schedule_time">14h00</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Mot d'accueil / Welcome speech</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">14h15</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/l_durieux.png" class="img-thumbnail" alt="">
-  </div>
-  <div class="schedule_desc">
-  <h3>Keynote : Où sont passées les femmes de l'histoire de la tech?</h3>
-  <p>Par <a href="orateurs#l_durieux" class="pg_speaker_name">Laura Durieux</a></p>
+  <h3>Atelier: Créez votre premier agent IA avec PostgreSQL</h3>
+  <p>Matt Cornillon - <a href="https://www.google.com/">Google</a></p>
   <p>
-  Ada Lovelace, Hedy Lamarr, les « ENIAC Girls », Grace Hopper, Joan Clarke... Découlant du métier de calculatrice, le métier de développeur était considéré comme un métier de femme, tandis que la conception hardware était un métier d'homme. Cependant, qui sont ces femmes qui ont fait évoluer le monde de la tech ? Pourquoi n'entendons-nous jamais parler d'elles ? Avec Laura Durieux, vous tenterez de remettre les pendules à l'heure, petit à petit, et de vous offrir des modèles dans la tech dont vous avez toujours eu besoin.
+Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM.
+
+Au programme:
+- Architecture MCP : Liaison entre l'IA et le moteur SQL.
+- SQL as a Tool : Transformer vos requêtes en capacités cognitives.
+- Sécurité & Gouvernance : Maîtriser l'accès aux données (RLS, vues, permissions).
+
+Cas pratique : Création d'un agent expert météo capable d'analyser vos historiques climatiques et de répondre aux questions des utilisateurs directement depuis vos tables.
   </p>
-   <p><a href="docs/2025/keynote-ou-sont-passees-les-femmes-de-l-histoire-de-la-tech.pdf">Slides</a></p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">15h00</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="schedule_desc">
-  <h3>Postgres sur Kubernetes pour le DBA réticent</h3>
-  <p>Par <a href="orateurs#k_jex" class="pg_speaker_name">Karen Jex</a> - Crunchy Data</p>
-  <p>
-  En tant que DBA de la vieille école, vous n'aimez pas forcément l'idée de faire tourner vos bases de données sur Kubernetes. Je comprends - vous avez passé des années à apprendre votre métier, et à construire votre boîte à outils DBA. Vous savez comment gérer un environnement de base de données fiable, sécurisé et performant. Pourquoi risquer tout cela en migrant vers Kubernetes ? De plus, Kubernetes n'est-il pas uniquement pour les applications stateless ? Mais le paysage des bases de données évolue rapidement, et les bases de données sur Kubernetes est devenu normal. Je vous assure que Kubernetes va compléter votre expertise DBA en vous fournissant de nouveaux outils puissants.
-  </p>
-  <p><a href="docs/2025/postgres-sur-kubernetes-pour-le-dba-reticent.pdf">Slides</a></p>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">15h45</div>
+  <div class="schedule_time">14h00</div>
   <div class="schedule_break">
-  <img src="img/pause.png" alt="Tasse" />
+  <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Pause / Coffee break</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">16h15</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/g_lelarge.png" class="img-thumbnail" alt="">
-  </div>
-  <div class="schedule_desc">
-  <h3>Tout savoir sur max_connections</h3>
-  <p>Par <a href="orateurs#g_lelarge" class="pg_speaker_name">Guillaume Lelarge</a> - Dalibo</p>
+  <h3>Atelier: Rafraîchir les données de développement avec anonymisation dans CloudNativePG</h3>
+  <p>Julien Acroute - <a href="https://www.camptocamp.com/">camptocamp</a></p>
   <p>
-  max_connections est certainement un des paramètres les plus connus, mais sa configuration n'est pas forcément aisé pour autant. Sa configuration peut avoir de nombreuses conséquences positives comme négatives, que ce soit sur la configuration d'autres paramètres, sur le fonctionnement du système, sur des outils à mettre en place. Il a l'air d'être très connu mais il y a tellement de choses à dire sur ce paramètre. Je vais donc faire un tour complet de ce paramètre.
+Dans nos workflows de développement, le chemin de promotion du code est désormais bien balisé. Pourtant, dès qu'on parle de données, tout se complique : le chemin inverse (Prod -> Dev) reste souvent le parent pauvre de l’automatisation. Rafraîchir une base de développement rime encore trop souvent avec "ouverture de ticket", "restauration lente" ou compromis sur la confidentialité des données.
+
+Cette session propose une mise en pratique d'un rafraîchissement à la demande avec CloudNativePG et postgresql_anonymizer. Elle prouve qu'avec les bons outils, on peut offrir des environnements de test fidèles et anonymisés en quelques secondes.
   </p>
-  <p><a href="docs/2025/guillaume-lelarge-tout-savoir-sur-max-connections.pdf">Slides</a></p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
 </div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">16h45</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/s_delobel.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="schedule_desc">
-  <h3>Json in Postgres</h3>
-  <p>Par <a href="orateurs#s_delobel" class="pg_speaker_name">Sébastien Delobel</a> - Oney</p>
-  <p>
-  La présentation "JSON in PostgreSQL" explore l'utilisation du format JSON dans les bases de données PostgreSQL. Il explique comment JSON permet de stocker et échanger des données de manière flexible et lisible. La présentation couvre les opérateurs JSON clés, les méthodes pour mettre à jour les données JSON, et la création d'index pour optimiser les requêtes. Je recommande d'utiliser JSONB pour ses fonctionnalités avancées et conseille d'utiliser des index B-tree, GIN, ou pg_trgm selon les besoins des requêtes. Il conclut en soulignant l'intégration puissante de JSON dans PostgreSQL et son utilité pour des structures de données flexibles.
-  </p>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">17h15</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
-  </div>
-  <div class="schedule_desc">
-  <h3>Mot de clôture / Closing session</h3>
-  <p><a href="https://pgstef.github.io/talks/fr/20250603-pgdayfr-closing.pdf">Slides</a></p>
-  </div>
-</div>
-
 
 ## Grande soirée communautaire / Community Reception
 
@@ -186,7 +115,9 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <img src="img/2025-mons-brasse-temps.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Grande soirée ouverte à tous·tes et incluse dans le prix de votre billet.</h3>
+  <h3>FIXME Grande soirée ouverte à tous·tes et incluse dans le prix de votre billet.</h3>
+  <p><b>FIXME : CI DESSOUS TEXTE POUR MONS 2025 A TITRE D'EXEMPLE. A REFAIRE PAR
+LES TOULOUSAINGS</b></p>
   <p>A deux pas du lieu de l'événement, tous les participant·e·s, sponsors et orateurs·rices se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
   <p>Lieu de Rendez-vous : <strong>Le Brasse-Temps Mons</strong>, Complexe Imagix, Boulevard André Delvaux, 1 - 7000 Mons</p>
   <br/>
@@ -198,10 +129,10 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 </div>
 
 
-## Jeudi 4 juin 2025 / Thursday, June 4th, 2025
+## Jeudi 4 juin 2026 / Thursday, June 4th, 2026
 
 <div class="schedule_bloc">
-  <div class="schedule_time">08h30</div>
+  <div class="schedule_time">08h00</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
   </div>
@@ -210,35 +141,58 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   </div>
 </div>
 
-<div class="schedule_bloc">
+<div class="schedule_bloc"> 
   <div class="schedule_time">09h00</div>
+  <div class="schedule_break"> 
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div> 
+  <div class="schedule_desc">
+  <h3>Mot d'accueil / Welcome speech</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">09h15</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/w_roset.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Anatomy of Table-Level Locks in PostgreSQL</h3>
-  <p>Par <a href="orateurs#g_yildirim" class="pg_speaker_name">Gülçin Yıldırım Jelinek</a> - Xata</p>
+  <h3>Rendre 700 développeurs autonomes sur PostgreSQL grâce à l'IA : Premiers retours (FR></h3>
+  <p>Par <a href="orateurs#w_roset" class="pg_speaker_name">Wilfried Roset</a> - OVH Cloud</p>
   <p>
-  Managing schema changes in PostgreSQL without downtime is challenging. Table-level locks during DDL operations like ALTER TABLE can slow applications or cause service interruptions.
-  <br/>We’ll cover lock types, how PostgreSQL handles them, MVCC design and lock queuing mechanics. Attendees will learn how to minimize locking impact using battle-tested techniques by going over query examples. We will also talk about an open-source tool pgroll, which applies the expand/contract pattern for lock-free schema changes.
-  <br/>By the end, attendees will have practical strategies to manage locks, ensuring data integrity and minimal downtime.
+Notre équipe DBA chez OVHcloud était submergée par 700+ développeurs posant sans cesse les mêmes questions : "C'est quoi ce schéma ?", "Aide-moi avec cette jointure ?", "Pourquoi c'est lent ?"
+
+Nous avons construit Luke, une passerelle MCP permettant aux agents IA d'introspecter nos bases PostgreSQL. Découvrez comment l'IA transforme les workflows (de "j'attends le DBA" à "autonomie totale"), les patterns d'adoption émergents, et surtout les leçons apprises. Trois mois après le début, nous partagerons un retour d'expérience honnête sur ce qui fonctionne, ce qui surprend, et ce qu'on n'avait pas anticipé.
   </p>
-  <p><a href="docs/2025/gulcin-yldirim-jelinek-anatomy-of-table-level-locks-in-postgresql.pdf">Slides</a></p>
+  <!--<p><a href="docs/2026/.pdf">Slides</a></p>-->
   </div>
 </div>
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/l_nardi.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Réglage automatisé de PostgreSQL : Explorer l'optimisation des paramètres serveur</h3>
-  <p>Par <a href="orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBtune</p>
+  <h3>Explaining Transaction Isolation Levels (FR)</h3>
+  <p>Par <a href="orateurs#f_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
   <p>
-  Nous explorerons le monde complexe du réglage des paramètres du serveur PostgreSQL, où PostgreSQL révèle une multitude de paramètres configurables qui régissent son fonctionnement. L'abondance, la relation non linéaire et la complexité de ces paramètres soulignent l'importance de leur paramétrage optimal afin d'optimiser les performances des applications. Cette présentation introduit diverses approches, du réglage manuel traditionnel à des outils basés sur des heuristiques tels que PGTune et PostgreSQL Configurator, puis l'autoréglage avec machine learning. Nous partagerons des leçons apprises lors du développement d'un autotuner PostgreSQL prêt pour le système de production.
+Transaction isolation defines how the RDBMS must behave under concurrent processing.
+For each level defined by the SQL standard we shall see:
+
+* Show expectations from the level
+* Show typical use cases
+* Discuss typical errors due to concurrency
+* Show PostgreSQL internals on how it works under the hood
+* Discuss performance impacts and improvement where it makes sense
+
+Can we mix several Isolation Levels.
+
+We shall talk about snapshots, tuple structure and locking. Also, we shall dig all isolation levels to shade light on SERIALIZABLE which is seldom used by developers.
+
+After this talk you should be able to choose confidently the right level for the right context.  
   </p>
-  <p><a href="docs/2025/luigi-nardi-reglage-automatise-de-postgresql-explorer-l-optimisation-des-parametres-serveur.pdf">Slides</a></p>
+  <!--<p><a href="docs/2026/.pdf">Slides</a></p>-->
   </div>
 </div>
 
@@ -255,26 +209,20 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 <div class="schedule_bloc">
   <div class="schedule_time">11h00</div>
   <div class="schedule_speaker">
-  <img src="/img/2019_PGGTIE-etendu_table3.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/h_gupta.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Table ronde - Comment contribuer à PostgreSQL ?</h3>
+  <h3>Building a Truly Compatible Postgres Proxy: The Multigres Story (EN)</h3>
+  <p>Par <a href="orateurs#h_gupta" class="pg_speaker_name">Haritabh Gupta</a> - supabase</p>
   <p>
-  Contribuer à PostgreSQL ne se limite pas au code ! Cette table ronde explore les multiples façons de s'impliquer dans l'écosystème : développement, extensions, outils connexes, documentation, traduction, promotion de la diversité, et bien plus.
-  <br/>Des témoignages d'entreprises et de contributeur·ice·s éclaireront les différents chemins pour soutenir PostgreSQL, y compris à l'échelle d'une organisation.
-  <br/><strong>Avec la participation de</strong> Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
+What does it take to build a Postgres proxy that applications can't tell apart from vanilla Postgres? In this talk, I share lessons from building Multigres, a horizontally-scalable Postgres proxy. I walk through the real compatibility challenges we faced: implementing COPY FROM as a streaming state machine, managing session state and transactions with connection pooling, preserving all Postgres error diagnostic fields through a gRPC stack, handling TLS negotiation, forwarding NOTICE messages, and forwarding client startup parameters. Then we'll see how Postgres's regression and isolation test suites help to measure and prove what it truly means to be a transparent Postgres proxy.
   </p>
-  <h3>Roundtable - How to Contribute to PostgreSQL?</h3>
-  <p>
-  Contributing to PostgreSQL goes far beyond writing code! This roundtable will explore the many ways to get involved in the ecosystem: development, extensions, related tools, documentation, translation, diversity advocacy, and more.
-  <br/>Insights from companies and contributors will highlight the various paths to supporting PostgreSQL, including from within an organization.
-  <br/><strong>Featuring</strong> Bertrand Drouvot (AWS), Flavio Gurgel (Leboncoin), Karen Jex (Crunchy Data)
-  </p>
+  <!--<p><a href="docs/2026/.pdf">Slides</a></p>-->
   </div>
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">12h00</div>
+  <div class="schedule_time">11h45</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
   </div>
@@ -284,7 +232,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">14h00</div>
+  <div class="schedule_time">13h30</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
@@ -302,15 +250,30 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">14h45</div>
+  <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/f_coelho.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_nardi.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Comment se débarrasser de Full Page Write ?</h3>
-  <p>Par <a href="orateurs#f_coelho" class="pg_speaker_name">Fabien Coelho</a> - Mines Paris - PSL</p>
+  <h3>Workload Fingerprints: The precision metric for autonomous PostgreSQL tuning (EN)</h3>
+  <p>Par <a href="orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBTune</p>
   <p>
-  La présentation s'intéressera aux performances de Postgres sur de grosses machines virtuelles (disons qui peuvent dépasser 50,000 tps avec pgbench), en particulier en analysant l'impact de la configuration _full page write_, pourquoi il faudrait la garder, et comment s'en débarrasser, peut-être, un jour.
+A PostgreSQL database is a sea of noise. Traditional performance indicators miss shifting query frequencies or transient background tasks. This session explores the Workload Fingerprint, a novel observability approach providing the granular accuracy required for autonomous optimization. We will deconstruct this methodology to answer the hard questions of production tuning: prioritizing truly critical queries, isolating environmental noise, blending diverse data into a stable baseline, and verifying persistent performance gains. This talk offers a roadmap for moving from "gut-feel" tuning to a fingerprint-based methodology that ensures every optimization is a step in the right direction.
+  </p>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h45</div>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/f_pachot.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="schedule_desc">
+  <h3>Domain‑Driven Design, ORMs, et Developer Experience avec PostgreSQL (FR)</h3>
+  <p>Par <a href="orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - mongoDB</p>
+  <p>
+Les bases relationnelles ont été conçues pour être centrales et inclure la logique métier, partagées par plusieurs applications via schémas normalisés, contraintes d’intégrité et procédures stockées. Aujourd’hui, les architectures orientées services dominent : chaque équipe gère son service, son domaine fonctionnel et utilise souvent une base dédiée. Avec le DDD, la logique métier est dans l’application. PostgreSQL reste un bon candidat pour le modèle « une base par service », via un ORM ou avec des agrégats stockés en JSONB.
+Le but de cette session est de mieux comprendre le développement d’applications modernes et de faciliter la communication Dev- DBA.
   </p>
   </div>
 </div>
@@ -328,40 +291,23 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
 <div class="schedule_bloc">
   <div class="schedule_time">16h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/l_leinweber.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/v_mercier.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Voyage au centre des statistiques dans postgres</h3>
-  <p>Par <a href="orateurs#l_leinweber" class="pg_speaker_name">Louise Leinweber</a> - Crunchy Data</p>
+  <h3>Partitioning PostgreSQL : quand il n’y a pas de DBA (FR)</h3>
+  <p>Par <a href="orateurs#v_mercier" class="pg_speaker_name">Vincent Mercier</a> - Amazon</p>
   <p>
-  Nous allons ensemble parler de statistiques. Vous avez peut être entendu parler de celles ci, elles aident le query planner, elles sont parfois merveilleuses, parfois très approximatives, aujourd’hui nous allons apprendre tout (ou du moins ce qui peut tenir en 45 minutes) sur celles ci.
-  <br/>Nous parlerons donc:
-  - de quelles statistiques Postgres collecte par défaut
-  - comment celles-ci sont utilisées par le planner
-  - pourquoi elles ne sont pas toujours parfaites, et l’utilité de CREATE STATISTIC
-  - les limitations de cette dernière
-  - et plus encore si je parle trop vite
+Lorsqu’on parle de scalabilité, le partitioning arrive vite dans la discussion.
+En pratique, sa conception et son exploitation sont généralement confiées aux DBA… lorsqu’il y en a. Mais que se passe-t-il dans les équipes où le rôle de DBA n’existe pas ?
+Je reviendrai sur une approche pragmatique du partitioning, pensée pour des équipes majoritairement de développeurs.
+Je présenterai un outil open source que nous avons développé chez Qonto pour rendre le partitioning accessible.
+L’objectif de ce talk est de démystifier le partitioning, de montrer ses limites, et de proposer des patterns concrets pour l’utiliser efficacement dans des environnements où l’expertise base de données est rare.
   </p>
   </div>
 </div>
 
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/n_mallet.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="schedule_desc">
-  <h3>Comment déplacer une base Postgres avec zéro downtime ?</h3>
-  <p>Par <a href="orateurs#n_mallet" class="pg_speaker_name">Naeva Mallet</a> - Leboncoin</p>
-  <p>
-  J'ai travaillé sur un projet ou je devais déplacer plus de 150 bases d'instances individuelles vers des instances mutualisées, afin de réduire les coûts. L'objectif était d'automatiser le processus pour déplacer les bases en quelques commandes, et surtout avec le moins de downtime possible. Nous avons utilisé la magie de la réplication logique de postgres et développé un script open source pour déplacer une base en 2 commandes.
-  </p>
-  <p><a href="docs/2025/naeva-mallet-comment-deplacer-une-base-postgres-avec-zero-downtime.pdf">Slides</a></p>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">17h15</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
