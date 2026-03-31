@@ -126,7 +126,8 @@ Cette session propose une mise en pratique d'un rafraîchissement à la demande 
   <h3>Community reception included in the price of your ticket.</h3>
   <p>All participants, sponsors, and speakers are invited to gather for a vibrant evening of connection and sharing over a standing dinner reception in the heart of the Pink City, at 10 minutes from the Capitole square.</p>
   <p>Location: <strong>Monsieur Georges Restaurant</strong>, 20 Place Saint-Georges, 31000 TOULOUSE</p>
-  <p><strong>COMMUNITY EVENT SPONSOR</strong> <a href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/maif.png" alt="MAIF"></a></p>
+  <p><strong>COMMUNITY EVENT SPONSOR</strong> <a
+href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><img src="img/aws.png" alt="AWS"></a></p>
   </div>
 </div>
 
