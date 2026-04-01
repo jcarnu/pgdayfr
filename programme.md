@@ -177,23 +177,10 @@ Nous avons construit Luke, une passerelle MCP permettant aux agents IA d'introsp
   <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Explaining Transaction Isolation Levels (FR)</h3>
+  <h3>Comprendre les niveaux d'isolation des transactions (FR)</h3>
   <p>Par <a href="orateurs#f_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
   <p>
-Transaction isolation defines how the RDBMS must behave under concurrent processing.
-For each level defined by the SQL standard we shall see:
-
-* Show expectations from the level
-* Show typical use cases
-* Discuss typical errors due to concurrency
-* Show PostgreSQL internals on how it works under the hood
-* Discuss performance impacts and improvement where it makes sense
-
-Can we mix several Isolation Levels.
-
-We shall talk about snapshots, tuple structure and locking. Also, we shall dig all isolation levels to shade light on SERIALIZABLE which is seldom used by developers.
-
-After this talk you should be able to choose confidently the right level for the right context.  
+Les niveaux d'isolation des transactions définissent comment le moteur de base de données doit se comporter lorsque des accès concurrents aux données entrent en conflits. Pour chacun des niveaux définis par "la norme" SQL, nous listerons les attentes liées au niveau, nous montrerons les cas d'usage typiques, nous discuterons des erreurs de concurrence, nous expliquerons les mécanismes internes de PostgreSQL (MVCC, snapshots, structure de tuples, locks) mis en jeu et les éventuels impacts de performance associés. Nous porterons aussi notre attention sur le niveau SERIALIZABLE plutôt sous-utilisé par les développeurs. Nous nous interrogerons sur l'exécution de transactions avec des niveaux d'isolation différents. Après cette présentation, vous serez capable de choisir le bon niveau d'isolation de chacune de vos transactions.
   </p>
   <!--<p><a href="docs/2026/.pdf">Slides</a></p>-->
   </div>
