@@ -257,7 +257,7 @@ layout: default
       <div class="col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title"><i class="fa fa-map"></i> Carte</h3>
+                <h3 class="panel-title"><i class="fa fa-globe"></i> Carte</h3>
             </div>
             <div class="panel-body">
                 <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik"></iframe>
@@ -285,7 +285,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-beer"></i> Restauration</h3>
+            <h3 class="panel-title"><i class="fa fa-beer"></i>  Restauration</h3>
           </div>          
           <div class="zoom-image">
             <p><a href="img/restauration.png" target="_blank">
@@ -546,7 +546,7 @@ layout: default
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-map"></i> Map</h3>
+            <h3 class="panel-title"><i class="fa fa-globe"></i> Map</h3>
           </div>
           <div class="panel-body">
             <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.3664352893829346%2C43.57407184501379%2C1.384352445602417%2C43.58078722900235&amp;layer=mapnik"></iframe>
@@ -574,7 +574,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-beer"></i> Restaurants near event</h3>
+            <h3 class="panel-title"><i class="fa fa-beer"></i>  Restaurants near event</h3>
           </div>
           <div class="zoom-image">
             <p><a href="img/restaurants.png" target="_blank">
