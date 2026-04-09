@@ -266,7 +266,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-sitemap"></i> Accès au site</h3>
+            <h3 class="panel-title"><i class="fa fa-info-circle"></i> Accès au site</h3>
           </div>
           <div class="panel-body">
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
@@ -555,7 +555,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-sitemap"></i> Site Access</h3>
+            <h3 class="panel-title"><i class="fa fa-info-circle"></i> Site Access</h3>
           </div>
           <div class="panel-body">
             <img src="img/pgday_acces.gif" alt="Site Access" class="img-responsive">
