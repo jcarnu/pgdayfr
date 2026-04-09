@@ -337,14 +337,12 @@ layout: default
             </div>
             <hr>
             <div class="row">
-              <div class="col-md-6">
-                <h4><i class="fa fa-road"></i> By Car</h4>
-                <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
-              </div>
-              <div class="col-md-6">
+              <h4><i class="fa fa-road"></i> By Car</h4>
+              <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
+            </div>
+            <div class="row">
                 <h4><i class="fa fa-ticket"></i> Public Transport</h4>
                 <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection. You also can use your contactless credit/debit card or your NFC compatible smartphone with the Tisséo app for <a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a> instead of a ticket. Check-out the <a href="https://www.tisseo.fr/">Tisseo website</a> for more information.</p>
-              </div>
             </div>
           </div>
         </div>
