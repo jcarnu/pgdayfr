@@ -28,7 +28,7 @@ layout: default
           <div class="panel-body">
             <div class="row">
               <div class="col-md-6">
-                <h4><i class="fa fa-signal"></i> En train</h4>
+                <h4><i class="fa fa-random"></i> En train</h4>
                 <p>La <strong>gare Matabiau</strong> est le point d'arrivée principal. Pour rejoindre Météo France :</p>
                 <ol>
                   <li>Prendre le <strong>métro Ligne A</strong> direction <strong>Basso Cambo</strong>.</li>
@@ -317,7 +317,7 @@ layout: default
           <div class="panel-body">
             <div class="row">
               <div class="col-md-6">
-                <h4><i class="fa fa-signal"></i> By Train</h4>
+                <h4><i class="fa fa-random"></i> By Train</h4>
                 <p>The main arrival point is <strong>Matabiau station</strong>. To reach Météo France:</p>
                 <ol>
                   <li>Take <strong>Metro Line A</strong> towards <strong>Basso Cambo</strong>.</li>
