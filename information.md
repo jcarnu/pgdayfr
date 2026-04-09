@@ -51,7 +51,7 @@ layout: default
             <hr>
             <div class="row">
               <div class="col-md-6">
-                <h4><i class="fa fa-car"></i> En voiture</h4>
+                <h4><i class="fa fa-road"></i> En voiture</h4>
                 <p>Un parking gratuit est disponible sur le site de Météo France, accessible via la rocade <strong>Arc en ciel</strong>.</p>
               </div>
               <div class="col-md-6">
@@ -266,7 +266,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-road"></i> Accès au site</h3>
+            <h3 class="panel-title"><i class="fa fa-sitemap"></i> Accès au site</h3>
           </div>
           <div class="panel-body">
             <img src="img/acces_pgday.gif" alt="Accès au site" class="img-responsive">
@@ -340,7 +340,7 @@ layout: default
             <hr>
             <div class="row">
               <div class="col-md-6">
-                <h4><i class="fa fa-car"></i> By Car</h4>
+                <h4><i class="fa fa-road"></i> By Car</h4>
                 <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
               </div>
               <div class="col-md-6">
@@ -555,7 +555,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-road"></i> Site Access</h3>
+            <h3 class="panel-title"><i class="fa fa-sitemap"></i> Site Access</h3>
           </div>
           <div class="panel-body">
             <img src="img/pgday_acces.gif" alt="Site Access" class="img-responsive">
