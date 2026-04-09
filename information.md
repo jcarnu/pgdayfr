@@ -285,7 +285,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-map"></i>Restauration</h3>
+            <h3 class="panel-title"><i class="fa fa-beer"></i>Restauration</h3>
           </div>          
           <div class="zoom-image">
             <p><a href="img/restauration.png" target="_blank">
@@ -574,7 +574,7 @@ layout: default
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-map"></i>Restaurants near event</h3>
+            <h3 class="panel-title"><i class="fa fa-beer"></i>Restaurants near event</h3>
           </div>
           <div class="zoom-image">
             <p><a href="img/restaurants.png" target="_blank">
