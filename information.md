@@ -23,7 +23,7 @@ layout: default
           </div>
           <div class="panel panel-pg-info">
             <div class="panel-heading">
-              <h3 class="panel-title"><i class="fa-solid fa-route"></i> Comment venir ?</h3>
+              <h3 class="panel-title"><i class="fa fa-route"></i> Comment venir ?</h3>
           </div>
           <div class="panel-body">
             <div class="row">
@@ -312,7 +312,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa-solid fa-route"></i> How to Get There</h3>
+            <h3 class="panel-title"><i class="fa fa-route"></i> How to Get There</h3>
           </div>
           <div class="panel-body">
             <div class="row">
