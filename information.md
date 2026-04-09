@@ -63,7 +63,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-building-o"></i> Hébergement</h3>
+            <h3 class="panel-title"><i class="fa fa-home"></i> Hébergement</h3>
           </div>
           <div class="panel-body">
             <p>Situé à 450 mètres de <strong>Météo France</strong>, l'hôtel <strong>B&B Toulouse-Basso Cambo</strong> vous accueillera à un tarif préférentiel.</p>
@@ -74,7 +74,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-bus"></i>Trajets en transports en commun</h3>
+            <h3 class="panel-title"><i class="fa fa-ticket"></i>Trajets en transports en commun</h3>
           </div>
           <div class="panel-body">
             <div class="row">
@@ -352,7 +352,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-building-o"></i> Accommodation</h3>
+            <h3 class="panel-title"><i class="fa fa-home"></i> Accommodation</h3>
           </div>
           <div class="panel-body">
             <p>Located 450 meters from <strong>Météo France</strong>, the <strong>B&B Toulouse-Basso Cambo</strong> hotel will welcome you at a preferential rate.</p>
@@ -363,7 +363,7 @@ layout: default
         </div>
         <div class="panel panel-pg-info">
           <div class="panel-heading">
-            <h3 class="panel-title"><i class="fa fa-bus"></i>Journeys by public transport</h3>
+            <h3 class="panel-title"><i class="fa fa-ticket"></i>Journeys by public transport</h3>
           </div>
           <div class="panel-body">
             <div class="row">
