@@ -16,9 +16,15 @@ layout: default
               <h3 class="panel-title"><i class="fa fa-map-marker"></i> Lieu de l'événement</h3>
             </div>
             <div class="panel-body">
-              <p><strong>Météo France - Centre International de Conférences</strong></p>
-              <p>42 avenue Gaspard Coriolis, 31100 Toulouse, France</p>
-              <p><a href="http://www.meteo.fr/cic/presentation.html" target="_blank" class="btn btn-primary btn-sm">Site Web</a></p>
+              <div class="row">
+                <div class="col-md-8">
+                  <p><strong>Météo France - Centre International de Conférences</strong></p>
+                  <p>42 avenue Gaspard Coriolis, 31100 Toulouse, France</p>
+                </div>
+                <div class="col-md-4">
+                  <p><a href="http://www.meteo.fr/cic/presentation.html" target="_blank" class="btn btn-primary btn-sm">Site Web</a></p>
+                </div>            
+              </div>
             </div>
           </div>
           <div class="panel panel-pg-info">
