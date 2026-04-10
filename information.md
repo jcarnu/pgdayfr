@@ -58,18 +58,26 @@ layout: default
             </div>
             <hr>
             <div class="panel-body">
-              <h4><i class="fa fa-road"></i> En voiture</h4>
-              <p>Un parking gratuit est disponible sur le site de Météo France, accessible via la rocade <strong>Arc en ciel</strong>.</p>
+                <div class="row">
+                  <div class="col-md-12">
+                   <h4><i class="fa fa-road"></i> En voiture</h4>
+                   <p>Un parking gratuit est disponible sur le site de Météo France, accessible via la rocade <strong>Arc en ciel</strong>.</p>
+                  </div>
+                </div>
             </div>
             <hr>            
             <div class="panel-body">
-              <h4><i class="fa fa-ticket"></i> Transports en commun</h4>
-              <p>Les tickets peuvent être achetés aux distributeurs (métro/tram) ou à bord des bus. Un ticket est valable pour 3 changements en 1h. Validez à chaque correspondance. Vous pouvez aussi utiliser votre carte de paiement sans contact ou votre smartphone NFC avec l'application Tisséo pour <strong><a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a></strong> ou <strong><a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a></strong>, en guise de ticket. Consultez le <strong><a href="https://www.tisseo.fr/">site web de Tisséo</a></strong> pour plus d'informations.</p>
-              <p></p>
-              <p>Vous pouvez profiter des tarifs réservés aux professionnels (-20% sur les prix public) en achetant vos titres à l'avance sur le <strong><a href="https://www.tisseo.pro/connexion?create_account=1">site Tisséo pour les professionnels</a></strong>.</p>
-              <p>Ils vous seront envoyés à l'adresse que vous aurez indiquée.</p>
-              <p>Vous trouverez l'ensemble des forfaits proposés <strong><a href="https://www.tisseo.pro/15-gamme-pro">ici</a></strong>.</p>
-              <p>A savoir : un pass 48h (par exemple) s'activera à sa première utilisation et sera valide durant les 48 heures suivantes (du mardi 19 heures au jeudi 18h59 par exemple).</p>
+              <div class="row">
+                <div class="col-md-12">
+                  <h4><i class="fa fa-ticket"></i> Transports en commun</h4>
+                  <p>Les tickets peuvent être achetés aux distributeurs (métro/tram) ou à bord des bus. Un ticket est valable pour 3 changements en 1h. Validez à chaque correspondance. Vous pouvez aussi utiliser votre carte de paiement sans contact ou votre smartphone NFC avec l'application Tisséo pour <strong><a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a></strong> ou <strong><a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a></strong>, en guise de ticket. Consultez le <strong><a href="https://www.tisseo.fr/">site web de Tisséo</a></strong> pour plus d'informations.</p>
+                  <p></p>
+                  <p>Vous pouvez profiter des tarifs réservés aux professionnels (-20% sur les prix public) en achetant vos titres à l'avance sur le <strong><a href="https://www.tisseo.pro/connexion?create_account=1">site Tisséo pour les professionnels</a></strong>.</p>
+                  <p>Ils vous seront envoyés à l'adresse que vous aurez indiquée.</p>
+                  <p>Vous trouverez l'ensemble des forfaits proposés <strong><a href="https://www.tisseo.pro/15-gamme-pro">ici</a></strong>.</p>
+                  <p>A savoir : un pass 48h (par exemple) s'activera à sa première utilisation et sera valide durant les 48 heures suivantes (du mardi 19 heures au jeudi 18h59 par exemple).</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -373,18 +381,26 @@ layout: default
             </div>
             <hr>
             <div class="panel-body">
-              <h4><i class="fa fa-road"></i> By Car</h4>
-              <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
+              <div class="row">
+                <div class="col-md-12">
+                  <h4><i class="fa fa-road"></i> By Car</h4>
+                  <p>Free parking is available at the Météo France site, accessible via the <strong>Arc en ciel</strong> ring road.</p>
+                </div>
+              </div>
             </div>
             <hr>            
             <div class="panel-body">
-              <h4><i class="fa fa-ticket"></i> Public Transport</h4>
-              <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection. You also can use your contactless credit/debit card or your NFC compatible smartphone with the Tisséo app for <strong><a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a></strong> or <strong><a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a></strong> instead of a ticket. Check-out the <strong><a href="https://www.tisseo.fr/">Tisseo website</a></strong> for more information.</p>
-              <p></p>
-              <p>You can take advantage of professional rates (20% off public prices) by purchasing your tickets in advance on the <strong><a href="https://www.tisseo.pro/connexion?create_account=1">Tisseo professional website</a></strong>.</p>
-              <p>They will be sent to the address you provide.</p>
-              <p>You can find all the available packages <strong><a href="https://www.tisseo.pro/15-gamme-pro">here</a></strong>.</p>
-              <p>Please note: a 48-hour pass (for example) will be activated upon first use and will be valid for the following 48 hours (from Tuesday at 7:00 PM to Thursday at 6:59 PM, for example).</p>
+              <div class="row">
+                <div class="col-md-12">              
+                  <h4><i class="fa fa-ticket"></i> Public Transport</h4>
+                  <p>Tickets can be purchased from vending machines (metro/tram) or on buses. One ticket is valid for 3 transfers within 1 hour. Please validate your ticket at each connection. You also can use your contactless credit/debit card or your NFC compatible smartphone with the Tisséo app for <strong><a href="https://apps.apple.com/fr/app/tiss%C3%A9o-m%C3%A9tro-tram-bus/id818553522">iPhone</a></strong> or <strong><a href="https://play.google.com/store/apps/details?id=fr.tisseo.android&hl=fr">Android</a></strong> instead of a ticket. Check-out the <strong><a href="https://www.tisseo.fr/">Tisseo website</a></strong> for more information.</p>
+                  <p></p>
+                  <p>You can take advantage of professional rates (20% off public prices) by purchasing your tickets in advance on the <strong><a href="https://www.tisseo.pro/connexion?create_account=1">Tisseo professional website</a></strong>.</p>
+                  <p>They will be sent to the address you provide.</p>
+                  <p>You can find all the available packages <strong><a href="https://www.tisseo.pro/15-gamme-pro">here</a></strong>.</p>
+                  <p>Please note: a 48-hour pass (for example) will be activated upon first use and will be valid for the following 48 hours (from Tuesday at 7:00 PM to Thursday at 6:59 PM, for example).</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
