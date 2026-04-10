@@ -5,87 +5,121 @@ layout: default
 
 # Speakers
 
-<div class="row pg_speaker" id="l_durieux">
+<div class="row pg_speaker" id="j_machytka">
   <div class="col-md-2">
-  <img src="img/orateurs/l_durieux.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/j_machytka.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Laura Durieux</h3>
-  <span class="role">Fullstack dev & streamer</span>
+  <h3>Josef Machytka</h3>
+  <span class="role">credativ GmbH</span>
   <p>
-  Laura Durieux, développeuse passionnée avec plus de six ans d'expérience, est diplômée de la Haute École Albert Jacquard en Web Design et Développement. En tant que freelance, elle crée des outils, des sites web et intervient en tant que consultante dans le domaine médical. Double médaillée d'or aux WorldSkills Belgium et d'une Médaille d'Excellence à l'EuroSkills 2021, elle s'est également formée à Tokyo, où elle a développé le site web de Tabasco Japan en 2020. Depuis 2023, Laura partage son expertise sur Twitch, a animé « On est pas des iencli » sur la RTBF, et donne des conférences à travers l'Europe sur la tech et les contributions des femmes dans l'histoire de l'informatique.
+  Born in Czech Republic, now living 12 years in Berlin, 33+ years of experience with different databases, PostgreSQL 13 years, Oracle 15ys, 10+ years of experience with Data Ingestion pipelines, Data Analysis, Data Lakehouse, 3+ years of experience with LLMs / AI / ML.
   </p>
   <p>
-    Présentation:
-    <a href='/programme'>Keynote : Où sont passées les femmes de l'histoire de la tech?</a>
+    Atelier:
+    <a href='/programme'>PgBouncer - Everything, Everywhere, All At Once About This Tool</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="k_jex">
+<div class="row pg_speaker" id="d_clochard">
   <div class="col-md-2">
-  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Karen Jex</h3>
-  <span class="role">Crunchy Data</span>
-  <p>
-  Karen est Senior Solutions Architect chez Crunchy Data, après avoir passé 20 ans en tant que DBA. Elle donne des conférences sur les bases de données, et elle est membre du bureau PostgreSQL Europe et fondatrice du groupe de travail sur la diversité de PostgreSQL Europe.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Postgres sur Kubernetes pour le DBA réticent</a>
-  </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="g_lelarge">
-  <div class="col-md-2">
-  <img src="img/orateurs/g_lelarge.png" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Guillaume Lelarge</h3>
+  <h3>Damien Clochard</h3>
   <span class="role">Dalibo</span>
   <p>
-  Contributeur majeur de la communauté PostgreSQL, traducteur du manuel et des applications, consultant Dalibo depuis 2007, et auteur de "PostgreSQL - Architecture et notions avancées" ainsi que de nombreux articles sur Linux Pratique.
+  Damien Clochard est actif au sein de la communauté PostgreSQL à différents niveaux, notamment au sien de l'association PostgreSQLFr et en tant que développeur principal du projet PostgreSQL Anonymizer. Il est Product Owner chez DALIBO, une société qu'il a co-fondée en 2005.
   </p>
   <p>
-    Présentation:
-    <a href='/programme'>Tout savoir sur max_connections</a>
-  </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="s_delobel">
-  <div class="col-md-2">
-  <img src="img/orateurs/s_delobel.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Sébastien Delobel</h3>
-  <span class="role">Oney</span>
-  <p>
-  Sébastien Delobel, database engineer expérimenté, travaille dans divers secteurs. Il est reconnu pour sa rigueur et ses solutions innovantes, notamment avec PostgreSQL. Il occupe plusieurs rôles autour de la data et co-organise le Meetup PostgreSQL Paris.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Json in Postgres</a>
+    Atelier:
+    <a href='/programme'>Développer une extension Postgres en Rust</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="g_yildirim">
+<div class="row pg_speaker" id="m_cornillon">
   <div class="col-md-2">
-  <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/m_cornillon.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Gülçin Yıldırım Jelinek</h3>
-  <span class="role">Xata</span>
+  <h3>Matt Cornillon</h3>
+  <span class="role">Google</span>
   <p>
-  Gülçin has worked professionally with Postgres since 2012, actively contributing through events, talks, and community involvement. She’s a Staff Database Engineer at Xata, co-founder of Kadin Yazilimci, and organizes the Prague PostgreSQL Meetup, advocating for diversity and inclusion in tech.
+  Passionné de bases de données et "Significant contributor" Postgres, je suis VP de PostgreSQL Fr et co-organisateur du PGDay France et du PUG Lille. Après 10 ans en retail, j’accompagne désormais les équipes dans leur transition vers les bases de données Cloud chez Google.
+  </p>
+  <p>
+    Atelier:
+    <a href='/programme'>Créez votre premier agent IA avec PostgreSQL</a>
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="j_acroute">
+  <div class="col-md-2">
+  <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Julien Acroute</h3>
+  <span class="role">camptocamp</span>
+  <p>
+  Passionné par PostgreSQL depuis 15 ans, j’ai évolué du développement vers l’infrastructure. Aujourd'hui, je gère des plateformes Kubernetes et des clusters PostgreSQL au quotidien. J’accompagne mes clients via l'audit et le conseil, et j'aime partager mon expérience en formation et conférence.
+  </p>
+  <p>
+    Atelier:
+    <a href='/programme'>Rafraîchir les données de développement avec anonymisation dans CloudNativePG</a>
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="w_roset">
+  <div class="col-md-2">
+  <img src="img/orateurs/w_roset.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Wilfried Roset</h3>
+  <span class="role">OVHcloud</span>
+  <p>
+  Wilfried est Engineering Manager chez OVHcloud, responsable de l'infrastructure et de la fiabilité des bases de données internes de l'entreprise. Son équipe gère quotidiennement des plusieurs centaine d'instances PostgreSQL et MySQL au service de 700+ développeurs.
+  </p>
+  <p>
+    Présentation:
+    <a href='/programme'>Rendre 700 développeurs autonomes sur PostgreSQL grâce à l'IA : Premiers retours</a>
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="f_delacourt">
+  <div class="col-md-2">
+  <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Frédéric Delacourt</h3>
+  <span class="role">Data Bene</span>
+  <p>
+  PostgreSQLing since 2006 in a R&D department of a Telecom company, I switched to consulting since 2017. I joined Data Bene (previously 2ndQuadrant France) in 2019. I love solving difficult problems with the simplest tools or methods and when performance is involved it is even better.
+  </p>
+  <p>
+    Présentation:
+    <a href='/programme'>Comprendre les niveaux d'isolation des transactions</a>
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="h_gupta">
+  <div class="col-md-2">
+  <img src="img/orateurs/h_gupta.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Haritabh Gupta</h3>
+  <span class="role">Supabase</span>
+  <p>
+  I'm Haritabh Gupta, a software engineer at Supabase working on Multigres — an open-source project bringing Vitess-style horizontal scaling to PostgreSQL. I also maintain an AI-powered summary tool for the PostgreSQL hackers mailing list. Based in Dublin, Ireland.
   </p>
   <p>
     Session:
-    <a href='/programme'>Anatomy of Table-Level Locks in PostgreSQL</a>
+    <a href='/programme'>Building a Truly Compatible Postgres Proxy: The Multigres Story</a>
   </p>
   </div>
 </div>
@@ -98,62 +132,45 @@ layout: default
   <h3>Luigi Nardi</h3>
   <span class="role">DBtune</span>
   <p>
-  Dr. Luigi Nardi is the founder and CEO of DBtune, a leading company driving advancements in AI, database systems, and cloud computing. Previously a professor of AI at Lund and a research staff at Stanford, Luigi is a public speaker having co-authored more than 50 peer-reviewed papers.
+  Dr. Luigi Nardi is the founder and CEO of DBtune, a leading company driving advancements in AI, database systems, and cloud computing. Previously a professor of AI at Lund University and a research staff at Stanford, Luigi has co-authored more than 50 peer-reviewed papers.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Réglage automatisé de PostgreSQL : Explorer l'optimisation des paramètres serveur</a>
+    <a href='/programme'>Workload Fingerprints: The precision metric for autonomous PostgreSQL tuning</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="f_coelho">
+<div class="row pg_speaker" id="f_pachot">
   <div class="col-md-2">
-  <img src="img/orateurs/f_coelho.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_pachot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Fabien Coelho</h3>
-  <span class="role">Mines Paris - PSL</span>
+  <h3>Franck Pachot</h3>
+  <span class="role">MongoDB</span>
   <p>
-  Professeur en informatique, j'enseigne les bases de données auprès d'un public d'ingénieur généraliste avec Postgres. Je contribue occasionnellement à son développement depuis plus de 20 ans, en particulier sur les questions de performance (pgbench, checkpointer) et d'utilisabilité (psql, debug).
+  Franck is a Developer Advocate at MongoDB and an AWS Data Hero. Previously at YugabyteDB (distributed PostgreSQL), he has extensive experience in database consulting for development and operations teams, with a focus on developer experience, data modeling, and performance troubleshooting.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Comment se débarrasser de Full Page Write ?</a>
+    <a href='/programme'>Domain‑Driven Design, ORMs, et Developer Experience avec PostgreSQL</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="l_leinweber">
+<div class="row pg_speaker" id="v_mercier">
   <div class="col-md-2">
-  <img src="img/orateurs/l_leinweber.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/v_mercier.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Louise Leinweber</h3>
-  <span class="role">Crunchy Data</span>
+  <h3>Vincent Mercier</h3>
+  <span class="role">Amazon</span>
   <p>
-  Ingénieure à Crunchy data dans l’équipe de crunchy bridge, je travaille avec et pour les utilisateurs de Postgres depuis cinq ans déjà. Avant cela j’étais à citus data, et avant cela, jadis, j’utilisais déjà Postgres car c’est la meilleure base de données.
+  Vincent Mercier intervient sur les bases de données PostgreSQL en startup depuis plus de 10 ans. Il contribue à des projets open-source autour de PostgreSQL et développe notamment des outils comme postgresql-partition-manager et database-monitoring-framework sur GitHub.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Voyage au centre des statistiques dans postgres</a>
-  </p>
-  </div>
-</div>
-
-<div class="row pg_speaker" id="n_mallet">
-  <div class="col-md-2">
-  <img src="img/orateurs/n_mallet.jpg" class="img-thumbnail" alt="">
-  </div>
-  <div class="col-md-8">
-  <h3>Naeva Mallet</h3>
-  <span class="role">Leboncoin</span>
-  <p>
-  Initialement développeuse Backend en Go principalement, je me suis reconverti en Ingénieur Infrastructure depuis 3 ans. Je travaille en tant que DBA/Devops dans l'automatisation et la gestion des bases de données PostgreSQL <3.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Comment déplacer une base Postgres avec zéro downtime ?</a>
+    <a href='/programme'>Partitionning PostgreSQL : quand il n’y a pas de DBA</a>
   </p>
   </div>
 </div>
