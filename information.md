@@ -61,7 +61,7 @@ layout: default
               <p>Vous pouvez profiter des tarifs réservés aux professionnels (-20% sur les prix public) en achetant vos titres à l'avance sur le <strong><a href="https://www.tisseo.pro/connexion?create_account=1">site pro</a></strong>.</p>
               <p>Ils vous seront envoyés à l'adresse que vous aurez indiquée.</p>
               <p>Vous trouverez l'ensemble des forfaits proposés <strong><a href="https://www.tisseo.pro/15-gamme-pro">ici</a></strong>.</p>
-              <p>A savoir : un pass 48h (par exemple) s'activera à sa première utilisation et sera utilisable durant les 48 heures suivantes (du mardi 19 heures au jeudi 18h59 par exemple).</p>
+              <p>A savoir : un pass 48h (par exemple) s'activera à sa première utilisation et sera valide durant les 48 heures suivantes (du mardi 19 heures au jeudi 18h59 par exemple).</p>
             </div>
           </div>
         </div>
