@@ -26,7 +26,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Atelier: PgBouncer - Everything, Everywhere, All At Once About This Tool (EN)</h3>
-  <p>Machytka Josef - <a href="https://www.credativ.de/en/">Credativ</a></p>
+  <p>Par <a href="/orateurs#j_machytka" class="pg_speaker_name">Josef Machytka</a> - <a href="https://www.credativ.de/en/">Credativ</a></p>
   <p>PostgreSQL connections are expensive, their number is the limiting factor for performance and stability. Connection pooling is a primary scaling tool for modern systems. We all know it, but do we really understand why? We will dive into PostgreSQL and Linux architecture, explaining the concrete costs of “too many connections” in PostgreSQL’s process-per-connection model.
 Second part is dedicated to PgBouncer. We will examine how its current single‑threaded event loop works and outline the proposed multithreaded approach. We will cover practical and experimental use cases and the configuration edges that matter in production—like scaling.
   </p>
@@ -41,7 +41,7 @@ Second part is dedicated to PgBouncer. We will examine how its current single‑
   </div>
   <div class="schedule_desc">
   <h3>Atelier: Développer une extension Postgres en Rust (FR)</h3>
-  <p>Damien Clochard - <a href="https://www.dalibo.com/">Dalibo</a></p>
+  <p>Par <a href="/orateurs#d_clochard" class="pg_speaker_name">Damien Clochard</a> - <a href="https://www.dalibo.com/">Dalibo</a></p>
   <p>
 Cet atelier est consacré au framework PGRX, un environnement de développement qui facilite la conception d'extensions PostgreSQL avec le langage Rust. Avec une succession d'exercices concrets et progressifs, nous verrons les avantages du langage Rust pour intégrer du code au plus près de vos données.
   </p>
@@ -78,7 +78,7 @@ Cet atelier est consacré au framework PGRX, un environnement de développement 
   </div>
   <div class="schedule_desc">
   <h3>Atelier: Créez votre premier agent IA avec PostgreSQL (FR)</h3>
-  <p>Matt Cornillon - <a href="https://www.google.com/">Google</a></p>
+  <p>Par <a href="/orateurs#m_cornillon" class="pg_speaker_name">Matt Cornillon</a> - <a href="https://www.google.com/">Google</a></p>
   <p>
 Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM.
 
@@ -100,7 +100,7 @@ Cas pratique : Création d'un agent expert météo capable d'analyser vos histor
   </div>
   <div class="schedule_desc">
   <h3>Atelier: Rafraîchir les données de développement avec anonymisation dans CloudNativePG (FR)</h3>
-  <p>Julien Acroute - <a href="https://www.camptocamp.com/">camptocamp</a></p>
+  <p>Par <a href="/orateurs#j_acroute" class="pg_speaker_name">Julien Acroute</a> - <a href="https://www.camptocamp.com/">camptocamp</a></p>
   <p>
 Dans nos workflows de développement, le chemin de promotion du code est désormais bien balisé. Pourtant, dès qu'on parle de données, tout se complique : le chemin inverse (Prod -> Dev) reste souvent le parent pauvre de l’automatisation. Rafraîchir une base de développement rime encore trop souvent avec "ouverture de ticket", "restauration lente" ou compromis sur la confidentialité des données.
 
@@ -161,7 +161,7 @@ href="https://pgday.fr/partenaires#community-event-sponsor" class="thumbnail"><i
   </div>
   <div class="schedule_desc">
   <h3>Rendre 700 développeurs autonomes sur PostgreSQL grâce à l'IA : Premiers retours (FR)</h3>
-  <p>Par <a href="orateurs#w_roset" class="pg_speaker_name">Wilfried Roset</a> - OVH Cloud</p>
+  <p>Par <a href="/orateurs#w_roset" class="pg_speaker_name">Wilfried Roset</a> - OVHcloud</p>
   <p>
 Notre équipe DBA chez OVHcloud était submergée par 700+ développeurs posant sans cesse les mêmes questions : "C'est quoi ce schéma ?", "Aide-moi avec cette jointure ?", "Pourquoi c'est lent ?"
 
@@ -178,7 +178,7 @@ Nous avons construit Luke, une passerelle MCP permettant aux agents IA d'introsp
   </div>
   <div class="schedule_desc">
   <h3>Comprendre les niveaux d'isolation des transactions (FR)</h3>
-  <p>Par <a href="orateurs#f_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
+  <p>Par <a href="/orateurs#f_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
   <p>
 Les niveaux d'isolation des transactions définissent comment le moteur de base de données doit se comporter lorsque des accès concurrents aux données entrent en conflits. Pour chacun des niveaux définis par "la norme" SQL, nous listerons les attentes liées au niveau, nous montrerons les cas d'usage typiques, nous discuterons des erreurs de concurrence, nous expliquerons les mécanismes internes de PostgreSQL (MVCC, snapshots, structure de tuples, locks) mis en jeu et les éventuels impacts de performance associés. Nous porterons aussi notre attention sur le niveau SERIALIZABLE plutôt sous-utilisé par les développeurs. Nous nous interrogerons sur l'exécution de transactions avec des niveaux d'isolation différents. Après cette présentation, vous serez capable de choisir le bon niveau d'isolation de chacune de vos transactions.
   </p>
@@ -203,7 +203,7 @@ Les niveaux d'isolation des transactions définissent comment le moteur de base 
   </div>
   <div class="schedule_desc">
   <h3>Building a Truly Compatible Postgres Proxy: The Multigres Story (EN)</h3>
-  <p>Par <a href="orateurs#h_gupta" class="pg_speaker_name">Haritabh Gupta</a> - supabase</p>
+  <p>Par <a href="/orateurs#h_gupta" class="pg_speaker_name">Haritabh Gupta</a> - Supabase</p>
   <p>
 What does it take to build a Postgres proxy that applications can't tell apart from vanilla Postgres? In this talk, I share lessons from building Multigres, a horizontally-scalable Postgres proxy. I walk through the real compatibility challenges we faced: implementing COPY FROM as a streaming state machine, managing session state and transactions with connection pooling, preserving all Postgres error diagnostic fields through a gRPC stack, handling TLS negotiation, forwarding NOTICE messages, and forwarding client startup parameters. Then we'll see how Postgres's regression and isolation test suites help to measure and prove what it truly means to be a transparent Postgres proxy.
   </p>
@@ -246,7 +246,7 @@ What does it take to build a Postgres proxy that applications can't tell apart f
   </div>
   <div class="schedule_desc">
   <h3>Workload Fingerprints: The precision metric for autonomous PostgreSQL tuning (EN)</h3>
-  <p>Par <a href="orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBTune</p>
+  <p>Par <a href="/orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBTune</p>
   <p>
 A PostgreSQL database is a sea of noise. Traditional performance indicators miss shifting query frequencies or transient background tasks. This session explores the Workload Fingerprint, a novel observability approach providing the granular accuracy required for autonomous optimization. We will deconstruct this methodology to answer the hard questions of production tuning: prioritizing truly critical queries, isolating environmental noise, blending diverse data into a stable baseline, and verifying persistent performance gains. This talk offers a roadmap for moving from "gut-feel" tuning to a fingerprint-based methodology that ensures every optimization is a step in the right direction.
   </p>
@@ -260,7 +260,7 @@ A PostgreSQL database is a sea of noise. Traditional performance indicators miss
   </div>
   <div class="schedule_desc">
   <h3>Domain‑Driven Design, ORMs, et Developer Experience avec PostgreSQL (FR)</h3>
-  <p>Par <a href="orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - mongoDB</p>
+  <p>Par <a href="/orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - MongoDB</p>
   <p>
 Les bases relationnelles ont été conçues pour être centrales et inclure la logique métier, partagées par plusieurs applications via schémas normalisés, contraintes d’intégrité et procédures stockées. Aujourd’hui, les architectures orientées services dominent : chaque équipe gère son service, son domaine fonctionnel et utilise souvent une base dédiée. Avec le DDD, la logique métier est dans l’application. PostgreSQL reste un bon candidat pour le modèle « une base par service », via un ORM ou avec des agrégats stockés en JSONB.
 Le but de cette session est de mieux comprendre le développement d’applications modernes et de faciliter la communication Dev- DBA.
@@ -285,7 +285,7 @@ Le but de cette session est de mieux comprendre le développement d’applicatio
   </div>
   <div class="schedule_desc">
   <h3>Partitioning PostgreSQL : quand il n’y a pas de DBA (FR)</h3>
-  <p>Par <a href="orateurs#v_mercier" class="pg_speaker_name">Vincent Mercier</a> - Amazon</p>
+  <p>Par <a href="/orateurs#v_mercier" class="pg_speaker_name">Vincent Mercier</a> - Amazon</p>
   <p>
 Lorsqu’on parle de scalabilité, le partitioning arrive vite dans la discussion.
 En pratique, sa conception et son exploitation sont généralement confiées aux DBA… lorsqu’il y en a. Mais que se passe-t-il dans les équipes où le rôle de DBA n’existe pas ?
