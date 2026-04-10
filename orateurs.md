@@ -5,19 +5,45 @@ layout: default
 
 # Speakers
 
-<div class="row pg_speaker" id="j_machytka">
+<div class="row pg_speaker" id="p_viegas">
   <div class="col-md-2">
-  <img src="img/orateurs/j_machytka.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/p_viegas.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Josef Machytka</h3>
-  <span class="role">credativ GmbH</span>
+  <h3>Philippe Viegas</h3>
+  <span class="role">LOXODATA</span>
   <p>
-  Born in Czech Republic, now living 12 years in Berlin, 33+ years of experience with different databases, PostgreSQL 13 years, Oracle 15ys, 10+ years of experience with Data Ingestion pipelines, Data Analysis, Data Lakehouse, 3+ years of experience with LLMs / AI / ML.
+Philippe Viegas est consultant PostgreSQL et formateur au sein de la
+société LOXODATA depuis 2022. Auparavant développeur backend et
+utilisateur de PostgreSQL depuis plusieurs années, il a endossé la
+casquette de consultant PostgreSQL en passant la barrière séparant les
+développeurs et les DBA afin de découvrir tous les rouages de
+PostgreSQL.
   </p>
   <p>
     Atelier:
-    <a href='/programme'>PgBouncer - Everything, Everywhere, All At Once About This Tool</a>
+    <a href='/programme'>Comment PgBouncer permet à PostgreSQL de prendre la charge de votre application</a>
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="p_viegas">
+  <div class="col-md-2">
+  <img src="img/orateurs/jc_arnu.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Jean-Christophe Arnu</h3>
+  <span class="role">LOXODATA</span>
+  <p>
+Jean-Christophe Arnu a découvert PostgreSQL en 1998. Dès 2005, il
+intègre la communauté et fonde avec d'autres passionnés l'association
+PostgreSQLFr. En 2008, il coorganise le premier PGDay.fr. Aujourd'hui
+consultant PostgreSQL chez LOXODATA, il poursuit la promotion de
+PostgreSQL au sein du Toulouse PostgreSQL User Group.
+  </p>
+  <p>
+    Atelier:
+    <a href='/programme'>Comment PgBouncer permet à PostgreSQL de prendre la charge de votre application</a>
   </p>
   </div>
 </div>
