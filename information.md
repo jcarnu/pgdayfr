@@ -269,8 +269,11 @@ layout: default
             </div>
             <hr>
             <div class="row">
-              <div class="col-md-12">              
+              <div class="col-md-9">              
+                <p>  </p>
                 <p>Données source Tisséo. Pour organiser votre trajet :</p>
+              </div>
+              <div class="col-md-3">              
                 <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
               </div>
             </div>
@@ -581,8 +584,11 @@ layout: default
             </div>
             <hr>
             <div class="row">
-              <div class="col-md-12">              
+              <div class="col-md-9">  
+                <p>  </p>
                 <p>Data source from Tisséo. To plan your journey :</p>
+              </div>
+              <div class="col-md-3">
                 <p><a href="https://www.tisseo.fr/se-deplacer/itineraires" target="_blank" class="btn btn-primary btn-sm">Tisséo</a></p>
               </div>
             </div>
