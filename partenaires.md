@@ -83,11 +83,13 @@ their presence alongside us.
   </div>
 </div>
 
+<!--
 <div class="row">
   <div class="col-lg-12 text-center">
     <h3 style="margin-top: 40px; margin-bottom: 30px; color: #cd7f32;">Bronze Sponsors</h3>
   </div>
 </div>
+-->
 
 <div class="row">
   <div class="col-lg-12 text-center">
