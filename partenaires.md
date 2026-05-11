@@ -41,6 +41,16 @@ their presence alongside us.
   </div>
 </div>
 
+<div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <div class="col-md-4 col-sm-12">
+     <div style="text-align: center;">
+       <a href="https://www.navicat.com/" target="_blank">
+         <img src="/img/navicat.png" alt="Navicat" class="img-responsive" style="max-height: 150px; margin: 0 auto;" />
+       </a>
+     </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-lg-12 text-center">
     <h3 style="margin-top: 40px; margin-bottom: 30px; color: #336791;">Community Sponsor</h3>
@@ -73,21 +83,13 @@ their presence alongside us.
   </div>
 </div>
 
+<!--
 <div class="row">
   <div class="col-lg-12 text-center">
     <h3 style="margin-top: 40px; margin-bottom: 30px; color: #cd7f32;">Bronze Sponsors</h3>
   </div>
 </div>
-
-<div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <div class="col-md-12 col-sm-12">
-     <div style="text-align: center;">
-       <a href="https://www.navicat.com/" target="_blank">
-         <img src="/img/navicat.png" alt="Navicat" class="img-responsive" style="max-height: 100px; margin: 0 auto;" />
-       </a>
-     </div>
-  </div>
-</div>
+-->
 
 <div class="row">
   <div class="col-lg-12 text-center">
@@ -180,7 +182,7 @@ their presence alongside us.
     <li><span class="label label-success">Bronze : Illimité</span></li>
     <li><span class="label label-success">Silver : Illimité</span></li>
     <li><span class="label label-danger">Community Sponsor : Épuisé</span></li>
-    <li><span class="label label-warning">Gold : 2 tickets disponibles</span></li>
+    <li><span class="label label-warning">Gold : 1 ticket disponible</span></li>
   </ul>
 </div>
 
@@ -259,7 +261,7 @@ Pour toute demande, veuillez nous contacter à l'adresse **contact@pgday.fr**.
     <li><span class="label label-success">Bronze: Unlimited</span></li>
     <li><span class="label label-success">Silver: Unlimited</span></li>
     <li><span class="label label-danger">Community Sponsor: Sold Out</span></li>
-    <li><span class="label label-warning">Gold: 2 tickets available</span></li>
+    <li><span class="label label-warning">Gold: 1 ticket available</span></li>
   </ul>
 </div>
 
