@@ -229,7 +229,7 @@ layout: default
   </div>
   <div class="schedule_desc">
     <h3>Domain‑Driven Design, ORMs, et Developer Experience avec PostgreSQL (FR)</h3>
-    <p>Par <a href="/orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - MongoDB</p>
+    <p>Par <a href="/orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - Microsoft</p>
     <p>Les bases relationnelles ont été conçues pour être centrales et inclure la logique métier, partagées par plusieurs applications via schémas normalisés, contraintes d’intégrité et procédures stockées. Aujourd’hui, les architectures orientées services dominent : chaque équipe gère son service, son domaine fonctionnel et utilise souvent une base dédiée. Avec le DDD, la logique métier est dans l’application. PostgreSQL reste un bon candidat pour le modèle « une base par service », via un ORM ou avec des agrégats stockés en JSONB. Le but de cette session est de mieux comprendre le développement d’applications modernes et de faciliter la communication Dev- DBA.</p>
   </div>
 </div>
