@@ -33,7 +33,7 @@ layout: default
     <p>Lorsque l'on évoque la performance d'une instance PostgreSQL, il vient toujours le moment où l'on doit régler le nombre de connexions que l'instance peut accepter. Pour quelles raisons cette question est-elle encore présente de nos jours, alors nos systèmes n'ont jamais eu autant de ressources, que nos applications doivent accepter un grand nombre d'utilisateurs et que nous devons tout de même limiter les connexions. En d'autres termes, comment « scaler » ou faire monter en charge notre instance PostgreSQL ?<br/>C'est à ce moment-là que PgBouncer rentre en lice : en se mettant entre l'application et l'instance PostgreSQL, il joue le rôle d'amortisseur et permet d'optimiser l'utilisation des ressources.<br/>Cet atelier apporte les explications sur les raisons qui font qu'un gestionnaire de connexion est nécessaire pour servir un grand nombre de connexions simultanées avec PostgreSQL.<br/>Nous mettrons en œuvre les principes utilisés par PgBouncer pour servir ces nombreuses connexions : les pools, les modes de pooling, la gestion de l'authentification des connexions, ainsi que la supervision afin de mettre en évidence les qualités d'un des composants les plus plébiscités de l'écosystème PostgreSQL.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   <p>
-  <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops//LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
+  <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
   </p>
   </div>
 </div>
@@ -96,6 +96,9 @@ layout: default
     <p>Par <a href="/orateurs#j_acroute" class="pg_speaker_name">Julien Acroute</a> - <a href="https://www.camptocamp.com/">camptocamp</a></p>
     <p>Dans nos workflows de développement, le chemin de promotion du code est désormais bien balisé. Pourtant, dès qu'on parle de données, tout se complique : le chemin inverse (Prod -> Dev) reste souvent le parent pauvre de l’automatisation. Rafraîchir une base de développement rime encore trop souvent avec "ouverture de ticket", "restauration lente" ou compromis sur la confidentialité des données. Cette session propose une mise en pratique d'un rafraîchissement à la demande avec CloudNativePG et postgresql_anonymizer. Elle prouve qu'avec les bons outils, on peut offrir des environnements de test fidèles et anonymisés en quelques secondes.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
+  <p>
+  <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/CAMPTOCAMP_DALIBO_2026-PGDAYFR-CNPG_PGA.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
+  </p>
   </div>
 </div>
 
