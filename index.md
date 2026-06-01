@@ -89,6 +89,11 @@ Stay tuned for more details and the opening of registrations.
         </a>
       </div>
       <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
+        <a href="https://www.navicat.com/" target="_blank">
+          <img src="/img/navicat.png" alt="Navicat" style="max-height: 50px;" />
+        </a>
+      </div>
+      <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
         <a href="https://loxodata.com/" target="_blank">
           <img src="/img/loxodata.png" alt="Loxodata" style="max-height: 80px;" />
         </a>
@@ -99,8 +104,8 @@ Stay tuned for more details and the opening of registrations.
         </a>
       </div>
       <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">
-        <a href="https://www.navicat.com/" target="_blank">
-          <img src="/img/navicat.png" alt="Navicat" style="max-height: 50px;" />
+        <a href="https://https://www.data-bene.io/" target="_blank">
+          <img src="/img/databene.png" alt="Data Bene" style="max-height: 60px;" />
         </a>
       </div>
       <div style="display: inline-block; vertical-align: middle; margin: 10px 20px;">

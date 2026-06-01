@@ -93,7 +93,7 @@ their presence alongside us.
   <div class="col-md-12 col-sm-12">
      <div style="text-align: center;">
        <a href="https://www.data-bene.io/" target="_blank">
-         <img src="/img/databene.png" alt="Data Bene" class="img-responsive" style="max-height: 120px; margin: 0 auto;" />
+         <img src="/img/databene.png" alt="Data Bene" class="img-responsive" style="max-height: 60px; margin: 0 auto;" />
        </a>
      </div>
   </div>
