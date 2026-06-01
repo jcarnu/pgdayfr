@@ -8,7 +8,7 @@ layout: default
     <div class="col-lg-12">
       <h1 style="margin-bottom: 20px;">Inscription / Registration</h1>
 
-<--
+<!--
       <p class="lead">
         Rejoignez-nous à Toulouse pour le PG Day France 2026.<br>
         <em>Join us in Toulouse for PG Day France 2026.</em>
@@ -44,7 +44,7 @@ layout: default
           </p>
         </div>
 
-<--
+<!--
 
         <a href="https://www.eventbrite.fr/e/billets-pg-day-france-2026-1981416495075?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" class="btn btn-primary btn-lg btn-block" target="_blank" style="padding: 20px; font-size: 1.5em;">
           S'inscrire à l'événement <br>
