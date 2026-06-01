@@ -77,19 +77,27 @@ their presence alongside us.
   <div class="col-md-12 col-sm-12">
      <div style="text-align: center;">
        <a href="https://www.leboncoin.fr/" target="_blank">
-         <img src="/img/leboncoin.png" alt="LeBonCoin" class="img-responsive" style="max-height: 120px; margin: 0 auto;" />
+         <img src="/img/leboncoin.png" alt="LeBonCoin" class="img-responsive" style="max-height: 150px; margin: 0 auto;" />
        </a>
      </div>
   </div>
 </div>
 
-<!--
 <div class="row">
   <div class="col-lg-12 text-center">
     <h3 style="margin-top: 40px; margin-bottom: 30px; color: #cd7f32;">Bronze Sponsors</h3>
   </div>
 </div>
--->
+
+<div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <div class="col-md-12 col-sm-12">
+     <div style="text-align: center;">
+       <a href="https://www.data-bene.io/" target="_blank">
+         <img src="/img/databene.png" alt="Data Bene" class="img-responsive" style="max-height: 120px; margin: 0 auto;" />
+       </a>
+     </div>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-lg-12 text-center">
