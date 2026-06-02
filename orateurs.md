@@ -164,9 +164,9 @@ layout: default
   </div>
   <div class="col-md-8">
     <h3>Franck Pachot</h3>
-    <span class="role">MongoDB</span>
+    <span class="role">Microsoft</span>
     <p>
-      Franck is a Developer Advocate at MongoDB and an AWS Data Hero. Previously at YugabyteDB (distributed PostgreSQL), he has extensive experience in database consulting for development and operations teams, with a focus on developer experience, data modeling, and performance troubleshooting.
+      Franck is a Developer Advocate at Microsoft with extensive experience in database consulting for both development and operations teams, and in developer relations. Passionate about improving the developer experience, he loves data modeling, performance troubleshooting, and highly available deployments. He holds several certifications, including Oracle Certified Master and MongoDB Certified Associate Data Modeler, and is a recognized expert in PostgreSQL and YugabyteDB. He has also been acknowledged by Amazon as an AWS Data Hero.
     </p>
     <p>
       Présentation:

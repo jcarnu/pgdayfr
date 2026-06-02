@@ -16,10 +16,9 @@ title: Code de Conduite
 
 ## Contact en cas d'incident
 
-Si vous êtes témoin ou victime d'un comportement inapproprié, voici les points de contact pour signaler un problème pendant ou après l'événement :
-
-* Anthony Nowocien - 06 33 63 16 63
-* <contact@pgday.fr>
+Si vous êtes témoin ou victime d'un comportement inapproprié, ou pour nous
+signaler tout problème pendant ou après l'événement, merci de nous écrire par
+mail sur <contact@pgday.fr>. 
 
 ## Version complète
 
