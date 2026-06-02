@@ -87,6 +87,7 @@ layout: default
     <p>Par <a href="/orateurs#m_cornillon" class="pg_speaker_name">Matt Cornillon</a> - <a href="https://www.google.com/">Google</a></p>
     <p>Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM. Au programme: - Architecture MCP : Liaison entre l'IA et le moteur SQL. - SQL as a Tool : Transformer vos requêtes en capacités cognitives. - Sécurité & Gouvernance : Maîtriser l'accès aux données (RLS, vues, permissions). Cas pratique : Création d'un agent expert météo capable d'analyser vos historiques climatiques et de répondre aux questions des utilisateurs directement depuis vos tables.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
+    <p><a href='https://github.com/Matthieu68857/pgdayfr_2026_workshop'>Les instructions de l'atelier</a></p>
   </div>
 </div>
 
