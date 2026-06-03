@@ -34,7 +34,7 @@ layout: default
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   <p>
   <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops//LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
-  <b></br><a target="_blank" href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/-/raw/main/2026-pgdayfr-pgouncer-workshop.pdf?ref_type=heads&inline=true">télécharger le support de l'atelier</a>.</b>
+  <b></br><a target="_blank" href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/-/raw/main/2026-pgdayfr-pgobuncer-workshop.pdf?ref_type=heads&inline=true">télécharger le support de l'atelier</a>.</b>
   </p>
   </div>
 </div>
