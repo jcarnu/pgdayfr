@@ -81,9 +81,6 @@ their presence alongside us.
        </a>
      </div>
   </div>
-</div>
-
-<div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
   <div class="col-md-12 col-sm-12">
      <div style="text-align: center;">
        <a href="https://www.maif.fr/" target="_blank">
