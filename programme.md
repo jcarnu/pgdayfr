@@ -247,6 +247,11 @@ layout: default
     <h3>Workload Fingerprints: The precision metric for autonomous PostgreSQL tuning (EN)</h3>
     <p>Par <a href="/orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBtune</p>
     <p>A PostgreSQL database is a sea of noise. Traditional performance indicators miss shifting query frequencies or transient background tasks. This session explores the Workload Fingerprint, a novel observability approach providing the granular accuracy required for autonomous optimization. We will deconstruct this methodology to answer the hard questions of production tuning: prioritizing truly critical queries, isolating environmental noise, blending diverse data into a stable baseline, and verifying persistent performance gains. This talk offers a roadmap for moving from "gut-feel" tuning to a fingerprint-based methodology that ensures every optimization is a step in the right direction.</p>
+    <p>
+      <b>
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://www.dbtune.com/presentations/view/workload-fingerprints-the-precision-metric-for-autonomous-postgresql-tuning">&nbsp;Télécharger les slides</a>.<br/>
+        </b>
+    </p>
   </div>
 </div>
 
