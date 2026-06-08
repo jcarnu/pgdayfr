@@ -37,7 +37,7 @@ layout: default
       <br/>
       <b>
         <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/-/raw/main/2026-pgdayfr-pgobuncer-workshop.pdf?ref_type=heads&inline=true">télécharger le support de l'atelier</a>.<br/>
-        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/">Lien vers le depôt des source de l'atelier</a>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/">Lien vers le depôt des sources de l'atelier</a>
       </b>
   </p>
   </div>
@@ -94,7 +94,7 @@ layout: default
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
     <p>
       <b>
-        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Matthieu68857/pgdayfr_2026_workshop">Lien vers le depôt des source de l'atelier</a>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Matthieu68857/pgdayfr_2026_workshop">Lien vers le depôt des sources de l'atelier</a>
       </b>
 
     </p>
@@ -116,7 +116,7 @@ layout: default
   <br/>
    <b>
         <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/blob/main/slides/slides.pdf">télécharger le support de l'atelier</a>.<br/>
-        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/">Lien vers le depôt des source de l'atelier</a>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/">Lien vers le depôt des sources de l'atelier</a>
       </b>
 
 
