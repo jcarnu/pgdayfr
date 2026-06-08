@@ -33,10 +33,11 @@ layout: default
     <p>Lorsque l'on évoque la performance d'une instance PostgreSQL, il vient toujours le moment où l'on doit régler le nombre de connexions que l'instance peut accepter. Pour quelles raisons cette question est-elle encore présente de nos jours, alors nos systèmes n'ont jamais eu autant de ressources, que nos applications doivent accepter un grand nombre d'utilisateurs et que nous devons tout de même limiter les connexions. En d'autres termes, comment « scaler » ou faire monter en charge notre instance PostgreSQL ?<br/>C'est à ce moment-là que PgBouncer rentre en lice : en se mettant entre l'application et l'instance PostgreSQL, il joue le rôle d'amortisseur et permet d'optimiser l'utilisation des ressources.<br/>Cet atelier apporte les explications sur les raisons qui font qu'un gestionnaire de connexion est nécessaire pour servir un grand nombre de connexions simultanées avec PostgreSQL.<br/>Nous mettrons en œuvre les principes utilisés par PgBouncer pour servir ces nombreuses connexions : les pools, les modes de pooling, la gestion de l'authentification des connexions, ainsi que la supervision afin de mettre en évidence les qualités d'un des composants les plus plébiscités de l'écosystème PostgreSQL.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   <p>
-  <br/>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops//LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.<br/>
+  <br/>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops//LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.
+      <br/>
       <b>
         <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/-/raw/main/2026-pgdayfr-pgobuncer-workshop.pdf?ref_type=heads&inline=true">télécharger le support de l'atelier</a>.<br/>
-        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/">Lien vers le depôt des source de l'aterlier</a>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/">Lien vers le depôt des source de l'atelier</a>
       </b>
   </p>
   </div>
@@ -91,6 +92,12 @@ layout: default
     <p>Par <a href="/orateurs#m_cornillon" class="pg_speaker_name">Matt Cornillon</a> - <a href="https://www.google.com/">Google</a></p>
     <p>Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM. Au programme: - Architecture MCP : Liaison entre l'IA et le moteur SQL. - SQL as a Tool : Transformer vos requêtes en capacités cognitives. - Sécurité & Gouvernance : Maîtriser l'accès aux données (RLS, vues, permissions). Cas pratique : Création d'un agent expert météo capable d'analyser vos historiques climatiques et de répondre aux questions des utilisateurs directement depuis vos tables.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
+    <p>
+      <b>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Matthieu68857/pgdayfr_2026_workshop">Lien vers le depôt des source de l'atelier</a>
+      </b>
+
+    </p>
   </div>
 </div>
 
@@ -109,7 +116,7 @@ layout: default
   <br/>
    <b>
         <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/blob/main/slides/slides.pdf">télécharger le support de l'atelier</a>.<br/>
-        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/">Lien vers le depôt des source de l'aterlier</a>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/">Lien vers le depôt des source de l'atelier</a>
       </b>
 
 
