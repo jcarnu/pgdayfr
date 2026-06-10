@@ -33,7 +33,12 @@ layout: default
     <p>Lorsque l'on évoque la performance d'une instance PostgreSQL, il vient toujours le moment où l'on doit régler le nombre de connexions que l'instance peut accepter. Pour quelles raisons cette question est-elle encore présente de nos jours, alors nos systèmes n'ont jamais eu autant de ressources, que nos applications doivent accepter un grand nombre d'utilisateurs et que nous devons tout de même limiter les connexions. En d'autres termes, comment « scaler » ou faire monter en charge notre instance PostgreSQL ?<br/>C'est à ce moment-là que PgBouncer rentre en lice : en se mettant entre l'application et l'instance PostgreSQL, il joue le rôle d'amortisseur et permet d'optimiser l'utilisation des ressources.<br/>Cet atelier apporte les explications sur les raisons qui font qu'un gestionnaire de connexion est nécessaire pour servir un grand nombre de connexions simultanées avec PostgreSQL.<br/>Nous mettrons en œuvre les principes utilisés par PgBouncer pour servir ces nombreuses connexions : les pools, les modes de pooling, la gestion de l'authentification des connexions, ainsi que la supervision afin de mettre en évidence les qualités d'un des composants les plus plébiscités de l'écosystème PostgreSQL.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   <p>
-  <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
+  <br/>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops//LOXODATA_2026-PGDAYFR-PGBOUNCER.pdf">Télécharger la fiche de l'atelier en cliquant ici</a>.
+      <br/>
+      <b>
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/-/raw/main/2026-pgdayfr-pgobuncer-workshop.pdf?ref_type=heads&inline=true">Télécharger le support de l'atelier</a>.<br/>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://gitlab.com/loxo-trainings/2026-pgdayfr-pgbouncer/">Lien vers le depôt des sources de l'atelier</a>
+      </b>
   </p>
   </div>
 </div>
@@ -49,7 +54,7 @@ layout: default
     <p>Cet atelier est consacré au framework PGRX, un environnement de développement qui facilite la conception d'extensions PostgreSQL avec le langage Rust. Avec une succession d'exercices concrets et progressifs, nous verrons les avantages du langage Rust pour intégrer du code au plus près de vos données.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
     <p>
-      <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/DALIBO_2026-PGDAYFR-PGRX.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.
+      <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/DALIBO_2026-PGDAYFR-PGRX.pdf">Télécharger la fiche de l'atelier en cliquant ici</a>.
      </b>
     </p>
   </div>
@@ -87,7 +92,12 @@ layout: default
     <p>Par <a href="/orateurs#m_cornillon" class="pg_speaker_name">Matt Cornillon</a> - <a href="https://www.google.com/">Google</a></p>
     <p>Dans cet atelier pratique, bâtissez de bout en bout un agent IA s'appuyant sur PostgreSQL. L'objectif : déployer un serveur MCP pour exposer vos fonctions et requêtes SQL comme des outils ("tools") actionnables par un LLM. Au programme: - Architecture MCP : Liaison entre l'IA et le moteur SQL. - SQL as a Tool : Transformer vos requêtes en capacités cognitives. - Sécurité & Gouvernance : Maîtriser l'accès aux données (RLS, vues, permissions). Cas pratique : Création d'un agent expert météo capable d'analyser vos historiques climatiques et de répondre aux questions des utilisateurs directement depuis vos tables.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
-    <p><a href='https://github.com/Matthieu68857/pgdayfr_2026_workshop'>Les instructions de l'atelier</a></p>
+    <p>
+      <b>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Matthieu68857/pgdayfr_2026_workshop">Lien vers le depôt des sources de l'atelier</a>
+      </b>
+
+    </p>
   </div>
 </div>
 
@@ -102,7 +112,14 @@ layout: default
     <p>Dans nos workflows de développement, le chemin de promotion du code est désormais bien balisé. Pourtant, dès qu'on parle de données, tout se complique : le chemin inverse (Prod -> Dev) reste souvent le parent pauvre de l’automatisation. Rafraîchir une base de développement rime encore trop souvent avec "ouverture de ticket", "restauration lente" ou compromis sur la confidentialité des données. Cette session propose une mise en pratique d'un rafraîchissement à la demande avec CloudNativePG et postgresql_anonymizer. Elle prouve qu'avec les bons outils, on peut offrir des environnements de test fidèles et anonymisés en quelques secondes.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
   <p>
-  <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/CAMPTOCAMP_DALIBO_2026-PGDAYFR-CNPG_PGA.pdf">télécharger la fiche de l'atelier en cliquant ici</a>.</b>
+  Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/CAMPTOCAMP_DALIBO_2026-PGDAYFR-CNPG_PGA.pdf">Télécharger la fiche de l'atelier en cliquant ici</a>.
+  <br/>
+   <b>
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/blob/main/slides/slides.pdf">Télécharger le support de l'atelier</a>.<br/>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://github.com/Vampouille/cloudnative-pg-anonymizer-lab/">Lien vers le depôt des sources de l'atelier</a>
+      </b>
+
+
   </p>
   </div>
 </div>
@@ -230,6 +247,11 @@ layout: default
     <h3>Workload Fingerprints: The precision metric for autonomous PostgreSQL tuning (EN)</h3>
     <p>Par <a href="/orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - DBtune</p>
     <p>A PostgreSQL database is a sea of noise. Traditional performance indicators miss shifting query frequencies or transient background tasks. This session explores the Workload Fingerprint, a novel observability approach providing the granular accuracy required for autonomous optimization. We will deconstruct this methodology to answer the hard questions of production tuning: prioritizing truly critical queries, isolating environmental noise, blending diverse data into a stable baseline, and verifying persistent performance gains. This talk offers a roadmap for moving from "gut-feel" tuning to a fingerprint-based methodology that ensures every optimization is a step in the right direction.</p>
+    <p>
+      <b>
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://www.dbtune.com/presentations/view/workload-fingerprints-the-precision-metric-for-autonomous-postgresql-tuning">&nbsp;Télécharger les slides</a>.<br/>
+        </b>
+    </p>
   </div>
 </div>
 
@@ -242,6 +264,12 @@ layout: default
     <h3>Domain‑Driven Design, ORMs, et Developer Experience avec PostgreSQL (FR)</h3>
     <p>Par <a href="/orateurs#f_pachot" class="pg_speaker_name">Franck Pachot</a> - Microsoft</p>
     <p>Les bases relationnelles ont été conçues pour être centrales et inclure la logique métier, partagées par plusieurs applications via schémas normalisés, contraintes d’intégrité et procédures stockées. Aujourd’hui, les architectures orientées services dominent : chaque équipe gère son service, son domaine fonctionnel et utilise souvent une base dédiée. Avec le DDD, la logique métier est dans l’application. PostgreSQL reste un bon candidat pour le modèle « une base par service », via un ORM ou avec des agrégats stockés en JSONB. Le but de cette session est de mieux comprendre le développement d’applications modernes et de faciliter la communication Dev- DBA.</p>
+    <p>
+      <b>
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span>&nbsp;<a target="_blank" href="https://drive.proton.me/urls/G6XH2J6FCM#2M1OBoXuqTk5">&nbsp;Télécharger les slides</a>.<br/>
+        </b>
+    </p>
+
   </div>
 </div>
 
