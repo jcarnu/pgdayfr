@@ -74,13 +74,22 @@ their presence alongside us.
 </div>
 
 <div class="row display-flex" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <div class="col-md-12 col-sm-12">
+  <div class="col-md-3 col-sm-12"></div>
+  <div class="col-md-3 col-sm-12">
      <div style="text-align: center;">
        <a href="https://www.leboncoin.fr/" target="_blank">
          <img src="/img/leboncoin.png" alt="LeBonCoin" class="img-responsive" style="max-height: 150px; margin: 0 auto;" />
        </a>
      </div>
   </div>
+  <div class="col-md-3 col-sm-12">
+     <div style="text-align: center;">
+       <a href="https://www.maif.fr/" target="_blank">
+         <img src="/img/Logo_Maif_2019.svg.png" alt="MAIF" class="img-responsive" style="max-height: 150px; margin: 0 auto;" />
+       </a>
+     </div>
+  </div>
+  <div class="col-md-3 col-sm-12"></div>
 </div>
 
 <div class="row">
